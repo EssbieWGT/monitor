@@ -1,0 +1,162 @@
+<html>
+<head>
+<title>Influencer Monitoring</title>
+<link rel="stylesheet" type="text/css" href="./eb0.css">
+<script src="https://d3js.org/d3.v4.js"></script>
+<script>
+
+  // load the data
+    d3.queue()
+      .defer(d3.csv, 'topics.csv')
+      .await(analyze);
+
+      function analyze(error, topics) {
+        if(error) { console.log(error); }
+
+        function sortByDateAscending(a, b) {
+            // Dates will be cast to numbers automagically:
+            return new Date(b.date) - new Date(a.date);
+        }
+
+        topics = topics.sort(sortByDateAscending);
+
+              topics.forEach(function(data){
+
+                if (data.chamber != "House"){
+                  var chamber = "Senate"
+                } else {
+                  var chamber = "House"
+                }
+
+                var selector = "#"+chamber+data.platform
+
+                d3.selectAll(selector)
+                .append("table")
+                .style("width","90%")
+                .style("text-align","left")
+                .append("tr")
+                .style("border-bottom","1px solid #ddd")
+                .each(function(d){
+                  d3.select(this)
+                  .append("td")
+                  .style("max-width","1")
+                  .html('<span></span>');
+                  d3.select(this)
+                  // .append("tr")
+                  .append("td")
+                  .style('line-height',"1")
+                  // .style("width","800")
+                  .style("padding","15px")
+                  .html('<td><small class="text_muted">' + data.chamber + '<br><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.name + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a><br> State: ' + data.state + ' | Party: ' + data.party + '<br></small></br><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><hr>' );
+                  d3.select(this)
+                  .append("td")
+                  .style("max-width","150")
+                  .html('<img src="'+ data.photos + '" width="150"><td>');
+                })
+              })
+
+
+              // iFB.forEach(function(data){
+              //   d3.selectAll("#infFB")
+              //   .append("table")
+              //   .style("width","90%")
+              //   .style("text-align","left")
+              //   .append("tr")
+              //   .style("border-bottom","1px solid #ddd")
+              //   .each(function(d){
+              //     // d3.select(this)
+              //     // .append("td")
+              //     // .style("max-width","150")
+              //     // .html('<img src="'+ data.profileImage + '" width="75"><td>');
+              //     d3.select(this)
+              //     // .append("tr")
+              //     .append("td")
+              //     .style('line-height',"1")
+              //     // .style("width","800")
+              //     // .style("padding","15px")
+              //     .html('<small class="text_muted"><a href="' + data.post_url + '"target="_blank">' + data.username + '</a> | ' + new Date(data.time).toLocaleString() + '| <a href="' + data.post_url  + '"target="_blank">' + 'Link  </a></small></br><p style="font-weight:normal;">' + data.text + '</p><small class="text_muted">' + 'Liked: ' + data.likes +' | Shares: ' + data.shares + ' | Comments: ' + data.comments  + "<br>" + data.type + " | " + data.class + '</small><hr>' );
+              //     d3.select(this)
+              //     .append("td")
+              //     .style("max-width","150")
+              //     .html('<img src="'+ data.image + '" width="150"><td>');
+              //   })
+              // })
+              //
+              // laTweet.forEach(function(data){
+              //
+              //   d3.select("#laT")
+              //   .append("table")
+              //   .style("width","80%")
+              //   .style("text-align","left")
+              //   .append("tr")
+              //   .style("border-bottom","1px solid #ddd")
+              //   .each(function(d){
+              //     // d3.select(this)
+              //     // .append("td")
+              //     // .style("max-width","150")
+              //     // .html('<img src="'+ data.profileImage + '" width="75"><td>');
+              //     d3.select(this)
+              //     // .append("tr")
+              //     .append("td")
+              //     .style('line-height',"1")
+              //     .style("max-width","80%")
+              //     .style("padding","15px")
+              //     .html('<small class="text_muted"><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.handle + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a></small></br><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + 'Liked: ' + data.likeCount +' | Quoted: ' + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '<br>' + data.type + ' | ' + data.class + '</small><hr>' );
+              //     d3.select(this)
+              //     .append("td")
+              //     .style("max-width","20%")
+              //     .html('<img src="'+ data.photos + '" width="150"><td>');
+              //   })
+              // })
+              //
+              // laFB.forEach(function(data){
+              //   d3.selectAll("#laFB")
+              //   .append("table")
+              //   .style("width","90%")
+              //   .style("text-align","left")
+              //   .append("tr")
+              //   .style("border-bottom","1px solid #ddd")
+              //   .each(function(d){
+              //     // d3.select(this)
+              //     // .append("td")
+              //     // .style("max-width","150")
+              //     // .html('<img src="'+ data.profileImage + '" width="75"><td>');
+              //     d3.select(this)
+              //     // .append("tr")
+              //     .append("td")
+              //     .style('line-height',"1")
+              //     // .style("width","800")
+              //     // .style("padding","15px")
+              //     .html('<small class="text_muted"><a href="' + data.post_url + '"target="_blank">' + data.username + '</a> | ' + new Date(data.time).toLocaleString() + '| <a href="' + data.post_url  + '"target="_blank">' + 'Link  </a></small></br><p style="font-weight:normal;">' + data.text + '</p><small class="text_muted">' + 'Liked: ' + data.likes +' | Shares: ' + data.shares + ' | Comments: ' + data.comments  + "<br>" + data.type + " | " + data.class + '</small><hr>' );
+              //     d3.select(this)
+              //     .append("td")
+              //     .style("max-width","150")
+              //     .html('<img src="'+ data.image + '" width="150"><td>');
+              //   })
+              // })
+
+
+}
+
+        </script>
+    </head>
+    <body>
+        <!-- <button onclick="getTime()">Click to get time</button> -->
+        <div class="containerwgt" style="width:90%">
+        <h3>Senate Content:</h3>
+        <div class="grid-container" id="inf">
+        <div><h3>Tweets</h3>
+          <div class="innerGrid" id="SenateTwitter"> </div></div>
+        <div><h3>Facebook</h3>
+          <div class="innerGrid" id="SenateFacebook"> </div></div>
+        </div>
+
+        <h3>House Content:</h3>
+        <div class="grid-container" id="la">
+        <div><h3>Tweets</h3>
+          <div class="innerGrid" id="HouseTwitter"> </div></div>
+        <div><h3>Facebook</h3>
+            <div class="innerGrid" id="HouseFacebook"> </div></div>
+          </div>
+    </body>
+<html>
