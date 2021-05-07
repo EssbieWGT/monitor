@@ -56,8 +56,8 @@
         "urlRe": 177.0
     },
     {
-        "combo": 119.0,
-        "count": 4,
+        "combo": 142.0,
+        "count": 5,
         "date": null,
         "description": "On Thursday, May 6, 2021 at 11:00 a.m. E.T., Rep. Carolyn B. Maloney, the Chairwoman of the Committee on Oversight and Reform, and Committee Member Rep. Robi...",
         "domain": "YouTube",
@@ -67,7 +67,7 @@
         "sourceUrl": "https://www.youtube.com/watch?v=BYWkbhRriCY",
         "title": "Birthing While Black: Examining America\u2019s Black Maternal Health Crisis",
         "todayURLs": "https://youtu.be/BYWkbhRriCY",
-        "urlRe": 115.0
+        "urlRe": 137.0
     },
     {
         "combo": 97.0,
@@ -264,6 +264,20 @@
         "title": "Why won\u2019t this giant oil pipeline reveal its secret backers?",
         "todayURLs": "https://www.theguardian.com/us-news/2021/may/04/canada-trans-mountain-oil-pipeline-backers",
         "urlRe": 33.0
+    },
+    {
+        "combo": 32.0,
+        "count": 1,
+        "date": null,
+        "description": "A Texas Democrat who has been critical of Biden administration policies at the U.S.-Mexico border lashed out this week, accusing the administration of posting misleading photos from a migrant processing facility.",
+        "domain": "Fox News",
+        "photo": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/bddb9bbb-Conditions-as-of-April-30-1.jpg",
+        "s_url_x": "https://www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door",
+        "s_url_y": "https://www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door",
+        "sourceUrl": "https://www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door",
+        "title": "Biden admin\u2019s photos of empty migrant facility are misleading, Texas Democrat says: \u2018They\u2019re just next door\u2019",
+        "todayURLs": "https://www.foxnews.com/politics/biden-admins-photos-of-empty-migrant-facility-are-misleading-texas-democrat-says-theyre-just-next-door",
+        "urlRe": 31.0
     },
     {
         "combo": 31.0,
