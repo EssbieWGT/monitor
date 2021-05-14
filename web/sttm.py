@@ -38,7 +38,7 @@ docs = df["toke"]
 import random
 random.seed(1000)
 # Train STTM model
-K = 35
+K = 27
 mgp = MovieGroupProcess(K, alpha=0, beta=0.01, n_iters=50)
 
 vocab = set(x for doc in docs for x in doc)
