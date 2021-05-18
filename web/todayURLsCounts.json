@@ -1,763 +1,723 @@
 [
     {
         "count": 4,
-        "todayURLs": "https://www.fcc.gov/broadbandbenefit"
+        "todayURLs": "https://www.washingtonpost.com/us-policy/2021/05/17/biden-child-tax-benefit/"
     },
     {
         "count": 4,
-        "todayURLs": "http://fcc.gov/broadbandbenefit"
-    },
-    {
-        "count": 3,
-        "todayURLs": "http://getemergencybroadband.org/"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.nydailynews.com/news/politics/us-elections-government/ny-carolyn-maloney-testimony-capitol-riot-trump-20210512-khxfeorlpzaavk7hsz4mmjtcnm-story.html"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://thehill.com/homenews/house/553227-gop-downplays-jan-6-violence-like-a-normal-tourist-visit"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://getemergencybroadband.org/"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://republicans-edlabor.house.gov/news/documentsingle.aspx?DocumentID=407478"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://youtu.be/UmkzbWNlcGU"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.usatoday.com/story/news/politics/2021/05/10/local-governments-receive-billions-covid-stimulus-plan-may-11/5019387001/"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.cnn.com/2021/05/05/health/teens-covid-vaccine-questions-answered-wellness/index.html"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.dailyherald.com/news/20210506/85-of-illinoisans-65-and-older-have-received-at-least-one-covid-19-vaccine-dose"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://krishnamoorthi.house.gov/media/press-releases/illinois-receive-first-installment-billions-coronavirus-state-and-local-fiscal"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.foxnews.com/world/israeli-airstrike-kills-top-hamas-commander-as-netanyahu-vows-iron-fist-if-needed"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.sba-list.org/newsroom/press-releases/hhs-secretary-xavier-becerra-denies-existing-law-banning-gruesome-partial-birth-abortion"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://kustoff.house.gov/media/press-releases/kustoff-re-introduces-restoring-armed-career-criminal-act"
-    },
-    {
-        "count": 2,
-        "todayURLs": "http://TrentKelly.house.gov/"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://HealthCare.gov/"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://www.thedailybeast.com/ex-acting-defense-secretary-chris-miller-testifies-in-house-hearing-on-capitol-riot"
-    },
-    {
-        "count": 2,
-        "todayURLs": "https://cooper.house.gov/media-center/press-releases/rep-jim-cooper-announces-leadership-transition-and-new-staff-roles"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://thehill.com/blogs/congress-blog/politics/553029-republicans-welcome-the-chance-to-work-with-democrats-on-a"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://hosted.ap.org/article/415bef8de782dabc12520c9047ff5865/decision-minuteman-shape-us-nuclear-policy-decades"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.crapo.senate.gov/media/newsreleases/crapo-to-strengthen-economy-we-must-fully-reopen-and-execute-an-ambitious-trade-policy"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://youtu.be/IG0nib76v40"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://weartv.com/news/local/florida-gov-desantis-declares-state-of-emergency-due-to-colonial-pipeline-shutdown?fbclid=IwAR207iySnjSeY-lOdWbzzvrQbVqFsYMjUTLwTVvSW_17R3SSZDXcKA-re-A"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://youtu.be/WcKQNZxy04E"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/replizcheney/status/1392279216364871683"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.nationalreview.com/news/consumer-price-index-sees-largest-yearly-increase-since-2008-as-evidence-of-inflation-mounts/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://oversight.house.gov/legislation/hearings/the-capitol-insurrection-unexplained-delays-and-unanswered-questions"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/RulesReps/status/1392569959361007617"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/USUN/status/1392227664748978176"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/CNNPolitics/status/1392145987309903874"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://homeland.house.gov/news/legislation/clarke-garbarino-katko-kilmer-mccaul-ruppersberger-thompson-introduce-bipartisan-legislation-to-help-state-and-local-governments-secure-their-networks-"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/RepBrianMast/status/1392566653041397767"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.foxnews.com/politics/rolling-to-remember-veterans-rfk-stadium"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.al.com/news/2021/05/dorothy-davidson-huntsville-business-leader-and-philanthropist-dies-after-long-illness.html"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://gop-foreignaffairs.house.gov/blog/mccaul-warns-kerry-ccp-human-rights-abuses-cannot-be-compartmentalized-for-climate-deal/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.wfla.com/8-on-your-side/burn-pit-toxins-took-life-of-tampa-bay-veteran-but-did-not-silence-husbands-fight/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/madialder/status/1392453431269416963"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/thehill/status/1392150768409628675"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://youtu.be/rYNe973SKh0"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://youtu.be/tprbfhP9-DM"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://gasprices.aaa.com/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://magicvalley.com/community/mini-cassia/acequia-student-named-state-winner-in-google-doodle-contest/article_1d6f891b-a07b-55ee-bf0d-c55b7ac66c21.html#tncms-source=signu"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.youtube.com/watch?t=7491&v=GKW1GMSmhOE&feature=youtu.be"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://aguilar.house.gov/media-center/press-releases/aguilar-announces-159-million-inland-empire-colleges-universities-and"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.cnbc.com/2021/05/10/pfizer-covid-vaccine-fda-clears-use-in-kids-ages-12-to-15.ht"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.nbcconnecticut.com/news/local/community-mourns-new-haven-firefighter-who-died-at-27/2484026/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://appalachiantrail.org/official-blog/may-11-covid-19-update/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.murkowski.senate.gov/press/release/murkowski-sullivan-urge-us-and-canada-leaders-to-advance-efforts-to-resume-cruise-ship-industry-operations-to-alaska"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://berkeleyhighjacket.com/column/on-the-shoulders-of-giants-barbara-lee/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/repcloakroom/status/1392534180257574919"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.capito.senate.gov/news/press-releases/capito-shaheen-introduce-legislation-to-invest-in-stem-education-and-strengthen-stem-workforce-through-hands-on-learning-opportunities-"
-    },
-    {
-        "count": 1,
         "todayURLs": "https://apps.irs.gov/app/freeFile/"
     },
     {
+        "count": 4,
+        "todayURLs": "https://youtu.be/tRi88-5WkFo"
+    },
+    {
+        "count": 3,
+        "todayURLs": "https://transportation.house.gov/news/press-releases/chairs-defazio-and-napolitano-statements-on-epa-oig-report-finding-decline-in-enforcement-of-nations-environmental-laws"
+    },
+    {
+        "count": 3,
+        "todayURLs": "https://appropriations.house.gov/news/press-releases/delauro-lee-statement-on-biden-administration-s-release-of-additional-vaccines"
+    },
+    {
+        "count": 3,
+        "todayURLs": "https://www.nbcnews.com/politics/white-house/monthly-child-tax-credit-payments-start-hitting-bank-accounts-july-n1267535"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://www.cnn.com/2021/05/17/politics/child-tax-credit-payments-july-15/index.html"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://accountability.gop/"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://abcnews.go.com/Politics/supreme-court-major-abortion-case-undermine-roe-wade/story?id=77735904"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://youtu.be/LfzxQ4YFAIg"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://www.nbcnews.com/politics/politics-news/sea-change-subsidies-white-house-push-leads-surge-obamacare-sign-n1267466?mkt_tok=ODUwLVRBQS01MTEAAAF9GUD7RDzVJFLeJ1gtLu01ZvTvoehrKjJ-bBjlTjMey0_paYO9cTj26I9O7SS2v2zw7rHIKS-e7vyP2CbPM-oMd8JfMaM59lxfe7zjK9iCnLOr"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://lasvegassun.com/news/2021/may/17/nevada-senator-promotes-bill-to-expand-police-peer/"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://www.cnn.com/2021/05/17/politics/supreme-court-abortion-mississippi/index.html"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://thehill.com/regulation/553843-supreme-court-takes-up-dispute-over-mississippis-15-week-abortion-ban"
+    },
+    {
+        "count": 2,
+        "todayURLs": "https://www.energy.senate.gov/hearings/2021/5/full-committee-hearing-to-consider-pending-nominations"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.eventbrite.com/e/signs-of-human-trafficking-and-how-to-react-tickets-154742538097"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.nytimes.com/2021/05/01/opinion/sunday/biden-fdr-americans.html?smtyp=cur&smid=tw-nytopinion"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://twitter.com/LGBTEqCaucus/status/1394294273013649409"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.govexec.com/management/2021/05/house-panel-advances-bipartisan-postal-overhaul-measure-usps-board-gets-new-members/174022/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://nypost.com/2021/05/15/florida-records-quantify-number-of-defections-from-ny/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.politico.com/newsletters/weekly-education"
+    },
+    {
+        "count": 1,
+        "todayURLs": "http://www.warecoveryhelpline.org/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.irs.gov/newsroom/irs-announces-tax-relief-for-texas-severe-winter-storm-victims"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://omaha.com/news/state-and-regional/air-forces-only-nuke-sniffer-jet-part-of-offutt-fleet-was-sidelined-for-two-months/article_095a3d60-b4da-11eb-b005-5f32cd648ccb.html"
+    },
+    {
+        "count": 1,
+        "todayURLs": "http://getemergencybroadband.org/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://revenue.delaware.gov/file/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.risch.senate.gov/public/index.cfm/support-local-gems"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://fortworthbusiness.com/business/tarrant-county-dedicates-law-enforcement-memorial/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.meritalk.com/articles/cisas-wales-calls-on-congress-to-require-cyber-incident-reporting/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://outreach.senate.gov/iqextranet/view_newsletter.aspx?id=104269&c=SenYoung"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.nashuatelegraph.com/news/local-news/2021/05/16/shaheen-meets-with-donchess-childcare-advocates/"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.capito.senate.gov/news/press-releases/capito-warren-re-introduce-allys-act"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://rb.gy/tkizd0"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.inhofe.senate.gov/services/students/academy-nominations"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.ext.vsu.edu/blog/2021/3/12/first-african-american-nominated-for-high-ranking-role-at-usda?format=amp&__twitter_impression=true"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://wondersofwildlife.org/vote"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://kstp.com/news/from-community-to-congress-stopping-asian-american-pacific-islander-hate-crimes/6105905/?cat=1"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.cnbc.com/2021/05/17/supreme-court-to-hear-mississippi-abortion-case-challenging-roe-v-wade.html"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.markey.senate.gov/news/press-releases/senator-markey-rep-cartwright-reintroduce-legislation-to-prepare-for-health-impacts-of-climate-change"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.heritage.org/defense/event/virtual-its-time-repeal-the-iraq-war-authorizations"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.politico.com/news/2021/05/15/hhs-covid-stockpile-money-border-migrants-488427"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://lakerlutznews.com/lln/?p=87705"
+    },
+    {
+        "count": 1,
+        "todayURLs": "https://www.pe.com/2021/05/17/masks-need-to-stay-on-indoors-in-california-until-june-15/"
+    },
+    {
         "count": 1,
-        "todayURLs": "http://GetEmergencyBroadband.Org/"
+        "todayURLs": "https://www.wptv.com/news/protecting-paradise/u-s-rep-brian-mast-warns-of-reckless-decision-making-regarding-lake-okeechobee-water-releases"
     },
     {
         "count": 1,
-        "todayURLs": "https://mast.house.gov/blog?ID=0B3A4B00-68CE-4826-9654-D4CA37440C9D"
+        "todayURLs": "https://vaccines.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.tampafp.com/pasco-edc-experience-floridas-sports-coast-team-up-for-joint-economic-celebration/"
+        "todayURLs": "https://oversight.house.gov/news/press-releases/maloney-thompson-statement-on-staff-briefing-with-colonial-pipeline"
     },
     {
         "count": 1,
-        "todayURLs": "https://mckinley.house.gov/news/documentsingle.aspx?DocumentID=3099"
+        "todayURLs": "https://www.republicanleader.gov/bruce-westerman-streamlined-regulations-that-work-for-all-americans/"
     },
     {
         "count": 1,
-        "todayURLs": "https://neal.house.gov/press-releases/neal-announces-over-75-million-local-colleges-universities-and-students"
+        "todayURLs": "https://www.ernst.senate.gov/public/index.cfm/press-releases?ID=F97C1419-CDB7-4DDC-B90A-52BB4DFDE90"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.young.senate.gov/newsroom/press-releases/youngs-endless-frontier-act-clears-the-senate-committee-on-commerce"
+        "todayURLs": "https://waow.com/2021/05/12/grant-would-give-portage-co-deputies-body-cams/"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/therecount/status/1392525883060236289"
+        "todayURLs": "https://healthcare.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.airforcemag.com/u-s-military-needs-an-ems-warfare-czar/"
+        "todayURLs": "http://www.veteranscrisisline.net', 'http://www.namicharlotte.org"
     },
     {
         "count": 1,
-        "todayURLs": "https://gov.texas.gov/smallbusiness"
+        "todayURLs": "https://www.c-span.org/video/?511808-2/house-session&playEvent&live"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/YJd3eZIT2XY"
+        "todayURLs": "https://twitter.com/ap/status/1394288577912127488"
     },
     {
         "count": 1,
-        "todayURLs": "https://asia.nikkei.com/Politics/International-relations/Bangladesh-hits-back-after-China-envoy-warns-against-joining-Quad"
+        "todayURLs": "https://necsociety.org/2021/04/17/9-things-you-need-to-know-about-nec/"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/sbagov/status/1392245634850299909"
+        "todayURLs": "https://anchor.fm/maine-better/episodes/Senator-Susan-Collins-on-Big-Infrastructure-Plans-e10o38p"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/ronwyden/status/1392612526043672578"
+        "todayURLs": "https://www.wpri.com/news/local-news/providence/after-recent-shootings-ri-leaders-and-advocates-seek-to-address-gun-violence/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.finance.senate.gov/ranking-members-news/crapo-statement-at-hearing-on-the-administrations-trade-agenda"
+        "todayURLs": "https://www.irs.gov/businesses/small-businesses-self-employed/webinars-for-small-businesses"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.wnpr.org/post/congressman-john-larson-new-plans-new-tunnels"
+        "todayURLs": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-selle-property-income-taxes-st-0518-20210517-ttqxikjuvbetvfy55y4eakcyzm-story.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/cARbvvvPYMs"
+        "todayURLs": "https://armedservices.house.gov/press-releases?ID=25402640-EBA3-4A1C-8E59-9E946AF3E8E4"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/ct-lns-lake-recovery-funds-st-0512-20210511-mn7ig3cevfab3bst22xz4rhtwu-story.html"
+        "todayURLs": "https://go.usa.gov/xHeV8"
     },
     {
         "count": 1,
-        "todayURLs": "https://energycommerce.house.gov/newsroom/press-releases/energy-and-commerce-committee-leaders-introduce-bipartisan-solutions-to"
+        "todayURLs": "https://www.irs.gov/newsroom/tax-day-for-individuals-extended-to-may-17-treasury-irs-extend-filing-and-payment-deadline?fbclid=IwAR0GFva_m-vttKC1Qkjt0OV_SppmxdK5cFeLg2_NChb69zDuCvj9flqNKiM"
     },
     {
         "count": 1,
-        "todayURLs": "https://republicans-financialservices.house.gov/calendar/eventsingle.aspx?EventID=407982"
+        "todayURLs": "https://www.nsf.gov/news/news_summ.jsp?cntn_id=302676&org=NSF&from=news"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.ready.gov/hurricanes"
+        "todayURLs": "https://rules.house.gov/sites/democrats.rules.house.gov/files/Rule_HR1629HRES275.pdf"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.hsgac.senate.gov/media/majority-media/peters-and-portman-bipartisan-legislation-to-create-significant-cyber-incident-declaration-for-major-cyber-attacks-advances-in-senate"
+        "todayURLs": "https://www.axios.com/stimulus-checks-low-income-cash-covid-da2be1a8-6110-460e-9524-c5131b5a50ef.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://republicans-veterans.house.gov/news/documentsingle.aspx?DocumentID=5836"
+        "todayURLs": "https://waysandmeans.house.gov/media-center/press-releases/chairman-neal-applauds-biden-administration-s-quick-delivery-expanded"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/UrVHy_9jKAE"
+        "todayURLs": "https://youtu.be/OgnDyZx1-9E"
     },
     {
         "count": 1,
-        "todayURLs": "https://higgins.house.gov/media-center/press-releases/higgins-highlights-child-tax-credit-changes-designed-to-help-working"
+        "todayURLs": "https://energycommerce.house.gov/newsroom/press-releases/ec-leaders-to-azar-protect-the-340b-drug-discount-program"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/AmandaRenteria/status/1392283585697107968"
+        "todayURLs": "http://irs.gov/filing/e-file-options', 'http://dor.georgia.gov/free-file-alliance"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.wsj.com/articles/uber-lyft-to-provide-free-rides-to-covid-19-vaccine-sites-until-july-4-11620745200"
+        "todayURLs": "https://republicans-veterans.house.gov/news/documentsingle.aspx?DocumentID=5841', 'https://twitter.com/HouseVetAffairs/status/1394362088747851784"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.nytimes.com/2021/05/06/upshot/obamacare-signups.html"
+        "todayURLs": "https://www.washingtonpost.com/business/2021/02/23/tax-season-faq/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.c-span.org/event/?511624/house-representatives"
+        "todayURLs": "http://bacon.house.gov"
     },
     {
         "count": 1,
-        "todayURLs": "https://portal.ct.gov/Vaccine-Portal"
+        "todayURLs": "https://www.move.mil/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.energy.senate.gov/hearings-post"
+        "todayURLs": "https://www.myfreetaxes.com/"
     },
     {
         "count": 1,
-        "todayURLs": "https://republicans-financialservices.house.gov/news/documentsingle.aspx?DocumentID=407990"
+        "todayURLs": "https://www.rferl.org/a/in-remembrance-uzbek-rights-defender-surat-ikramov/31253774.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.thecity.nyc/2020/10/10/21510088/nyc-rent-employment-updates-email-text-covid"
+        "todayURLs": "https://costa.house.gov/media-center/press-releases/costa-letter-says-all-needs-must-be-considered-response-drought"
     },
     {
         "count": 1,
-        "todayURLs": "https://energycommerce.house.gov/newsroom/press-releases/energy-and-commerce-committee-briefed-by-department-of-energy-on-colonial"
+        "todayURLs": "https://www.cbsnews.com/amp/news/drug-executive-emails-mocked-appalachians-as-pillbillies/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.khq.com/news/drug-overdoses-skyrocket-in-washington-state-amid-covid/article_31b71745-a02e-5a9c-81d3-f16280ee8e7f.html"
+        "todayURLs": "https://www.wmicentral.com/news/latest_news/heat-wave-builds-as-fires-flare/article_2f302798-cb68-5068-8a7c-51338317ef01.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/ivMHs26RMus"
+        "todayURLs": "https://www.rollcall.com/2021/05/14/in-concussion-debate-dont-forget-toll-on-first-responders/"
     },
     {
         "count": 1,
-        "todayURLs": "https://republicans-armedservices.house.gov/news/press-releases/rogers-statement-hearing-afghanistan"
+        "todayURLs": "https://tampa.gov/COVID-19"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.fox10phoenix.com/news/arizona-begins-to-see-decline-in-those-getting-covid-19-vaccines-health-expert-says"
+        "todayURLs": "http://gwenmoore.house.gov/uploadedfiles/untitled_document.pdf"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.militarytimes.com/pay-benefits/mil-money/2021/05/11/military-parents-would-get-12-weeks-of-leave-to-care-for-new-children-under-congressional-proposal/"
+        "todayURLs": "https://floridahealthcovid19.gov/covid-19-vaccines-in-florida/"
     },
     {
         "count": 1,
-        "todayURLs": "http://www.eventbrite.com/e/covid-19-vaccination-education-event-tickets-153716248437"
+        "todayURLs": "http://ct.gov/covidvaccine"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.foreign.senate.gov/"
+        "todayURLs": "https://www.mainebiz.biz/article/umaine-composites-center-chief-promotes-new-technology-before-us-senate"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.pe.com/2021/05/11/2-california-police-officers-fatally-shot-within-24-hours/"
+        "todayURLs": "http://irs.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.motherjones.com/politics/2021/05/ice-allowed-covid-19-breakouts-and-concealed-hospitalizations-new-report-shows/"
+        "todayURLs": "https://www.msnbc.com/rachel-maddow-show/very-big-deal-supreme-court-hear-major-abortion-case-n1267601?cid=sm_fb_maddow&fbclid=IwAR1JDcwQvyTlG3i2RGUhtkp8fwNYj5RFlvCxq8M6gQOMhRmZfu9PC09J0xY"
     },
     {
         "count": 1,
-        "todayURLs": "https://ohalleran.house.gov/newsroom/press-releases/o-halleran-sees-tribal-rights-bill-pass-house-introduces-new-legislation"
+        "todayURLs": "http://www.irs.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://rules.house.gov/press-releases/chairman-mcgovern-welcomes-congressman-neguse-house-rules-committee"
+        "todayURLs": "http://www.irs.gov/extensions"
     },
     {
         "count": 1,
-        "todayURLs": "https://costa.house.gov/media-center/press-releases/costa-legislation-aims-improve-water-quality-and-supply"
+        "todayURLs": "https://www.irs.gov/newsroom/irs-announces-tax-relief-for-texas-severe-winter-storm-victims?fbclid=IwAR3fnNAlF5kI7GCDIo4BqFBwWHyYpOuXUlmj3q_6kQ09lysMfMeqO4ObuFU"
     },
     {
         "count": 1,
-        "todayURLs": "https://dhhr.wv.gov/covid-19/pages/vaccine.aspx"
+        "todayURLs": "https://fitzpatrick.house.gov/press-releases?ContentRecord_id=13ABF737-1488-4A8C-89C9-8F67B88D17A1"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/eYMSUyUUHw8"
+        "todayURLs": "https://hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources/find-your-local-mental-health-or-behavioral-health-authority"
     },
     {
         "count": 1,
-        "todayURLs": "https://spectrumnews1.com/ky/louisville/news/2021/05/07/bipartisan-bill-aims-to-probe-insurance-coverage-denials-for-amputees#"
+        "todayURLs": "https://fortenberry.house.gov/news/fort-report/fort-report-help-wanted"
     },
     {
         "count": 1,
-        "todayURLs": "https://napolitano.house.gov/media/press-releases/napolitanos-mental-health-services-students-act-passes-house"
+        "todayURLs": "https://www.tampabay.com/news/education/2021/05/12/more-relief-funds-go-to-florida-colleges-how-much-did-your-school-get/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.foreign.senate.gov/press/ranking/release/ranking-member-risch-remarks-at-hearing-on-the-covid-19-pandemic-and-the-international-response"
+        "todayURLs": "https://nimh.nih.gov"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/-K8uI5s4XhE"
+        "todayURLs": "http://www.getemergencybroadband.org/"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/_Wj1H0H7-C0"
+        "todayURLs": "http://apps.irs.gov/app/freeFile/"
     },
     {
         "count": 1,
-        "todayURLs": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403616"
+        "todayURLs": "https://VeteransCrisisLine.net/Chat"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.thecentersquare.com/texas/republicans-push-tax-increases-despite-budget-surplus/article_95b640d6-b2a2-11eb-bd05-1375a89d9a25.html"
+        "todayURLs": "https://twitter.com/pharmalot/status/1394351048517722112"
     },
     {
         "count": 1,
-        "todayURLs": "https://gop-foreignaffairs.house.gov/hearing/driving-a-global-whole-of-society-response-to-climate-action/"
+        "todayURLs": "https://www.capito.senate.gov/news/press-releases/photos-capito-visits-clarksburg-va-with-secretary-mcdonough"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/HouseDemocrats/status/1392461310399553536"
+        "todayURLs": "https://www.crainsdetroit.com/editorial/editorial-line-5-moves-are-playing-fire"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/RepBobGood/status/1392509888220311552"
+        "todayURLs": "https://www.politico.com/news/2021/05/17/supreme-court-abortion-case-roe-challenge-488983"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.politico.com/news/2021/04/22/biden-climate-goal-484326"
+        "todayURLs": "https://www.nj.com/coronavirus/2021/05/stimulus-check-update-child-tax-credit-up-to-300-a-month-coming-in-july-irs-announces.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/lowerbuckshosp/status/1391740793228972041"
+        "todayURLs": "https://sen.gov/RQ24"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/SecGranholm/status/1392588496880033792"
+        "todayURLs": "https://www.governor.ok.gov/articles/press_releases/governor-kevin-stitt--oesc-executive-director-zumw"
     },
     {
         "count": 1,
-        "todayURLs": "https://signaturefunerals.com/gene-allen-schmidt/"
+        "todayURLs": "https://www.mlive.com/news/grand-rapids/2021/05/grand-haven-named-best-beach-town-on-a-lake-in-the-us.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://financialservices.house.gov/c"
+        "todayURLs": "https://twitter.com/AUWCL/status/1394325251413131268"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.state.gov/reports/2020-report-on-international-religious-freedom/"
+        "todayURLs": "https://www.nytimes.com/2021/05/14/us/politics/jan-6-commission-attack.html?searchResultPosition=1"
     },
     {
         "count": 1,
-        "todayURLs": "https://thehill.com/policy/finance/552992-senate-votes-to-repeal-occ-true-lender-rule"
+        "todayURLs": "https://www.washingtonpost.com/politics/courts_law/supreme-court-abortion-roe-v-wade/2021/05/17/cdaf1dd6-b708-11eb-a6b1-81296da0339b_story.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.young.senate.gov/help/academy-nominations"
+        "todayURLs": "https://brooks.house.gov/contact-me/request-meeting"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.washingtonpost.com/health/transgender-protection-hhs/2021/05/10/0852ce88-b17d-11eb-a980-a60af976ed44_story.html"
+        "todayURLs": "https://www.dailyherald.com/news/20210513/six-flags-donates-50000-free-tickets-to-encourage-youths-to-get-vaccines"
     },
     {
         "count": 1,
-        "todayURLs": "https://thehill.com/homenews/senate/552828-duckworth-says-food-stamps-let-her-stay-in-high-school"
+        "todayURLs": "https://www.ernst.senate.gov/public/index.cfm?p=press-releases&id=EA565805-6DCE-4EC1-884E-754A3A1E6758"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.breitbart.com/radio/2021/05/11/exclusive-rep-mo-brooks-we-do-not-have-enough-elected-officials-who-believe-that-big-tech-censorship-is-a-problem/"
+        "todayURLs": "https://www.google.com/amp/s/amp.theadvertiser.com/amp/5126420001"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.tillis.senate.gov/2021/5/tillis-colleagues-introduce-legislation-to-empower-law-enforcement-to-combat-illegal-immigration"
+        "todayURLs": "https://buchanan.house.gov/media-center/press-releases/buchanan-introduces-bill-reduce-access-deadly-synthetic-drugs"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.mcall.com/news/breaking/mc-nws-gas-prices-rise-in-pa-following-pipeline-cyber-attack-20210511-vcwdxvdkqfa7hjhaosl7xfe6ti-story.html"
+        "todayURLs": "https://www.telegram.com/story/news/local/2021/05/15/james-mcgovern-lori-trahan-rally-against-replacement-strike-nurses-worcester-st-vincent-hospital/5090362001/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.newsmaxtv.com/"
+        "todayURLs": "https://www.foxbusiness.com/economy/biden-corporate-tax-hike-economy-jobs"
     },
     {
         "count": 1,
-        "todayURLs": "https://richmond.com/news/state-and-regional/govt-and-politics/virginia-cities-to-get-double-boost-from-american-rescue-plan-as-money-starts-to-flow/article_d39928fc-c8ba-5352-8d87-d55e6fbfb997.html"
+        "todayURLs": "https://wsvn.com/news/special-reports/recipe-for-success-south-florida-mom-daughter-open-flan-business-while-raising-awareness-for-autism/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.google.com/amp/s/www.washingtonexaminer.com/news/top-republicans-watchdog-biden-halting-border-wall%3f_amp=true"
+        "todayURLs": "https://www.cnbc.com/amp/2021/05/17/iran-nuclear-deal-could-weaken-us-efforts-to-end-israel-gaza-violence.html#click=https://t.co/fPuCa0dRMR"
     },
     {
         "count": 1,
-        "todayURLs": "https://gazette.com/premium/senate-spy-panel-leader-questions-pulling-u-s-space-command-from-colorado-springs/article_e2578e38-b1ce-11eb-932b-c33645016a13.html"
+        "todayURLs": "https://www.nytimes.com/2021/05/17/us/politics/supreme-court-abortion.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.nj.com/coronavirus/2021/05/nj-getting-105b-in-stimulus-aid-heres-how-much-each-county-and-4-dozen-towns-will-get.html"
+        "todayURLs": "https://www.clickondetroit.com/news/local/2021/05/16/covid-mass-vaccination-clinic-at-ford-field-ends-monday/"
     },
     {
         "count": 1,
-        "todayURLs": "https://sen.gov/18K3"
+        "todayURLs": "https://youtu.be/zr3V27ss1jw"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.foxbusiness.com/politics/senate-republicans-warn-business-groups-iran"
+        "todayURLs": "https://whnt.com/news/shoals/colbert-county-high-school-band-invited-to-perform-at-80th-pearl-harbor-commemoration/"
     },
     {
         "count": 1,
-        "todayURLs": "https://sen.gov/LK7O"
+        "todayURLs": "https://www.baldwin.senate.gov/press-releases/ceasefire-in-middle-east"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.washingtonpost.com/business/2021/05/12/ransomware-attack/"
+        "todayURLs": "https://www.detroitnews.com/story/news/nation/2021/05/17/biden-child-tax-credit-payments-july/116270234/"
     },
     {
         "count": 1,
-        "todayURLs": "https://dailycaller.com/2021/05/12/exclusive-republicans-to-introduce-legislation-calling-for-colleges-to-disclose-foreign-influence/"
+        "todayURLs": "https://www.nationalreview.com/2021/05/the-biden-administrations-vaccine-mistake/"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/activeretirees/status/1390758585194487811"
+        "todayURLs": "https://www.breitbart.com/politics/2021/05/14/32-house-republicans-demand-pelosi-schumer-reopen-u-s-capitol-to-the-public/"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/GovStitt/status/1392478746318446596"
+        "todayURLs": "https://www.cnbc.com/2021/05/17/iran-nuclear-deal-could-weaken-us-efforts-to-end-israel-gaza-violence.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.king.senate.gov/newsroom/press-releases/king-celebrates-nearly-15-billion-in-american-rescue-plan-funds-coming-to-maines-state-county-and-local-governments"
+        "todayURLs": "https://www.nytimes.com/2021/05/17/us/politics/child-tax-credit-payments.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://azdailysun.com/news/local/mark-kelly-promotes-vaccines-during-flagstaff-visit-this-week/article_7c23152e-bce6-51f4-84e7-a4b06475a8eb.html"
+        "todayURLs": "https://www.jsonline.com/story/news/politics/2021/05/14/ron-johnson-asks-tony-evers-eliminate-extra-unemployment-benefits/5098146001/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.palmbeachpost.com/story/opinion/2021/05/09/commentary-florida-rep-ted-deutch-gop-should-unite-stimulus/4989142001/"
+        "todayURLs": "https://rumble.com/vh2fo5-rep.-gohmerts-special-order-speech-5-14-21.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.leahy.senate.gov/press/statement-on-domestic-violent-extremism-in-america"
+        "todayURLs": "https://www.cnn.com/2021/05/17/politics/senators-ceasefire-middle-east/index.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://cooper.house.gov/media-center/press-releases/cooper-statement-on-governor-bill-lee-s-announcement-to-end-expanded"
+        "todayURLs": "https://www.washingtonpost.com/politics/2021/05/14/israels-iron-dome-defense-system-protects-israeli-lives-it-also-perpetuates-israel-gaza-conflict/"
     },
     {
         "count": 1,
-        "todayURLs": "https://newrepublic.com/article/162321/america-money-laundering-capital-fincen"
+        "todayURLs": "https://www.foxnews.com/opinion/biden-border-crisis-plan-solution-marsha-blackburn"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/repjoeneguse/status/1392504294495166468"
+        "todayURLs": "https://www.foxnews.com/sports/sam-houston-state-wins-fcs-title-touchdown-pass"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.mynews13.com/fl/orlando/news/2021/05/09/for-turmans-in-melbourne--military-service-is-all-in-the-family"
+        "todayURLs": "https://apnews.com/article/united-nations-donald-trump-africa-israel-middle-east-667939b30d3fa5b0919fb4a3a185be77"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.cbp.gov/newsroom/national-media-release/cbp-announces-april-2021-operational-update"
+        "todayURLs": "https://www.providencejournal.com/story/news/local/2021/05/14/shellfishing-providence-river-first-time-75-years/5088566001/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.state.gov/united-states-paraguay-and-taiwan-identify-and-create-partnership-opportunities-in-renewable-energy-applications/"
+        "todayURLs": "https://twitter.com/SenSchumer/status/1394448137465602052"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.marijuanamoment.net/schumer-reiterates-that-marijuana-legalization-must-pass-before-cannabis-banking-reform/"
+        "todayURLs": "https://www.nbcnews.com/politics/congress/republican-loyal-trump-claims-capitol-riot-looked-more-normal-tourist-n1267163"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.tennessean.com/story/news/politics/2021/05/11/tennessee-federal-unemployment-supplement-gov-bill-lee-opts-out-300/5040646001/"
+        "todayURLs": "https://www.nationalreview.com/news/biden-revokes-trump-executive-order-to-create-garden-of-heroes/"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/craigcaplan/status/1392471519331295238"
+        "todayURLs": "https://www.msnbc.com/all-in/watch/-truth-matters-rep-cicilline-moves-to-censure-gop-reps-downplaying-jan-6-111991365995"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.valleycentral.com/border-report/cruz-texas-rio-grande-valley-the-worst-ive-ever-seen-it-biden-to-blame-for-migrant-influx/"
+        "todayURLs": "https://www.detroitnews.com/story/opinion/editorials/2021/05/12/editorial-shift-jobless-policies-incentivize-work/5039967001/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.scott.senate.gov/media-center/press-releases/scott-introduces-resolution-celebrating-national-charter-schools-week"
+        "todayURLs": "https://www.washingtonpost.com/politics/2021/05/17/joe-biden-live-updates/"
     },
     {
         "count": 1,
-        "todayURLs": "https://thehill.com/policy/national-security/553161-biden-officials-testify-that-white-supremacists-are-greatest"
+        "todayURLs": "https://www.politico.com/news/2021/05/07/hunger-rates-plummet-after-stimulus-485604"
     },
     {
         "count": 1,
-        "todayURLs": "https://heartlandernews.com/2021/05/11/gov-mike-parson-announces-missouri-will-stop-participating-in-all-federal-pandemic-related-unemployment-benefits-citing-labor-shortage-in-the-state/"
+        "todayURLs": "https://krishnamoorthi.house.gov/media/press-releases/congressman-krishnamoorthi-praises-announcement-bipartisan-plan-commission"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.feinstein.senate.gov/public/index.cfm/press-releases?id=3E3A74E6-9E03-4E37-9BA9-80DB8246A601"
+        "todayURLs": "https://www.vaccines.gov/search/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.michigan.gov/sos/0,4670,7-127-93094-558944--,00.html"
+        "todayURLs": "https://www.merkley.senate.gov/news/press-releases/wyden-merkley-and-bentz-urge-unity-in-klamath-basin-2021"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/ratemyskyperoom/status/1392581517168291853"
+        "todayURLs": "http://politico.com/newsletters/weekly-education"
     },
     {
         "count": 1,
-        "todayURLs": "https://desjarlais.house.gov/media-center/press-releases/rep-scott-desjarlais-introduces-resolution-to-oppose-biden-gun-rights"
+        "todayURLs": "https://www.ntu.org/foundation/detail/theyre-alive-congress-increases-outlays-for-expired-zombie-spending-programs"
     },
     {
         "count": 1,
-        "todayURLs": "https://wset.com/news/local/sen-kaine-introduces-bill-that-would-curb-police-overuse-of-tear-gas-against-peaceful-protesters"
+        "todayURLs": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=402465"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.politifact.com/factchecks/2021/may/10/facebook-posts/new-jersey-isnt-out-gas-and-s-unlikely-change/"
+        "todayURLs": "https://apnews.com/article/gun-politics-shootings-5ab30379bcf86d4707953dcbdc6b7c78"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.cnn.com/2021/05/10/health/pfizer-vaccine-eua-12-15-teens/index.html"
+        "todayURLs": "https://www.collins.senate.gov/newsroom/collins-brown-introduce-bipartisan-bill-ensure-public-employees-receive-full-social"
     },
     {
         "count": 1,
-        "todayURLs": "https://vtdigger.org/2021/05/05/scott-signs-law-making-vermont-14th-state-to-ban-lgbtq-panic-defense/"
+        "todayURLs": "https://www.grassley.senate.gov/news/news-releases/grassley-dont-re-invent-wheel-in-fight-against-fentanyl"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/katiepavlich/status/1392489964500406276"
+        "todayURLs": "https://www.irs.gov/forms-pubs/extension-of-time-to-file-your-tax-return"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.baldwin.senate.gov/press-releases/carried-interest-fairness-act-2021"
+        "todayURLs": "https://ferguson.house.gov/news/documentsingle.aspx?DocumentID=3284"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.cotton.senate.gov/news/press-releases/cotton-leads-letter-warning-international-business-community-about-resuming-business-with-iran"
+        "todayURLs": "https://www.jpost.com/israel-news/rocket-barrages-from-gaza-continue-to-slam-into-israel-sunday-668287"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.lankford.senate.gov/news/press-releases/lankford-calls-out-biden-for-sending-nasa-rocket-scientists-to-the-southern-border-instead-of-finishing-the-wall-"
+        "todayURLs": "https://www.arkansasonline.com/news/2021/apr/14/ag-asks-us-justices-to-strike-abortion-law-block/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.nytimes.com/2021/05/05/climate/climate-change-sea-level-rise.html"
+        "todayURLs": "https://floridianpress.com/2021/05/house-democratic-leadership-holds-up-defund-hamas-legislation/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.merkley.senate.gov/news/press-releases/merkley-wicker-johnson-joyce-introduce-bipartisan-bicameral-resolution-to-recognize-national-nurses-week-2021"
+        "todayURLs": "https://nypost.com/2021/05/16/insisting-on-masks-despite-science-is-partisan-posturing-gone-mad/"
     },
     {
         "count": 1,
-        "todayURLs": "https://highlandcountypress.com/Content/Opinions/Opinion/Article/Patently-unconstitutional-legislation/4/22/68392"
+        "todayURLs": "https://www.southeastiowaunion.com/article/ernst-hears-issues-with-child-care-startup/"
     },
     {
         "count": 1,
-        "todayURLs": "https://senmarkwarner.medium.com/toward-a-resilient-21st-century-american-capitalism-a9fefdf86fe"
+        "todayURLs": "https://siouxcityjournal.com/news/local/briefs/section-of-sibley-iowa-remain-under-evacuation-following-sunday-train-derailment/article_41b859c7-5a20-5a45-ad70-de4eba1f9438.html#utm_campaign=blox&utm_source=twitter&utm_medium=social"
     },
     {
         "count": 1,
-        "todayURLs": "https://youtu.be/R0B2fyEWZ48"
+        "todayURLs": "https://www.washingtonpost.com/opinions/paulson-bowles-biden-carbon-tax/2021/05/10/2230cda4-af62-11eb-b476-c3b287e52a01_story.html?utm_source=twitter&utm_campaign=wp_opinions&utm_medium=social"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/elex_michaelson/status/1392014047264923649"
+        "todayURLs": "https://raskin.house.gov/press-releases?ID=C39F672A-A706-4CF4-819E-226242C7008A"
     },
     {
         "count": 1,
-        "todayURLs": "https://freebeacon.com/national-security/delay-in-passing-hamas-sanctions-bill-is-inexcusable-says-rep/"
+        "todayURLs": "https://www.nytimes.com/2021/05/17/us/supreme-court-abortion.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.duckworth.senate.gov/news/press-releases/duckworth-durbin-quigley-and-rubio-lead-bipartisan-bicameral-legislation-to-map-urban-flooding_help-fema-better-assess-risks"
+        "todayURLs": "https://www.rubio.senate.gov/public/index.cfm?p=Press-Releases&id=183C2864-CAFE-44FE-B327-D7403F6FF3D2"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.rounds.senate.gov/newsroom/press-releases/rounds-shaheen-introduce-bill-to-support-national-world-war-ii-memorial"
+        "todayURLs": "https://nypost.com/2021/05/14/bidens-overtures-to-iran-undercut-us-bid-to-end-hamas-israel-conflict/"
     },
     {
         "count": 1,
-        "todayURLs": "https://Healthcare.gov/"
+        "todayURLs": "https://www.google.com/amp/s/www.politico.com/amp/news/2021/05/15/hhs-covid-stockpile-money-border-migrants-488427"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.duckworth.senate.gov/news/press-releases/at-virtual-town-hall-duckworth-answers-questions-from-midwest-health-and-home-care-workers-"
+        "todayURLs": "https://www.ktvu.com/news/heres-where-teens-ages-12-and-up-can-receive-a-covid-19-vaccination"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.murkowski.senate.gov/press/release/murkowski-introduces-strategic-energy-and-minerals-initiative?peek=F/zKyK/W%2B8hBsLF7/LZNEYjWY7YEnD9SJN/FjHXRvYq4kIsH"
+        "todayURLs": "https://www.crapo.senate.gov/media/editorials/weekly-column-honoring-americas-missing-servicemembers"
     },
     {
         "count": 1,
-        "todayURLs": "https://mcmorris.house.gov/mcmorris-rodgers-calls-for-immediate-correction-of-va-community-care-backlog/"
+        "todayURLs": "https://www.thelugarcenter.org/ourwork-Bipartisan-Index.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.foxnews.com/us/border-crisis-5-unaccompanied-migrant-girls-found-abandoned-in-texas"
+        "todayURLs": "https://www.washingtonpost.com/politics/courts_law/supreme-court-abortion-roe-v-wade/2021/05/17/cdaf1dd6-b708-11eb-a6b1-81296da0339b_story.html#click=https://t.co/HPna8io86U"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.fema.gov/disasters/coronavirus/economic/funeral-assistance/faq"
+        "todayURLs": "https://www.whitehouse.gov/briefing-room/statements-releases/2021/05/17/readout-of-president-joseph-r-biden-jr-call-with-prime-minister-benjamin-netanyahu-of-israel-4/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.tillis.senate.gov/2021/5/tillis-colleagues-introduce-legislation-to-empower-law-enforcement-to-combat-illegal-immigration', 'https://twitter.com/SenTuberville/status/1392515305050714118"
+        "todayURLs": "http://vaccinate.virginia.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://news.wjct.org/post/castor-kriseman-ask-desantis-veto-energy-preemption-bill"
+        "todayURLs": "https://www.businesswire.com/news/home/20210506006063/en/Council-for-Citizens-Against-Government-Waste-Releases-2020-Congressional-Ratings"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.foxnews.com/us/biden-administration-to-resume-border-wall-construction-as-crisis-worsens"
+        "todayURLs": "https://www.murkowski.senate.gov/press/release/manchin-murkowski-call-for-bipartisan-reauthorization-of-voting-rights-act"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.moran.senate.gov/public/index.cfm/2021/5/senate-commerce-committee-passes-sens-moran-sinema-bill-to-support-advanced-air-mobility"
+        "todayURLs": "https://www.duckworth.senate.gov/news/press-releases/duckworth-discusses-restaurant-recovery-with-illinois-restaurant-association-members"
     },
     {
         "count": 1,
-        "todayURLs": "https://lofgren.house.gov/media/press-releases/lofgren-eshoo-khanna-panetta-announce-21-million-federal-emergency-rental"
+        "todayURLs": "https://thehill.com/policy/finance/553811-irs-to-start-monthly-payments-of-child-tax-credit-july-15?/?userid=33656"
     },
     {
         "count": 1,
-        "todayURLs": "https://bishop.house.gov/media-center/press-releases/bishop-statement-on-colonial-pipeline-attack"
+        "todayURLs": "https://www.nps.gov/places/nan-madol.htm"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.cbp.gov/newsroom/stats/southwest-land-border-encounters"
+        "todayURLs": "https://www.spokesman.com/stories/2021/may/13/back-in-school-washington-students-will-return-for/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.nbcnews.com/politics/politics-news/get-vaccinated-ohio-get-shot-1-million-gov-mike-dewine-n1267176"
+        "todayURLs": "https://orrinhatchfoundation.org/rsvp"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/RepRaskin/status/1319632240335343617"
+        "todayURLs": "https://www.burlingtonfreepress.com/story/news/2021/05/05/vermont-health-care-notch-community-health-centers-focus-underserved/7412347002/"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.nytimes.com/2021/05/11/us/politics/border-detentions-april-migrants-mexico.html"
+        "todayURLs": "https://www.minnpost.com/national/2021/05/after-a-difficult-year-here-are-five-things-minnesotas-congressional-delegation-is-doing-to-improve-support-for-americans-mental-health/"
     },
     {
         "count": 1,
@@ -765,114 +725,34 @@
     },
     {
         "count": 1,
-        "todayURLs": "https://myvillager.com/2021/05/12/city-county-school-district-to-share-507m-of-american-rescue-plan/"
+        "todayURLs": "https://video.foxnews.com/v/6254473424001"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/nypost/status/1392546025362046977"
+        "todayURLs": "https://www.cleveland.com/open/2021/05/ohio-gov-mike-dewine-signs-law-providing-millions-to-expand-high-speed-internet-access.html"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.republicanleader.senate.gov/newsroom/remarks/opportunities-for-bipartisan-progress-if-biden-administration-seeks-common-ground"
+        "todayURLs": "https://www.republicanleader.senate.gov/newsroom/remarks/states-having-to-clean-up-washington-democrats-job-market-mess"
     },
     {
         "count": 1,
-        "todayURLs": "https://twitter.com/MarketWatch/status/1392461786780213252"
+        "todayURLs": "http://www.nimh.nih.gov/"
     },
     {
         "count": 1,
-        "todayURLs": "https://eshoo.house.gov/media/press-releases/rep-eshoo-statement-hamas-rocket-attacks"
+        "todayURLs": "https://www.wshu.org/post/monday-tax-day-here-s-how-get-child-tax-credit"
     },
     {
         "count": 1,
-        "todayURLs": "http://HawaiiCOVID19.com/Vaccine"
+        "todayURLs": "https://www.penbaypilot.com/article/senate-fellowship-program-wounded-american-veterans-finds-support-washington/147050"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.suffolknewsherald.com/2021/05/07/warner-transportation-leaders-meet-to-discuss-priorities/"
+        "todayURLs": "https://www.miramarfl.gov/1864/Guns-for-Funds"
     },
     {
         "count": 1,
-        "todayURLs": "https://www.senate.gov/legislative/floor_activity_pail.htm"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://youtu.be/_Fw-itPTD1c"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.c-span.org/video/?511631-4%2Fwashington-journal-rep-tom-mcclintock-r-ca-discusses-gop-leadership-amp-president-bidens"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.washingtonpost.com/technology/2021/05/12/emergency-broadband-benefit-faq/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.nytimes.com/2021/05/12/world/asia/nepal-everest-oxygen-covid.html"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.capito.senate.gov/news/press-releases/capito-shelby-correct-false-claims-by-biden-administration-on-border-wall-construction"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://thehill.com/blogs/blog-briefing-room/news/552973-california-detective-shot-and-killed-while-serving-search"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.axios.com/satellite-data-environmental-transparency-a47cf3ae-0a9b-4eb7-92d7-8368bd798523.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/i/broadcasts/1vOxwEqMMkqGB"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.heraldnet.com/opinion/editorial-get-shovels-ready-for-bidens-transportation-plans/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.casey.senate.gov/news/releases/casey-introduces-bipartisan-police-reforms-to-prevent-violence-towards-people-with-disabilities"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.nytimes.com/interactive/2021/05/12/climate/climate-change-weather-noaa.html?action=click&module=Top%20Stories&pgtype=Homepage"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://twitter.com/jpaulwsoc9/status/1392459268650057730"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.chicagotribune.com/news/criminal-justice/ct-us-attorney-john-lausch-hospitalized-mini-stroke-20210512-ctfn5sjl2vhltagywbq4qwpgbm-story.html"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.wabi.tv/2021/05/09/maine-cdc-residents-should-prepare-for-active-tick-season/"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-tester-push-va-to-explore-medicinal-cannabis-as-an-alternative-treatment-for-veterans"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.foxnews.com/politics/memorial-day-biden-pentagon-rolling-to-remember-brian-mast"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.irishtimes.com/news/crime-and-law/ten-shot-dead-in-ballymurphy-massacre-entirely-innocent-coroner-finds-1.4561691"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.wmur.com/article/much-of-nhs-water-infrastructure-50-100-years-old-replacement-costs-in-billions/36309358"
-    },
-    {
-        "count": 1,
-        "todayURLs": "https://www.youtube.com/watch?v=GKW1GMSmhOE"
+        "todayURLs": "https://thehill.com/blogs/congress-blog/politics/552027-four-years-is-not-enough-congress-should-make-the-child-tax"
     }
 ]
