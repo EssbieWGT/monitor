@@ -1,333 +1,2308 @@
 [
     {
-        "count": 32,
-        "enga": 1589,
+        "count": 23,
+        "enga": 114,
+        "todayUser": "repbentz"
+    },
+    {
+        "count": 21,
+        "enga": 34416,
+        "todayUser": "repthomasmassie"
+    },
+    {
+        "count": 21,
+        "enga": 39361,
+        "todayUser": "senschumer"
+    },
+    {
+        "count": 19,
+        "enga": 241,
         "todayUser": "repdonbacon"
     },
     {
-        "count": 18,
-        "enga": 6397,
-        "todayUser": "congressmanraja"
+        "count": 16,
+        "enga": 100076,
+        "todayUser": "randpaul"
+    },
+    {
+        "count": 16,
+        "enga": 20651,
+        "todayUser": "repjayapal"
+    },
+    {
+        "count": 16,
+        "enga": 13010,
+        "todayUser": "senatordurbin"
     },
     {
         "count": 15,
-        "enga": 1640,
+        "enga": 2283,
+        "todayUser": "senjoniernst"
+    },
+    {
+        "count": 15,
+        "enga": 471,
+        "todayUser": "senatorhagerty"
+    },
+    {
+        "count": 15,
+        "enga": 34,
+        "todayUser": "housescience"
+    },
+    {
+        "count": 14,
+        "enga": 14572,
+        "todayUser": "marshablackburn"
+    },
+    {
+        "count": 13,
+        "enga": 23366,
+        "todayUser": "repvaldemings"
+    },
+    {
+        "count": 13,
+        "enga": 974,
+        "todayUser": "senatebanking"
+    },
+    {
+        "count": 13,
+        "enga": 1869,
+        "todayUser": "senrobportman"
+    },
+    {
+        "count": 13,
+        "enga": 5445,
+        "todayUser": "repcawthorn"
+    },
+    {
+        "count": 13,
+        "enga": 277,
+        "todayUser": "normajtorres"
+    },
+    {
+        "count": 13,
+        "enga": 49441,
+        "todayUser": "sentedcruz"
+    },
+    {
+        "count": 13,
+        "enga": 351,
+        "todayUser": "senatorshaheen"
+    },
+    {
+        "count": 13,
+        "enga": 13035,
+        "todayUser": "judiciarydems"
+    },
+    {
+        "count": 13,
+        "enga": 1539,
+        "todayUser": "repbrianmast"
+    },
+    {
+        "count": 12,
+        "enga": 3820,
+        "todayUser": "repcori"
+    },
+    {
+        "count": 12,
+        "enga": 976,
+        "todayUser": "senjackyrosen"
+    },
+    {
+        "count": 12,
+        "enga": 36586,
+        "todayUser": "senwarren"
+    },
+    {
+        "count": 12,
+        "enga": 24189,
+        "todayUser": "sentomcotton"
+    },
+    {
+        "count": 12,
+        "enga": 487,
         "todayUser": "oversightdems"
     },
     {
         "count": 12,
-        "enga": 98,
-        "todayUser": "transportdems"
+        "enga": 486,
+        "todayUser": "repbonnie"
+    },
+    {
+        "count": 12,
+        "enga": 172,
+        "todayUser": "repricklarsen"
+    },
+    {
+        "count": 12,
+        "enga": 905,
+        "todayUser": "senhawleypress"
+    },
+    {
+        "count": 11,
+        "enga": 582,
+        "todayUser": "repmgs"
+    },
+    {
+        "count": 11,
+        "enga": 2034,
+        "todayUser": "gillibrandny"
+    },
+    {
+        "count": 11,
+        "enga": 153,
+        "todayUser": "helpcmtedems"
+    },
+    {
+        "count": 11,
+        "enga": 376,
+        "todayUser": "janschakowsky"
+    },
+    {
+        "count": 11,
+        "enga": 177,
+        "todayUser": "mikecrapo"
+    },
+    {
+        "count": 11,
+        "enga": 227,
+        "todayUser": "houseforeign"
+    },
+    {
+        "count": 11,
+        "enga": 474,
+        "todayUser": "frankpallone"
+    },
+    {
+        "count": 11,
+        "enga": 582,
+        "todayUser": "repdwightevans"
     },
     {
         "count": 10,
-        "enga": 5515,
-        "todayUser": "repbrianmast"
+        "enga": 395,
+        "todayUser": "repdinatitus"
     },
     {
         "count": 10,
-        "enga": 1371,
-        "todayUser": "repschneider"
+        "enga": 2063,
+        "todayUser": "pattymurray"
+    },
+    {
+        "count": 10,
+        "enga": 2687,
+        "todayUser": "senblumenthal"
+    },
+    {
+        "count": 10,
+        "enga": 7838,
+        "todayUser": "billpascrell"
     },
     {
         "count": 9,
-        "enga": 186,
-        "todayUser": "repdelgado"
+        "enga": 13368,
+        "todayUser": "repandybiggsaz"
+    },
+    {
+        "count": 9,
+        "enga": 203,
+        "todayUser": "repjimmypanetta"
+    },
+    {
+        "count": 9,
+        "enga": 149,
+        "todayUser": "repmaloney"
+    },
+    {
+        "count": 9,
+        "enga": 449,
+        "todayUser": "repnikema"
+    },
+    {
+        "count": 9,
+        "enga": 1662,
+        "todayUser": "senatorcarper"
+    },
+    {
+        "count": 9,
+        "enga": 272,
+        "todayUser": "usrepkcastor"
+    },
+    {
+        "count": 9,
+        "enga": 586,
+        "todayUser": "senrubiopress"
+    },
+    {
+        "count": 9,
+        "enga": 215,
+        "todayUser": "repyvetteclarke"
     },
     {
         "count": 8,
+        "enga": 123,
+        "todayUser": "reploisfrankel"
+    },
+    {
+        "count": 8,
+        "enga": 316,
+        "todayUser": "repbourdeaux"
+    },
+    {
+        "count": 8,
+        "enga": 93729,
+        "todayUser": "jim_jordan"
+    },
+    {
+        "count": 8,
+        "enga": 284,
+        "todayUser": "repsylviagarcia"
+    },
+    {
+        "count": 8,
+        "enga": 3894,
+        "todayUser": "senossoff"
+    },
+    {
+        "count": 8,
+        "enga": 812,
+        "todayUser": "repwilson"
+    },
+    {
+        "count": 8,
+        "enga": 279,
+        "todayUser": "replloyddoggett"
+    },
+    {
+        "count": 8,
+        "enga": 17987,
+        "todayUser": "senwhitehouse"
+    },
+    {
+        "count": 8,
+        "enga": 104,
+        "todayUser": "replindasanchez"
+    },
+    {
+        "count": 8,
+        "enga": 318,
+        "todayUser": "senkevincramer"
+    },
+    {
+        "count": 8,
+        "enga": 1515,
+        "todayUser": "repjoshg"
+    },
+    {
+        "count": 8,
+        "enga": 369,
+        "todayUser": "repspanberger"
+    },
+    {
+        "count": 8,
+        "enga": 449,
+        "todayUser": "repmikequigley"
+    },
+    {
+        "count": 8,
+        "enga": 503,
+        "todayUser": "lisamurkowski"
+    },
+    {
+        "count": 8,
+        "enga": 12505,
+        "todayUser": "repstefanik"
+    },
+    {
+        "count": 8,
+        "enga": 68,
+        "todayUser": "housesciencegop"
+    },
+    {
+        "count": 8,
+        "enga": 493,
+        "todayUser": "leaderhoyer"
+    },
+    {
+        "count": 8,
+        "enga": 9936,
+        "todayUser": "senatorwarnock"
+    },
+    {
+        "count": 7,
+        "enga": 1063,
+        "todayUser": "repdlesko"
+    },
+    {
+        "count": 7,
+        "enga": 397,
+        "todayUser": "reprokhanna"
+    },
+    {
+        "count": 7,
+        "enga": 74,
+        "todayUser": "repbonamici"
+    },
+    {
+        "count": 7,
+        "enga": 1160,
+        "todayUser": "chrisvanhollen"
+    },
+    {
+        "count": 7,
+        "enga": 582,
+        "todayUser": "repescobar"
+    },
+    {
+        "count": 7,
+        "enga": 58,
+        "todayUser": "transportdems"
+    },
+    {
+        "count": 7,
+        "enga": 1989,
+        "todayUser": "repbarbaralee"
+    },
+    {
+        "count": 7,
+        "enga": 117,
+        "todayUser": "repchrispappas"
+    },
+    {
+        "count": 7,
+        "enga": 3533,
+        "todayUser": "repjimbanks"
+    },
+    {
+        "count": 7,
+        "enga": 20,
+        "todayUser": "helsinkicomm"
+    },
+    {
+        "count": 7,
+        "enga": 2518,
+        "todayUser": "repkenbuck"
+    },
+    {
+        "count": 7,
+        "enga": 1978,
+        "todayUser": "senjeffmerkley"
+    },
+    {
+        "count": 7,
+        "enga": 728,
+        "todayUser": "mitchmcconnell"
+    },
+    {
+        "count": 7,
+        "enga": 741,
+        "todayUser": "repnancymace"
+    },
+    {
+        "count": 7,
+        "enga": 331,
+        "todayUser": "reploritrahan"
+    },
+    {
+        "count": 7,
+        "enga": 255,
+        "todayUser": "gopoversight"
+    },
+    {
+        "count": 7,
+        "enga": 273,
+        "todayUser": "sfrcdems"
+    },
+    {
+        "count": 7,
+        "enga": 509,
+        "todayUser": "SenKirstenGillibrand"
+    },
+    {
+        "count": 7,
+        "enga": 49,
+        "todayUser": "reproybalallard"
+    },
+    {
+        "count": 7,
+        "enga": 114,
+        "todayUser": "repcarbajal"
+    },
+    {
+        "count": 7,
+        "enga": 625,
+        "todayUser": "repschneider"
+    },
+    {
+        "count": 7,
+        "enga": 136,
+        "todayUser": "senatorfischer"
+    },
+    {
+        "count": 7,
+        "enga": 392,
+        "todayUser": "sentinasmith"
+    },
+    {
+        "count": 7,
+        "enga": 30,
+        "todayUser": "repjoemorelle"
+    },
+    {
+        "count": 7,
+        "enga": 205,
+        "todayUser": "reptonygonzales"
+    },
+    {
+        "count": 7,
+        "enga": 1203,
+        "todayUser": "repunderwood"
+    },
+    {
+        "count": 7,
         "enga": 101,
-        "todayUser": "repohalleran"
+        "todayUser": "rephagedorn"
     },
     {
         "count": 7,
-        "enga": 265,
-        "todayUser": "repjenniffer"
+        "enga": 344,
+        "todayUser": "repashleyhinson"
     },
     {
         "count": 7,
-        "enga": 82,
-        "todayUser": "repbrianfitz"
+        "enga": 60,
+        "todayUser": "repgusbilirakis"
     },
     {
         "count": 7,
-        "enga": 931,
-        "todayUser": "houseforeigngop"
-    },
-    {
-        "count": 7,
-        "enga": 1042,
-        "todayUser": "SenatorBobCasey"
+        "enga": 2085,
+        "todayUser": "congressmanraja"
     },
     {
         "count": 6,
-        "enga": 4738,
-        "todayUser": "senschumer"
-    },
-    {
-        "count": 6,
-        "enga": 4679,
-        "todayUser": "chrismurphyct"
-    },
-    {
-        "count": 6,
-        "enga": 580,
-        "todayUser": "SenatorStabenow"
-    },
-    {
-        "count": 6,
-        "enga": 502,
-        "todayUser": "SenatorHassan"
-    },
-    {
-        "count": 6,
-        "enga": 52368,
+        "enga": 28623,
         "todayUser": "SenatorTedCruz"
     },
     {
         "count": 6,
-        "enga": 947,
-        "todayUser": "jiminhofe"
+        "enga": 501,
+        "todayUser": "senbobcasey"
     },
     {
         "count": 6,
-        "enga": 1643,
-        "todayUser": "SenKirstenGillibrand"
+        "enga": 3166,
+        "todayUser": "joaquincastrotx"
     },
     {
         "count": 6,
-        "enga": 139,
-        "todayUser": "senateforeign"
+        "enga": 766,
+        "todayUser": "repjasonsmith"
     },
     {
         "count": 6,
-        "enga": 506,
+        "enga": 789,
+        "todayUser": "eleanornorton"
+    },
+    {
+        "count": 6,
+        "enga": 15952,
+        "todayUser": "repboebert"
+    },
+    {
+        "count": 6,
+        "enga": 16695,
+        "todayUser": "senatorelizabethwarren"
+    },
+    {
+        "count": 6,
+        "enga": 815,
+        "todayUser": "senatorbraun"
+    },
+    {
+        "count": 6,
+        "enga": 434,
+        "todayUser": "repmondaire"
+    },
+    {
+        "count": 6,
+        "enga": 84,
+        "todayUser": "waysandmeansgop"
+    },
+    {
+        "count": 6,
+        "enga": 2202,
+        "todayUser": "senbooker"
+    },
+    {
+        "count": 6,
+        "enga": 77,
+        "todayUser": "repmikelevin"
+    },
+    {
+        "count": 6,
+        "enga": 258,
+        "todayUser": "reptomemmer"
+    },
+    {
+        "count": 6,
+        "enga": 71,
+        "todayUser": "mcconnellpress"
+    },
+    {
+        "count": 6,
+        "enga": 199,
+        "todayUser": "rephoulahan"
+    },
+    {
+        "count": 6,
+        "enga": 325,
+        "todayUser": "repsherrill"
+    },
+    {
+        "count": 6,
+        "enga": 206,
+        "todayUser": "RepJimmyPanetta"
+    },
+    {
+        "count": 6,
+        "enga": 42,
+        "todayUser": "repsarbanes"
+    },
+    {
+        "count": 6,
+        "enga": 1699,
+        "todayUser": "repmarkpocan"
+    },
+    {
+        "count": 6,
+        "enga": 41872,
+        "todayUser": "SenatorRandPaul"
+    },
+    {
+        "count": 6,
+        "enga": 212,
+        "todayUser": "repcleaver"
+    },
+    {
+        "count": 6,
+        "enga": 195,
+        "todayUser": "CongresswomanNorton"
+    },
+    {
+        "count": 6,
+        "enga": 579,
+        "todayUser": "martinheinrich"
+    },
+    {
+        "count": 6,
+        "enga": 51,
+        "todayUser": "repbrianhiggins"
+    },
+    {
+        "count": 6,
+        "enga": 35,
+        "todayUser": "repdeborahross"
+    },
+    {
+        "count": 6,
+        "enga": 601,
+        "todayUser": "repmikegarcia"
+    },
+    {
+        "count": 6,
+        "enga": 1048,
+        "todayUser": "senfeinstein"
+    },
+    {
+        "count": 6,
+        "enga": 330,
         "todayUser": "SenatorShaheen"
     },
     {
         "count": 6,
-        "enga": 958,
-        "todayUser": "senbennetco"
+        "enga": 95,
+        "todayUser": "michaelcburgess"
     },
     {
         "count": 6,
-        "enga": 1656,
-        "todayUser": "SenLisaMurkowski"
+        "enga": 231,
+        "todayUser": "repbrianbabin"
     },
     {
         "count": 6,
-        "enga": 1882,
-        "todayUser": "SteveDainesMT"
+        "enga": 151,
+        "todayUser": "replbr"
     },
     {
         "count": 6,
-        "enga": 1391,
-        "todayUser": "sfrcdems"
+        "enga": 78,
+        "todayUser": "repfischbach"
     },
     {
         "count": 6,
-        "enga": 7641,
-        "todayUser": "marshablackburn"
+        "enga": 50,
+        "todayUser": "repdelbene"
     },
     {
         "count": 6,
-        "enga": 6023,
-        "todayUser": "jeffmerkley"
+        "enga": 771,
+        "todayUser": "reptedlieu"
     },
     {
         "count": 6,
-        "enga": 1417,
-        "todayUser": "senjoniernst"
+        "enga": 352,
+        "todayUser": "sencortezmasto"
+    },
+    {
+        "count": 6,
+        "enga": 91,
+        "todayUser": "repstephenlynch"
+    },
+    {
+        "count": 6,
+        "enga": 2155,
+        "todayUser": "senalexpadilla"
+    },
+    {
+        "count": 6,
+        "enga": 226,
+        "todayUser": "repkclark"
+    },
+    {
+        "count": 6,
+        "enga": 98,
+        "todayUser": "RepLoisFrankel"
+    },
+    {
+        "count": 6,
+        "enga": 349,
+        "todayUser": "senateforeign"
+    },
+    {
+        "count": 6,
+        "enga": 77,
+        "todayUser": "bradsherman"
+    },
+    {
+        "count": 6,
+        "enga": 45918,
+        "todayUser": "repjimjordan"
+    },
+    {
+        "count": 6,
+        "enga": 15390,
+        "todayUser": "judiciarygop"
     },
     {
         "count": 5,
-        "enga": 2324,
-        "todayUser": "MarkRWarner"
+        "enga": 213,
+        "todayUser": "repyoungkim"
     },
     {
         "count": 5,
-        "enga": 4079,
-        "todayUser": "SenatorTomCotton"
-    },
-    {
-        "count": 5,
-        "enga": 1404,
-        "todayUser": "EdJMarkey"
-    },
-    {
-        "count": 5,
-        "enga": 2164,
-        "todayUser": "staceyplaskett"
-    },
-    {
-        "count": 5,
-        "enga": 2310,
-        "todayUser": "repraskin"
-    },
-    {
-        "count": 5,
-        "enga": 46402,
-        "todayUser": "senatorelizabethwarren"
-    },
-    {
-        "count": 5,
-        "enga": 36026,
-        "todayUser": "senatorsanders"
-    },
-    {
-        "count": 5,
-        "enga": 49,
-        "todayUser": "energycommerce"
-    },
-    {
-        "count": 5,
-        "enga": 79,
-        "todayUser": "repdavidkustoff"
-    },
-    {
-        "count": 5,
-        "enga": 1669,
-        "todayUser": "SenatorWhitehouse"
-    },
-    {
-        "count": 5,
-        "enga": 3,
+        "enga": 0,
         "todayUser": "waysandmeanscommitteedems"
     },
     {
         "count": 5,
-        "enga": 944,
-        "todayUser": "MartinHeinrich"
+        "enga": 365,
+        "todayUser": "senatorhassan"
     },
     {
-        "count": 4,
-        "enga": 18,
-        "todayUser": "HouseCommitteeOnForeignAffairsDemocrats"
+        "count": 5,
+        "enga": 246,
+        "todayUser": "reptenney"
     },
     {
-        "count": 4,
-        "enga": 13,
-        "todayUser": "hsgac"
+        "count": 5,
+        "enga": 67,
+        "todayUser": "repjenniffer"
     },
     {
-        "count": 4,
-        "enga": 1213,
-        "todayUser": "SenGaryPeters"
+        "count": 5,
+        "enga": 66,
+        "todayUser": "jimlangevin"
     },
     {
-        "count": 4,
-        "enga": 903,
-        "todayUser": "SenDanSullivan"
+        "count": 5,
+        "enga": 978,
+        "todayUser": "repjimmygomez"
     },
     {
-        "count": 4,
-        "enga": 181,
-        "todayUser": "senshelley"
+        "count": 5,
+        "enga": 40,
+        "todayUser": "energycommerce"
     },
     {
-        "count": 4,
-        "enga": 149,
-        "todayUser": "senatorjimrisch"
+        "count": 5,
+        "enga": 557,
+        "todayUser": "SenatorCortezMasto"
     },
     {
-        "count": 4,
-        "enga": 1164,
+        "count": 5,
+        "enga": 172,
+        "todayUser": "repwexton"
+    },
+    {
+        "count": 5,
+        "enga": 2481,
+        "todayUser": "senrickscott"
+    },
+    {
+        "count": 5,
+        "enga": 978,
+        "todayUser": "markwarner"
+    },
+    {
+        "count": 5,
+        "enga": 538,
+        "todayUser": "repcohen"
+    },
+    {
+        "count": 5,
+        "enga": 192,
+        "todayUser": "repsusielee"
+    },
+    {
+        "count": 5,
+        "enga": 47,
+        "todayUser": "repdonaldpayne"
+    },
+    {
+        "count": 5,
+        "enga": 40,
+        "todayUser": "repedcase"
+    },
+    {
+        "count": 5,
+        "enga": 55,
+        "todayUser": "repadriansmith"
+    },
+    {
+        "count": 5,
+        "enga": 102,
+        "todayUser": "vetaffairsdems"
+    },
+    {
+        "count": 5,
+        "enga": 2736,
+        "todayUser": "repjoeneguse"
+    },
+    {
+        "count": 5,
+        "enga": 225,
+        "todayUser": "RepJoshG"
+    },
+    {
+        "count": 5,
+        "enga": 605,
+        "todayUser": "repspeier"
+    },
+    {
+        "count": 5,
+        "enga": 261,
+        "todayUser": "grassley"
+    },
+    {
+        "count": 5,
+        "enga": 357,
+        "todayUser": "repmmm"
+    },
+    {
+        "count": 5,
+        "enga": 61,
+        "todayUser": "repderekkilmer"
+    },
+    {
+        "count": 5,
+        "enga": 1496,
+        "todayUser": "repbeatty"
+    },
+    {
+        "count": 5,
+        "enga": 315,
+        "todayUser": "repandylevin"
+    },
+    {
+        "count": 5,
+        "enga": 77,
+        "todayUser": "repbrownley"
+    },
+    {
+        "count": 5,
+        "enga": 8534,
+        "todayUser": "repleezeldin"
+    },
+    {
+        "count": 5,
+        "enga": 248,
+        "todayUser": "chriscoons"
+    },
+    {
+        "count": 5,
+        "enga": 2806,
+        "todayUser": "whipclyburn"
+    },
+    {
+        "count": 5,
+        "enga": 1503,
+        "todayUser": "pascrell"
+    },
+    {
+        "count": 5,
+        "enga": 65,
+        "todayUser": "rodneydavis"
+    },
+    {
+        "count": 5,
+        "enga": 545,
+        "todayUser": "replisamcclain"
+    },
+    {
+        "count": 5,
+        "enga": 365,
+        "todayUser": "replawrence"
+    },
+    {
+        "count": 5,
+        "enga": 14911,
+        "todayUser": "speakerpelosi"
+    },
+    {
+        "count": 5,
+        "enga": 137,
+        "todayUser": "repcindyaxne"
+    },
+    {
+        "count": 5,
+        "enga": 213,
+        "todayUser": "senatorwicker"
+    },
+    {
+        "count": 5,
+        "enga": 703,
+        "todayUser": "royblunt"
+    },
+    {
+        "count": 5,
+        "enga": 58,
+        "todayUser": "appropsdems"
+    },
+    {
+        "count": 5,
+        "enga": 514,
         "todayUser": "senatormenendez"
     },
     {
-        "count": 3,
-        "enga": 515,
+        "count": 5,
+        "enga": 182,
+        "todayUser": "repdankildee"
+    },
+    {
+        "count": 5,
+        "enga": 98,
+        "todayUser": "waysmeanscmte"
+    },
+    {
+        "count": 5,
+        "enga": 1540,
+        "todayUser": "senatorbaldwin"
+    },
+    {
+        "count": 5,
+        "enga": 138,
+        "todayUser": "repsarajacobs"
+    },
+    {
+        "count": 5,
+        "enga": 166,
+        "todayUser": "nydiavelazquez"
+    },
+    {
+        "count": 5,
+        "enga": 231,
+        "todayUser": "repespaillat"
+    },
+    {
+        "count": 5,
+        "enga": 1083,
+        "todayUser": "senatorcantwell"
+    },
+    {
+        "count": 5,
+        "enga": 101,
+        "todayUser": "repbrianfitz"
+    },
+    {
+        "count": 5,
+        "enga": 49,
+        "todayUser": "repjohncurtis"
+    },
+    {
+        "count": 5,
+        "enga": 8304,
+        "todayUser": "repdonbeyer"
+    },
+    {
+        "count": 5,
+        "enga": 1550,
+        "todayUser": "repgallagher"
+    },
+    {
+        "count": 5,
+        "enga": 862,
+        "todayUser": "houseforeigngop"
+    },
+    {
+        "count": 5,
+        "enga": 95,
+        "todayUser": "senatorlujan"
+    },
+    {
+        "count": 5,
+        "enga": 105,
+        "todayUser": "rephaleystevens"
+    },
+    {
+        "count": 4,
+        "enga": 658,
+        "todayUser": "repjoshharder"
+    },
+    {
+        "count": 4,
+        "enga": 1431,
+        "todayUser": "SenatorBobCasey"
+    },
+    {
+        "count": 4,
+        "enga": 49,
+        "todayUser": "repmiketurner"
+    },
+    {
+        "count": 4,
+        "enga": 98,
+        "todayUser": "repdavideprice"
+    },
+    {
+        "count": 4,
+        "enga": 914,
+        "todayUser": "repraskin"
+    },
+    {
+        "count": 4,
+        "enga": 1051,
+        "todayUser": "SenatorLankford"
+    },
+    {
+        "count": 4,
+        "enga": 1133,
+        "todayUser": "RepJimBanks"
+    },
+    {
+        "count": 4,
+        "enga": 571,
+        "todayUser": "senmarkkelly"
+    },
+    {
+        "count": 4,
+        "enga": 389,
         "todayUser": "jerrymoran"
     },
     {
-        "count": 3,
-        "enga": 918,
-        "todayUser": "senatorhirono"
+        "count": 4,
+        "enga": 97,
+        "todayUser": "repagonzalez"
     },
     {
-        "count": 3,
-        "enga": 515,
-        "todayUser": "chrisvanhollen"
+        "count": 4,
+        "enga": 30,
+        "todayUser": "rephuffman"
     },
     {
-        "count": 3,
-        "enga": 2328,
-        "todayUser": "JohnKennedyLouisiana"
+        "count": 4,
+        "enga": 528,
+        "todayUser": "senmarkey"
     },
     {
-        "count": 3,
-        "enga": 933,
+        "count": 4,
+        "enga": 238,
+        "todayUser": "repkatcammack"
+    },
+    {
+        "count": 4,
+        "enga": 49,
+        "todayUser": "repdesaulnier"
+    },
+    {
+        "count": 4,
+        "enga": 24,
+        "todayUser": "congressmanbobbyrush"
+    },
+    {
+        "count": 4,
+        "enga": 102,
+        "todayUser": "repbalderson"
+    },
+    {
+        "count": 4,
+        "enga": 1050,
+        "todayUser": "senatortester"
+    },
+    {
+        "count": 4,
+        "enga": 100,
+        "todayUser": "repraulgrijalva"
+    },
+    {
+        "count": 4,
+        "enga": 67,
+        "todayUser": "repnewhouse"
+    },
+    {
+        "count": 4,
+        "enga": 73,
+        "todayUser": "RepFrankLucas"
+    },
+    {
+        "count": 4,
+        "enga": 994,
+        "todayUser": "RepMullin"
+    },
+    {
+        "count": 4,
+        "enga": 65,
+        "todayUser": "repbryansteil"
+    },
+    {
+        "count": 4,
+        "enga": 75,
+        "todayUser": "reprutherfordfl"
+    },
+    {
+        "count": 4,
+        "enga": 340,
+        "todayUser": "repjudychu"
+    },
+    {
+        "count": 4,
+        "enga": 792,
+        "todayUser": "repmullin"
+    },
+    {
+        "count": 4,
+        "enga": 71,
+        "todayUser": "reppfluger"
+    },
+    {
+        "count": 4,
+        "enga": 137,
+        "todayUser": "repjahanahayes"
+    },
+    {
+        "count": 4,
+        "enga": 137,
+        "todayUser": "chelliepingree"
+    },
+    {
+        "count": 4,
+        "enga": 88,
+        "todayUser": "reprobinkelly"
+    },
+    {
+        "count": 4,
+        "enga": 49,
+        "todayUser": "repharshbarger"
+    },
+    {
+        "count": 4,
+        "enga": 247,
+        "todayUser": "repdavidkustoff"
+    },
+    {
+        "count": 4,
+        "enga": 96,
+        "todayUser": "repronkind"
+    },
+    {
+        "count": 4,
+        "enga": 48,
+        "todayUser": "repelaineluria"
+    },
+    {
+        "count": 4,
+        "enga": 255,
+        "todayUser": "repcasten"
+    },
+    {
+        "count": 4,
+        "enga": 1310,
+        "todayUser": "sengarypeters"
+    },
+    {
+        "count": 4,
+        "enga": 3622,
+        "todayUser": "repswalwell"
+    },
+    {
+        "count": 4,
+        "enga": 2640,
+        "todayUser": "senatorsinema"
+    },
+    {
+        "count": 4,
+        "enga": 221,
+        "todayUser": "repdebdingell"
+    },
+    {
+        "count": 4,
+        "enga": 53982,
+        "todayUser": "gopleader"
+    },
+    {
+        "count": 4,
+        "enga": 47,
+        "todayUser": "repmalinowski"
+    },
+    {
+        "count": 4,
+        "enga": 10672,
+        "todayUser": "NancyPelosi"
+    },
+    {
+        "count": 4,
+        "enga": 324,
+        "todayUser": "repdianadegette"
+    },
+    {
+        "count": 4,
+        "enga": 63,
+        "todayUser": "johnboozman"
+    },
+    {
+        "count": 4,
+        "enga": 271,
+        "todayUser": "repritchie"
+    },
+    {
+        "count": 4,
+        "enga": 1589,
+        "todayUser": "repdeanphillips"
+    },
+    {
+        "count": 4,
+        "enga": 3172,
+        "todayUser": "jeffmerkley"
+    },
+    {
+        "count": 4,
+        "enga": 55,
+        "todayUser": "repscottpeters"
+    },
+    {
+        "count": 4,
+        "enga": 81,
+        "todayUser": "repohalleran"
+    },
+    {
+        "count": 4,
+        "enga": 122,
+        "todayUser": "rephorsford"
+    },
+    {
+        "count": 4,
+        "enga": 237,
+        "todayUser": "reprosendale"
+    },
+    {
+        "count": 4,
+        "enga": 147,
+        "todayUser": "reptedbudd"
+    },
+    {
+        "count": 4,
+        "enga": 123,
+        "todayUser": "sencapito"
+    },
+    {
+        "count": 4,
+        "enga": 101,
+        "todayUser": "dorismatsui"
+    },
+    {
+        "count": 4,
+        "enga": 491,
+        "todayUser": "repchrisstewart"
+    },
+    {
+        "count": 4,
+        "enga": 509,
+        "todayUser": "senatorlankford"
+    },
+    {
+        "count": 4,
+        "enga": 2428,
+        "todayUser": "MarkRWarner"
+    },
+    {
+        "count": 4,
+        "enga": 2309,
+        "todayUser": "senronjohnson"
+    },
+    {
+        "count": 4,
+        "enga": 835,
+        "todayUser": "gerryconnolly"
+    },
+    {
+        "count": 4,
+        "enga": 3156,
         "todayUser": "SenDuckworth"
     },
     {
-        "count": 3,
-        "enga": 208,
-        "todayUser": "SenatorToddYoung"
+        "count": 4,
+        "enga": 4473,
+        "todayUser": "chuckgrassley"
+    },
+    {
+        "count": 4,
+        "enga": 3439,
+        "todayUser": "repkarenbass"
+    },
+    {
+        "count": 4,
+        "enga": 72,
+        "todayUser": "repchuygarcia"
+    },
+    {
+        "count": 4,
+        "enga": 61,
+        "todayUser": "repthompson"
+    },
+    {
+        "count": 4,
+        "enga": 189,
+        "todayUser": "senbillcassidy"
     },
     {
         "count": 3,
-        "enga": 993,
-        "todayUser": "SenatorAngusSKingJr"
+        "enga": 54,
+        "todayUser": "repanniekuster"
     },
     {
         "count": 3,
-        "enga": 200,
-        "todayUser": "replucymcbath"
+        "enga": 671,
+        "todayUser": "repjasoncrow"
     },
     {
         "count": 3,
-        "enga": 38,
-        "todayUser": "homelanddems"
+        "enga": 478,
+        "todayUser": "EdJMarkey"
+    },
+    {
+        "count": 3,
+        "enga": 448,
+        "todayUser": "reptimryan"
+    },
+    {
+        "count": 3,
+        "enga": 35,
+        "todayUser": "housecommerce"
+    },
+    {
+        "count": 3,
+        "enga": 755,
+        "todayUser": "SteveDainesMT"
+    },
+    {
+        "count": 3,
+        "enga": 513,
+        "todayUser": "senjohnthune"
+    },
+    {
+        "count": 3,
+        "enga": 600,
+        "todayUser": "johncornyn"
+    },
+    {
+        "count": 3,
+        "enga": 493,
+        "todayUser": "RepKarenBass"
+    },
+    {
+        "count": 3,
+        "enga": 430,
+        "todayUser": "repstephmurphy"
+    },
+    {
+        "count": 3,
+        "enga": 46,
+        "todayUser": "repdavidtrone"
     },
     {
         "count": 3,
         "enga": 40,
-        "todayUser": "RepJimCosta"
+        "todayUser": "repadamsmith"
     },
     {
         "count": 3,
-        "enga": 1941,
-        "todayUser": "senatortester"
+        "enga": 896,
+        "todayUser": "staceyplaskett"
     },
     {
-        "count": 2,
+        "count": 3,
+        "enga": 20,
+        "todayUser": "repmckinley"
+    },
+    {
+        "count": 3,
+        "enga": 940,
+        "todayUser": "repmobrooks"
+    },
+    {
+        "count": 3,
+        "enga": 17,
+        "todayUser": "repdwstweets"
+    },
+    {
+        "count": 3,
+        "enga": 982,
+        "todayUser": "SenGaryPeters"
+    },
+    {
+        "count": 3,
+        "enga": 15,
+        "todayUser": "kilili_sablan"
+    },
+    {
+        "count": 3,
+        "enga": 45,
+        "todayUser": "donaldnorcross"
+    },
+    {
+        "count": 3,
+        "enga": 457,
+        "todayUser": "repmarkgreen"
+    },
+    {
+        "count": 3,
+        "enga": 183,
+        "todayUser": "warrendavidson"
+    },
+    {
+        "count": 3,
+        "enga": 44,
+        "todayUser": "repbradwenstrup"
+    },
+    {
+        "count": 3,
+        "enga": 140,
+        "todayUser": "repsusanwild"
+    },
+    {
+        "count": 3,
+        "enga": 41,
+        "todayUser": "repdelgado"
+    },
+    {
+        "count": 3,
+        "enga": 181,
+        "todayUser": "repgwenmoore"
+    },
+    {
+        "count": 3,
+        "enga": 226,
+        "todayUser": "repdonyoung"
+    },
+    {
+        "count": 3,
+        "enga": 154,
+        "todayUser": "repandykimnj"
+    },
+    {
+        "count": 3,
+        "enga": 169,
+        "todayUser": "senshelley"
+    },
+    {
+        "count": 3,
+        "enga": 14,
+        "todayUser": "teammoulton"
+    },
+    {
+        "count": 3,
+        "enga": 2050,
+        "todayUser": "SenatorDurbin"
+    },
+    {
+        "count": 3,
+        "enga": 154,
+        "todayUser": "repstaceyplaskett"
+    },
+    {
+        "count": 3,
+        "enga": 289,
+        "todayUser": "SenatorHassan"
+    },
+    {
+        "count": 3,
+        "enga": 41,
+        "todayUser": "repperlmutter"
+    },
+    {
+        "count": 3,
+        "enga": 1273,
+        "todayUser": "senjohnkennedy"
+    },
+    {
+        "count": 3,
+        "enga": 378,
+        "todayUser": "repmcgovern"
+    },
+    {
+        "count": 3,
+        "enga": 8,
+        "todayUser": "senateagdems"
+    },
+    {
+        "count": 3,
+        "enga": 225,
+        "todayUser": "RepSmucker"
+    },
+    {
+        "count": 3,
+        "enga": 4385,
+        "todayUser": "senduckworth"
+    },
+    {
+        "count": 3,
+        "enga": 209,
+        "todayUser": "repteddeutch"
+    },
+    {
+        "count": 3,
+        "enga": 293,
+        "todayUser": "jiminhofe"
+    },
+    {
+        "count": 3,
+        "enga": 348,
+        "todayUser": "repterrisewell"
+    },
+    {
+        "count": 3,
+        "enga": 57,
+        "todayUser": "repkimschrier"
+    },
+    {
+        "count": 3,
+        "enga": 263,
+        "todayUser": "repmalliotakis"
+    },
+    {
+        "count": 3,
+        "enga": 2972,
+        "todayUser": "reprashida"
+    },
+    {
+        "count": 3,
+        "enga": 1150,
+        "todayUser": "repgrothman"
+    },
+    {
+        "count": 3,
+        "enga": 298,
+        "todayUser": "repmikejohnson"
+    },
+    {
+        "count": 3,
+        "enga": 268,
+        "todayUser": "CongressmanBradSchneider"
+    },
+    {
+        "count": 3,
+        "enga": 118,
+        "todayUser": "repronnyjackson"
+    },
+    {
+        "count": 3,
+        "enga": 179,
+        "todayUser": "rephartzler"
+    },
+    {
+        "count": 3,
+        "enga": 81,
+        "todayUser": "bettymccollum04"
+    },
+    {
+        "count": 3,
+        "enga": 8,
+        "todayUser": "RepRodneyDavis"
+    },
+    {
+        "count": 3,
+        "enga": 134,
+        "todayUser": "jacksonleetx18"
+    },
+    {
+        "count": 3,
+        "enga": 140,
+        "todayUser": "RepSarbanes"
+    },
+    {
+        "count": 3,
+        "enga": 65,
+        "todayUser": "reppatfallon"
+    },
+    {
+        "count": 3,
+        "enga": 94,
+        "todayUser": "repstricklandwa"
+    },
+    {
+        "count": 3,
+        "enga": 125,
+        "todayUser": "reprubengallego"
+    },
+    {
+        "count": 3,
+        "enga": 101,
+        "todayUser": "repfletcher"
+    },
+    {
+        "count": 3,
+        "enga": 84,
+        "todayUser": "repsmucker"
+    },
+    {
+        "count": 3,
+        "enga": 101,
+        "todayUser": "repangiecraig"
+    },
+    {
+        "count": 3,
+        "enga": 133,
+        "todayUser": "RepRickLarsen"
+    },
+    {
+        "count": 3,
+        "enga": 27223,
+        "todayUser": "sensanders"
+    },
+    {
+        "count": 3,
+        "enga": 75,
+        "todayUser": "repbera"
+    },
+    {
+        "count": 3,
+        "enga": 188,
+        "todayUser": "senatorleahy"
+    },
+    {
+        "count": 3,
+        "enga": 102,
+        "todayUser": "robwittman"
+    },
+    {
+        "count": 3,
+        "enga": 114,
+        "todayUser": "benniegthompson"
+    },
+    {
+        "count": 3,
+        "enga": 99,
+        "todayUser": "senhydesmith"
+    },
+    {
+        "count": 3,
         "enga": 33,
-        "todayUser": "reppeteaguilar"
+        "todayUser": "repcartwright"
     },
     {
-        "count": 2,
-        "enga": 92,
-        "todayUser": "grassley"
+        "count": 3,
+        "enga": 91,
+        "todayUser": "congboyle"
     },
     {
-        "count": 2,
+        "count": 3,
         "enga": 89,
-        "todayUser": "152569121550"
+        "todayUser": "repadams"
+    },
+    {
+        "count": 3,
+        "enga": 66,
+        "todayUser": "hascdemocrats"
+    },
+    {
+        "count": 3,
+        "enga": 1578,
+        "todayUser": "RepJoyceBeatty"
+    },
+    {
+        "count": 3,
+        "enga": 69,
+        "todayUser": "nrdems"
+    },
+    {
+        "count": 3,
+        "enga": 317,
+        "todayUser": "vernbuchanan"
+    },
+    {
+        "count": 3,
+        "enga": 2657,
+        "todayUser": "maziehirono"
+    },
+    {
+        "count": 3,
+        "enga": 1424,
+        "todayUser": "repfredkeller"
+    },
+    {
+        "count": 3,
+        "enga": 405,
+        "todayUser": "rosadelauro"
+    },
+    {
+        "count": 3,
+        "enga": 415,
+        "todayUser": "MartinHeinrich"
+    },
+    {
+        "count": 3,
+        "enga": 304,
+        "todayUser": "repherrell"
+    },
+    {
+        "count": 3,
+        "enga": 286,
+        "todayUser": "repjamescomer"
+    },
+    {
+        "count": 3,
+        "enga": 323,
+        "todayUser": "greschenthaler"
+    },
+    {
+        "count": 3,
+        "enga": 317,
+        "todayUser": "reppetestauber"
+    },
+    {
+        "count": 3,
+        "enga": 129,
+        "todayUser": "DonaldNorcrossNJ"
+    },
+    {
+        "count": 3,
+        "enga": 87,
+        "todayUser": "repbobgood"
+    },
+    {
+        "count": 3,
+        "enga": 755,
+        "todayUser": "SenatorKaine"
+    },
+    {
+        "count": 3,
+        "enga": 69,
+        "todayUser": "repcarlos"
+    },
+    {
+        "count": 3,
+        "enga": 82,
+        "todayUser": "repchiproy"
+    },
+    {
+        "count": 3,
+        "enga": 35,
+        "todayUser": "housevetaffairs"
+    },
+    {
+        "count": 3,
+        "enga": 1456,
+        "todayUser": "SenatorBlunt"
+    },
+    {
+        "count": 3,
+        "enga": 8,
+        "todayUser": "bankinggop"
+    },
+    {
+        "count": 3,
+        "enga": 2174,
+        "todayUser": "RepMoBrooks"
     },
     {
         "count": 2,
-        "enga": 111,
-        "todayUser": "repmikegarcia"
+        "enga": 26238,
+        "todayUser": "repmattgaetz"
     },
     {
         "count": 2,
-        "enga": 937,
-        "todayUser": "SenatorMarcoRubio"
+        "enga": 972,
+        "todayUser": "repdancrenshaw"
     },
     {
         "count": 2,
-        "enga": 227,
-        "todayUser": "SenatorMikeRounds"
+        "enga": 915,
+        "todayUser": "RepAdamSchiff"
     },
     {
         "count": 2,
-        "enga": 301,
+        "enga": 553,
+        "todayUser": "repmarymiller"
+    },
+    {
+        "count": 2,
+        "enga": 957,
+        "todayUser": "repdustyjohnson"
+    },
+    {
+        "count": 2,
+        "enga": 1234,
+        "todayUser": "repjerrynadler"
+    },
+    {
+        "count": 2,
+        "enga": 1486,
+        "todayUser": "senatortimscott"
+    },
+    {
+        "count": 2,
+        "enga": 2338,
+        "todayUser": "repkatieporter"
+    },
+    {
+        "count": 2,
+        "enga": 1489,
+        "todayUser": "repseanmaloney"
+    },
+    {
+        "count": 2,
+        "enga": 2603,
+        "todayUser": "ilhan"
+    },
+    {
+        "count": 2,
+        "enga": 3408,
+        "todayUser": "repgosar"
+    },
+    {
+        "count": 2,
+        "enga": 8053,
+        "todayUser": "senatorsanders"
+    },
+    {
+        "count": 2,
+        "enga": 1068,
+        "todayUser": "sensherrodbrown"
+    },
+    {
+        "count": 2,
+        "enga": 144,
+        "todayUser": "repbowman"
+    },
+    {
+        "count": 2,
+        "enga": 34542,
+        "todayUser": "repadamschiff"
+    },
+    {
+        "count": 2,
+        "enga": 363,
+        "todayUser": "jefffortenberry"
+    },
+    {
+        "count": 2,
+        "enga": 458,
+        "todayUser": "repgregsteube"
+    },
+    {
+        "count": 2,
+        "enga": 515,
+        "todayUser": "senjohnbarrasso"
+    },
+    {
+        "count": 2,
+        "enga": 350,
+        "todayUser": "CongresswomanRosaDeLauro"
+    },
+    {
+        "count": 2,
+        "enga": 151,
+        "todayUser": "CongressmanEricSwalwell"
+    },
+    {
+        "count": 2,
+        "enga": 189,
+        "todayUser": "stevedaines"
+    },
+    {
+        "count": 2,
+        "enga": 204,
         "todayUser": "susancollins"
     },
     {
         "count": 2,
-        "enga": 177,
-        "todayUser": "senatorchriscoons"
+        "enga": 132,
+        "todayUser": "reparrington"
+    },
+    {
+        "count": 2,
+        "enga": 178,
+        "todayUser": "repsaludcarbajal"
+    },
+    {
+        "count": 2,
+        "enga": 223,
+        "todayUser": "senatorcardin"
+    },
+    {
+        "count": 2,
+        "enga": 192,
+        "todayUser": "RepRichHudson"
+    },
+    {
+        "count": 2,
+        "enga": 793,
+        "todayUser": "ronwyden"
+    },
+    {
+        "count": 2,
+        "enga": 851,
+        "todayUser": "RepEliseStefanik"
+    },
+    {
+        "count": 2,
+        "enga": 97,
+        "todayUser": "repfeenstra"
+    },
+    {
+        "count": 2,
+        "enga": 665,
+        "todayUser": "senatorhirono"
+    },
+    {
+        "count": 2,
+        "enga": 476,
+        "todayUser": "sentuberville"
+    },
+    {
+        "count": 2,
+        "enga": 120,
+        "todayUser": "repbarragan"
+    },
+    {
+        "count": 2,
+        "enga": 94,
+        "todayUser": "senatorjimrisch"
+    },
+    {
+        "count": 2,
+        "enga": 90,
+        "todayUser": "rephankjohnson"
+    },
+    {
+        "count": 2,
+        "enga": 52,
+        "todayUser": "repschrader"
+    },
+    {
+        "count": 2,
+        "enga": 106,
+        "todayUser": "repjohnyarmuth"
+    },
+    {
+        "count": 2,
+        "enga": 78,
+        "todayUser": "repjimcooper"
+    },
+    {
+        "count": 2,
+        "enga": 179,
+        "todayUser": "bobbyscott"
+    },
+    {
+        "count": 2,
+        "enga": 74,
+        "todayUser": "houseaggop"
+    },
+    {
+        "count": 2,
+        "enga": 83,
+        "todayUser": "boblatta"
+    },
+    {
+        "count": 2,
+        "enga": 62,
+        "todayUser": "senateaggop"
+    },
+    {
+        "count": 2,
+        "enga": 74,
+        "todayUser": "JimCooper"
+    },
+    {
+        "count": 2,
+        "enga": 108,
+        "todayUser": "congpalazzo"
+    },
+    {
+        "count": 2,
+        "enga": 120,
+        "todayUser": "DianaDeGette"
+    },
+    {
+        "count": 2,
+        "enga": 88,
+        "todayUser": "johnbarrasso"
+    },
+    {
+        "count": 2,
+        "enga": 80,
+        "todayUser": "repmeijer"
+    },
+    {
+        "count": 2,
+        "enga": 104,
+        "todayUser": "senthomtillis"
+    },
+    {
+        "count": 2,
+        "enga": 127,
+        "todayUser": "reppeterdefazio"
+    },
+    {
+        "count": 2,
+        "enga": 88,
+        "todayUser": "repjeffduncan"
+    },
+    {
+        "count": 2,
+        "enga": 76,
+        "todayUser": "senatorrisch"
+    },
+    {
+        "count": 2,
+        "enga": 76,
+        "todayUser": "repanthonybrown"
+    },
+    {
+        "count": 2,
+        "enga": 373,
+        "todayUser": "RepTedLieu"
+    },
+    {
+        "count": 2,
+        "enga": 156,
+        "todayUser": "repburgessowens"
+    },
+    {
+        "count": 2,
+        "enga": 403,
+        "todayUser": "senatorbennet"
+    },
+    {
+        "count": 2,
+        "enga": 666,
+        "todayUser": "SenatorWhitehouse"
+    },
+    {
+        "count": 2,
+        "enga": 638,
+        "todayUser": "senmikelee"
+    },
+    {
+        "count": 2,
+        "enga": 149,
+        "todayUser": "SenJackReed"
+    },
+    {
+        "count": 2,
+        "enga": 61,
+        "todayUser": "hsgac"
+    },
+    {
+        "count": 2,
+        "enga": 128,
+        "todayUser": "repsteel"
+    },
+    {
+        "count": 2,
+        "enga": 79,
+        "todayUser": "sentoddyoung"
+    },
+    {
+        "count": 2,
+        "enga": 29,
+        "todayUser": "repspartz"
+    },
+    {
+        "count": 2,
+        "enga": 32,
+        "todayUser": "repbice"
+    },
+    {
+        "count": 2,
+        "enga": 36,
+        "todayUser": "repannaeshoo"
+    },
+    {
+        "count": 2,
+        "enga": 45,
+        "todayUser": "repbethvanduyne"
+    },
+    {
+        "count": 2,
+        "enga": 37,
+        "todayUser": "repfitzgerald"
+    },
+    {
+        "count": 2,
+        "enga": 65,
+        "todayUser": "repgolden"
+    },
+    {
+        "count": 2,
+        "enga": 3,
+        "todayUser": "hascrepublicans"
+    },
+    {
+        "count": 2,
+        "enga": 21,
+        "todayUser": "repblaine"
+    },
+    {
+        "count": 2,
+        "enga": 9,
+        "todayUser": "repdavid"
+    },
+    {
+        "count": 2,
+        "enga": 44,
+        "todayUser": "homelanddems"
+    },
+    {
+        "count": 2,
+        "enga": 43,
+        "todayUser": "joecourtney"
+    },
+    {
+        "count": 2,
+        "enga": 1,
+        "todayUser": "energydems"
+    },
+    {
+        "count": 2,
+        "enga": 54,
+        "todayUser": "repveasey"
+    },
+    {
+        "count": 2,
+        "enga": 13,
+        "todayUser": "repmichaelguest"
+    },
+    {
+        "count": 2,
+        "enga": 38,
+        "todayUser": "reprickcrawford"
+    },
+    {
+        "count": 2,
+        "enga": 24,
+        "todayUser": "sendansullivan"
+    },
+    {
+        "count": 2,
+        "enga": 12,
+        "todayUser": "replarrybucshon"
+    },
+    {
+        "count": 2,
+        "enga": 30,
+        "todayUser": "repcardenas"
+    },
+    {
+        "count": 2,
+        "enga": 16,
+        "todayUser": "repdannydavis"
+    },
+    {
+        "count": 2,
+        "enga": 14,
+        "todayUser": "rep_stevewomack"
+    },
+    {
+        "count": 2,
+        "enga": 2,
+        "todayUser": "edlaborcmte"
+    },
+    {
+        "count": 2,
+        "enga": 20,
+        "todayUser": "repjohnlarson"
+    },
+    {
+        "count": 2,
+        "enga": 6,
+        "todayUser": "HouseCommitteeOnForeignAffairsDemocrats"
+    },
+    {
+        "count": 2,
+        "enga": 14,
+        "todayUser": "repmceachin"
+    },
+    {
+        "count": 2,
+        "enga": 54,
+        "todayUser": "repkathleenrice"
+    },
+    {
+        "count": 2,
+        "enga": 263,
+        "todayUser": "repmariasalazar"
+    },
+    {
+        "count": 2,
+        "enga": 32,
+        "todayUser": "repteresalf"
+    },
+    {
+        "count": 2,
+        "enga": 23,
+        "todayUser": "repjimcosta"
+    },
+    {
+        "count": 2,
+        "enga": 35,
+        "todayUser": "reppeteaguilar"
+    },
+    {
+        "count": 2,
+        "enga": 121,
+        "todayUser": "cathymcmorris"
+    },
+    {
+        "count": 2,
+        "enga": 171,
+        "todayUser": "senatecommerce"
+    },
+    {
+        "count": 2,
+        "enga": 15,
+        "todayUser": "repfranklucas"
+    },
+    {
+        "count": 2,
+        "enga": 312,
+        "todayUser": "repmarienewman"
+    },
+    {
+        "count": 2,
+        "enga": 324,
+        "todayUser": "214258646163"
+    },
+    {
+        "count": 2,
+        "enga": 240,
+        "todayUser": "repdanbishop"
+    },
+    {
+        "count": 2,
+        "enga": 353,
+        "todayUser": "SenDanSullivan"
+    },
+    {
+        "count": 2,
+        "enga": 201,
+        "todayUser": "judgecarter"
+    },
+    {
+        "count": 2,
+        "enga": 233,
+        "todayUser": "repbarrymoore"
+    },
+    {
+        "count": 2,
+        "enga": 403,
+        "todayUser": "SenBlumenthal"
+    },
+    {
+        "count": 2,
+        "enga": 302,
+        "todayUser": "RepRubenGallego"
+    },
+    {
+        "count": 2,
+        "enga": 246,
+        "todayUser": "repdavids"
+    },
+    {
+        "count": 2,
+        "enga": 66,
+        "todayUser": "RepFrenchHill"
+    },
+    {
+        "count": 2,
+        "enga": 236,
+        "todayUser": "repandrecarson"
+    },
+    {
+        "count": 2,
+        "enga": 43,
+        "todayUser": "RepJohnLarson"
+    },
+    {
+        "count": 2,
+        "enga": 26,
+        "todayUser": "replaturner"
+    },
+    {
+        "count": 2,
+        "enga": 66,
+        "todayUser": "repcolinallred"
+    },
+    {
+        "count": 2,
+        "enga": 16,
+        "todayUser": "tomcoleok04"
+    },
+    {
+        "count": 2,
+        "enga": 23,
+        "todayUser": "repebj"
+    },
+    {
+        "count": 2,
+        "enga": 63,
+        "todayUser": "repmarktakano"
+    },
+    {
+        "count": 2,
+        "enga": 69,
+        "todayUser": "replowenthal"
+    },
+    {
+        "count": 2,
+        "enga": 4,
+        "todayUser": "natresources"
+    },
+    {
+        "count": 2,
+        "enga": 11,
+        "todayUser": "gracenapolitano"
+    },
+    {
+        "count": 2,
+        "enga": 7,
+        "todayUser": "senfinance"
+    },
+    {
+        "count": 2,
+        "enga": 49,
+        "todayUser": "repdarrensoto"
     },
     {
         "count": 2,
@@ -336,162 +2311,682 @@
     },
     {
         "count": 2,
-        "enga": 2,
-        "todayUser": "energyandcommercedemocrats"
-    },
-    {
-        "count": 2,
-        "enga": 498,
-        "todayUser": "senatormikelee"
-    },
-    {
-        "count": 2,
-        "enga": 1,
-        "todayUser": "housebudgetdems"
-    },
-    {
-        "count": 2,
-        "enga": 2,
-        "todayUser": "energydems"
-    },
-    {
-        "count": 2,
-        "enga": 1295,
-        "todayUser": "SenatorKaine"
-    },
-    {
-        "count": 2,
-        "enga": 952,
-        "todayUser": "SenatorThomTillis"
-    },
-    {
-        "count": 2,
-        "enga": 14,
-        "todayUser": "teammoulton"
+        "enga": 43,
+        "todayUser": "reprichhudson"
     },
     {
         "count": 1,
-        "enga": 6759,
-        "todayUser": "SenatorRandPaul"
+        "enga": 89,
+        "todayUser": "repbencline"
     },
     {
         "count": 1,
-        "enga": 34,
-        "todayUser": "JohnBoozman"
+        "enga": 101,
+        "todayUser": "sentoomey"
     },
     {
         "count": 1,
-        "enga": 29,
-        "todayUser": "HouseJudDems"
+        "enga": 28,
+        "todayUser": "robert_aderholt"
     },
     {
         "count": 1,
-        "enga": 1190,
-        "todayUser": "congressmanhice"
-    },
-    {
-        "count": 1,
-        "enga": 66,
-        "todayUser": "SenBrianSchatz"
-    },
-    {
-        "count": 1,
-        "enga": 333,
-        "todayUser": "SenatorBlunt"
-    },
-    {
-        "count": 1,
-        "enga": 727,
-        "todayUser": "senatortammybaldwin"
-    },
-    {
-        "count": 1,
-        "enga": 1466,
-        "todayUser": "senatorfeinstein"
-    },
-    {
-        "count": 1,
-        "enga": 74,
-        "todayUser": "CongressmanAndreCarson"
-    },
-    {
-        "count": 1,
-        "enga": 22,
-        "todayUser": "GusBilirakis"
-    },
-    {
-        "count": 1,
-        "enga": 1086,
-        "todayUser": "SenatorTimScott"
-    },
-    {
-        "count": 1,
-        "enga": 1655,
-        "todayUser": "senronjohnson"
-    },
-    {
-        "count": 1,
-        "enga": 224,
-        "todayUser": "JoeManchinIII"
-    },
-    {
-        "count": 1,
-        "enga": 39,
+        "enga": 32,
         "todayUser": "repkevinhern"
     },
     {
         "count": 1,
-        "enga": 17,
-        "todayUser": "tomcarper"
+        "enga": 30,
+        "todayUser": "repbuddycarter"
     },
     {
         "count": 1,
-        "enga": 9,
-        "todayUser": "TomColeOK04"
+        "enga": 101,
+        "todayUser": "RepRutherfordFL"
     },
     {
         "count": 1,
-        "enga": 6,
-        "todayUser": "housevetaffairs"
+        "enga": 30,
+        "todayUser": "senjohnhoeven"
     },
     {
         "count": 1,
-        "enga": 4,
-        "todayUser": "helsinkicommission"
+        "enga": 34,
+        "todayUser": "CongresswomanAdams"
     },
     {
         "count": 1,
-        "enga": 4,
-        "todayUser": "hascrepublicans"
+        "enga": 79,
+        "todayUser": "SenatorMikeRounds"
     },
     {
         "count": 1,
-        "enga": 3,
-        "todayUser": "ScienceDemocrats"
+        "enga": 107,
+        "todayUser": "GwenSMoore"
     },
     {
         "count": 1,
-        "enga": 95,
-        "todayUser": "RepLarryBucshon"
+        "enga": 85,
+        "todayUser": "repzoelofgren"
     },
     {
         "count": 1,
-        "enga": 138,
-        "todayUser": "SenMarkKelly"
+        "enga": 28,
+        "todayUser": "repsires"
+    },
+    {
+        "count": 1,
+        "enga": 116,
+        "todayUser": "senatorbencardin"
+    },
+    {
+        "count": 1,
+        "enga": 30,
+        "todayUser": "reploudermilk"
+    },
+    {
+        "count": 1,
+        "enga": 92,
+        "todayUser": "RepWebster"
+    },
+    {
+        "count": 1,
+        "enga": 146,
+        "todayUser": "senatorchriscoons"
     },
     {
         "count": 1,
         "enga": 15,
-        "todayUser": "mikecrapo"
+        "todayUser": "repguthrie"
+    },
+    {
+        "count": 1,
+        "enga": 121,
+        "todayUser": "tomcarper"
+    },
+    {
+        "count": 1,
+        "enga": 34,
+        "todayUser": "RepRogerWilliams"
+    },
+    {
+        "count": 1,
+        "enga": 36,
+        "todayUser": "repmikerogersal"
+    },
+    {
+        "count": 1,
+        "enga": 179,
+        "todayUser": "repdean"
+    },
+    {
+        "count": 1,
+        "enga": 74,
+        "todayUser": "senamyklobuchar"
+    },
+    {
+        "count": 1,
+        "enga": 167,
+        "todayUser": "senangusking"
+    },
+    {
+        "count": 1,
+        "enga": 35,
+        "todayUser": "housejudiciary"
+    },
+    {
+        "count": 1,
+        "enga": 163,
+        "todayUser": "RepBost"
+    },
+    {
+        "count": 1,
+        "enga": 131,
+        "todayUser": "SenatorAngusSKingJr"
+    },
+    {
+        "count": 1,
+        "enga": 25,
+        "todayUser": "RepKathleenRice"
+    },
+    {
+        "count": 1,
+        "enga": 35,
+        "todayUser": "repgregorymeeks"
+    },
+    {
+        "count": 1,
+        "enga": 141,
+        "todayUser": "drnealdunnfl2"
+    },
+    {
+        "count": 1,
+        "enga": 140,
+        "todayUser": "RepJayapal"
+    },
+    {
+        "count": 1,
+        "enga": 186,
+        "todayUser": "SenBrianSchatz"
+    },
+    {
+        "count": 1,
+        "enga": 182,
+        "todayUser": "jahimes"
+    },
+    {
+        "count": 1,
+        "enga": 46,
+        "todayUser": "CongressmanMarcVeasey"
+    },
+    {
+        "count": 1,
+        "enga": 195,
+        "todayUser": "senatortoomey"
+    },
+    {
+        "count": 1,
+        "enga": 37,
+        "todayUser": "repmeuser"
+    },
+    {
+        "count": 1,
+        "enga": 280,
+        "todayUser": "replizcheney"
+    },
+    {
+        "count": 1,
+        "enga": 38,
+        "todayUser": "repblakemoore"
+    },
+    {
+        "count": 1,
+        "enga": 19,
+        "todayUser": "repgregpence"
+    },
+    {
+        "count": 1,
+        "enga": 235,
+        "todayUser": "SenMarkKelly"
+    },
+    {
+        "count": 1,
+        "enga": 19,
+        "todayUser": "repvantaylor"
+    },
+    {
+        "count": 1,
+        "enga": 225,
+        "todayUser": "senstabenow"
+    },
+    {
+        "count": 1,
+        "enga": 19,
+        "todayUser": "repbilljohnson"
+    },
+    {
+        "count": 1,
+        "enga": 64,
+        "todayUser": "repgregstanton"
+    },
+    {
+        "count": 1,
+        "enga": 209,
+        "todayUser": "hsbcgop"
+    },
+    {
+        "count": 1,
+        "enga": 26,
+        "todayUser": "repbobgibbs"
+    },
+    {
+        "count": 1,
+        "enga": 204,
+        "todayUser": "repdlamborn"
+    },
+    {
+        "count": 1,
+        "enga": 21,
+        "todayUser": "HouseVetsAffairs"
+    },
+    {
+        "count": 1,
+        "enga": 199,
+        "todayUser": "repandybarr"
+    },
+    {
+        "count": 1,
+        "enga": 37,
+        "todayUser": "SenLisaMurkowski"
+    },
+    {
+        "count": 1,
+        "enga": 281,
+        "todayUser": "senatorcollins"
+    },
+    {
+        "count": 1,
+        "enga": 18,
+        "todayUser": "repjuanvargas"
+    },
+    {
+        "count": 1,
+        "enga": 290,
+        "todayUser": "replucymcbath"
+    },
+    {
+        "count": 1,
+        "enga": 16,
+        "todayUser": "repcheri"
+    },
+    {
+        "count": 1,
+        "enga": 16,
+        "todayUser": "repjackbergman"
+    },
+    {
+        "count": 1,
+        "enga": 16,
+        "todayUser": "repchuck"
+    },
+    {
+        "count": 1,
+        "enga": 39,
+        "todayUser": "peterwelch"
+    },
+    {
+        "count": 1,
+        "enga": 32,
+        "todayUser": "CongressmanBoyle"
+    },
+    {
+        "count": 1,
+        "enga": 345,
+        "todayUser": "SenatorTomCotton"
+    },
+    {
+        "count": 1,
+        "enga": 197,
+        "todayUser": "USSenTinaSmith"
+    },
+    {
+        "count": 1,
+        "enga": 17,
+        "todayUser": "replahood"
+    },
+    {
+        "count": 1,
+        "enga": 305,
+        "todayUser": "SenatorThomTillis"
+    },
+    {
+        "count": 1,
+        "enga": 17,
+        "todayUser": "repdavejoyce"
+    },
+    {
+        "count": 1,
+        "enga": 65,
+        "todayUser": "housesmallbiz"
+    },
+    {
+        "count": 1,
+        "enga": 17,
+        "todayUser": "repfrenchhill"
+    },
+    {
+        "count": 1,
+        "enga": 18,
+        "todayUser": "repmgriffith"
+    },
+    {
+        "count": 1,
+        "enga": 18,
+        "todayUser": "repkweisimfume"
+    },
+    {
+        "count": 1,
+        "enga": 136,
+        "todayUser": "RepJackBergman"
+    },
+    {
+        "count": 1,
+        "enga": 2,
+        "todayUser": "HASCDemocrats"
+    },
+    {
+        "count": 1,
+        "enga": 25,
+        "todayUser": "reparmstrongnd"
+    },
+    {
+        "count": 1,
+        "enga": 14,
+        "todayUser": "repfredupton"
+    },
+    {
+        "count": 1,
+        "enga": 893,
+        "todayUser": "senbennetco"
+    },
+    {
+        "count": 1,
+        "enga": 851,
+        "todayUser": "senatortammybaldwin"
+    },
+    {
+        "count": 1,
+        "enga": 93,
+        "todayUser": "repmcclintock"
+    },
+    {
+        "count": 1,
+        "enga": 10,
+        "todayUser": "repgonzalez"
+    },
+    {
+        "count": 1,
+        "enga": 51,
+        "todayUser": "repsamgraves"
+    },
+    {
+        "count": 1,
+        "enga": 41,
+        "todayUser": "senbrianschatz"
+    },
+    {
+        "count": 1,
+        "enga": 12,
+        "todayUser": "usrepmikedoyle"
+    },
+    {
+        "count": 1,
+        "enga": 59,
+        "todayUser": "RepAdamSmith"
+    },
+    {
+        "count": 1,
+        "enga": 440,
+        "todayUser": "replouiegohmert"
+    },
+    {
+        "count": 1,
+        "enga": 14,
+        "todayUser": "repronestes"
+    },
+    {
+        "count": 1,
+        "enga": 605,
+        "todayUser": "chrismurphyct"
+    },
+    {
+        "count": 1,
+        "enga": 429,
+        "todayUser": "congressmanbuddycarter"
+    },
+    {
+        "count": 1,
+        "enga": 14,
+        "todayUser": "txrandy14"
+    },
+    {
+        "count": 1,
+        "enga": 14,
+        "todayUser": "repfranklin"
+    },
+    {
+        "count": 1,
+        "enga": 15,
+        "todayUser": "call_me_dutch"
+    },
+    {
+        "count": 1,
+        "enga": 3641,
+        "todayUser": "repmaxinewaters"
+    },
+    {
+        "count": 1,
+        "enga": 15,
+        "todayUser": "repmrvan"
+    },
+    {
+        "count": 1,
+        "enga": 15,
+        "todayUser": "RepJohnKatko"
     },
     {
         "count": 1,
         "enga": 60,
-        "todayUser": "sencortezmasto"
+        "todayUser": "SenatorToddYoung"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repkevinbrady"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repkmanning"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repdavidscott"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repallawsonjr"
+    },
+    {
+        "count": 1,
+        "enga": 10,
+        "todayUser": "repcuellar"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repbost"
+    },
+    {
+        "count": 1,
+        "enga": 804,
+        "todayUser": "SenatorStabenow"
+    },
+    {
+        "count": 1,
+        "enga": 614,
+        "todayUser": "senatormikelee"
+    },
+    {
+        "count": 1,
+        "enga": 11,
+        "todayUser": "repcarolmiller"
+    },
+    {
+        "count": 1,
+        "enga": 10,
+        "todayUser": "81058818750"
+    },
+    {
+        "count": 1,
+        "enga": 10,
+        "todayUser": "repfrankpallone"
+    },
+    {
+        "count": 1,
+        "enga": 48,
+        "todayUser": "mcmorrisrodgers"
+    },
+    {
+        "count": 1,
+        "enga": 3,
+        "todayUser": "housebudgetdems"
+    },
+    {
+        "count": 1,
+        "enga": 15,
+        "todayUser": "repmann"
+    },
+    {
+        "count": 1,
+        "enga": 50,
+        "todayUser": "repslotkin"
+    },
+    {
+        "count": 1,
+        "enga": 16,
+        "todayUser": "reppaultonko"
+    },
+    {
+        "count": 1,
+        "enga": 1099,
+        "todayUser": "senatorfeinstein"
+    },
+    {
+        "count": 1,
+        "enga": 6,
+        "todayUser": "repdavidschweikert"
+    },
+    {
+        "count": 1,
+        "enga": 6,
+        "todayUser": "jayobernolte"
+    },
+    {
+        "count": 1,
+        "enga": 1616,
+        "todayUser": "RepRalphNorman"
+    },
+    {
+        "count": 1,
+        "enga": 6,
+        "todayUser": "repkirkpatrick"
+    },
+    {
+        "count": 1,
+        "enga": 7,
+        "todayUser": "repjohnkatko"
+    },
+    {
+        "count": 1,
+        "enga": 7,
+        "todayUser": "repjoecourtney"
+    },
+    {
+        "count": 1,
+        "enga": 6,
+        "todayUser": "repjoewilson"
+    },
+    {
+        "count": 1,
+        "enga": 7,
+        "todayUser": "sanfordbishop"
+    },
+    {
+        "count": 1,
+        "enga": 8,
+        "todayUser": "repwalorski"
+    },
+    {
+        "count": 1,
+        "enga": 8,
+        "todayUser": "edlaborgop"
+    },
+    {
+        "count": 1,
+        "enga": 50,
+        "todayUser": "RepDonYoung"
+    },
+    {
+        "count": 1,
+        "enga": 39,
+        "todayUser": "repbobbyrush"
+    },
+    {
+        "count": 1,
+        "enga": 41,
+        "todayUser": "jecdems"
+    },
+    {
+        "count": 1,
+        "enga": 44,
+        "todayUser": "epwcmte"
+    },
+    {
+        "count": 1,
+        "enga": 50,
+        "todayUser": "repgracemeng"
+    },
+    {
+        "count": 1,
+        "enga": 1811,
+        "todayUser": "repralphnorman"
+    },
+    {
+        "count": 1,
+        "enga": 1834,
+        "todayUser": "SenatorMarcoRubio"
+    },
+    {
+        "count": 1,
+        "enga": 2279,
+        "todayUser": "repmtg"
+    },
+    {
+        "count": 1,
+        "enga": 26090,
+        "todayUser": "repkinzinger"
+    },
+    {
+        "count": 1,
+        "enga": 46,
+        "todayUser": "CongressmanWarrenDavidson"
+    },
+    {
+        "count": 1,
+        "enga": 1,
+        "todayUser": "repkahele"
+    },
+    {
+        "count": 1,
+        "enga": 2,
+        "todayUser": "reprwilliams"
+    },
+    {
+        "count": 1,
+        "enga": 12451,
+        "todayUser": "repjeffries"
+    },
+    {
+        "count": 1,
+        "enga": 2,
+        "todayUser": "sascgop"
+    },
+    {
+        "count": 1,
+        "enga": 7771,
+        "todayUser": "sen_joemanchin"
+    },
+    {
+        "count": 1,
+        "enga": 2,
+        "todayUser": "inhofepress"
+    },
+    {
+        "count": 1,
+        "enga": 3,
+        "todayUser": "repbillfoster"
+    },
+    {
+        "count": 1,
+        "enga": 3,
+        "todayUser": "repwesterman"
     },
     {
         "count": 1,
         "enga": 0,
-        "todayUser": "RulesDemocrats"
+        "todayUser": "energygop"
     }
 ]
