@@ -1,87 +1,379 @@
 [
     {
-        "count": 32,
-        "todayUserMentions": "NSF"
-    },
-    {
-        "count": 19,
+        "count": 60,
         "todayUserMentions": "POTUS"
     },
     {
-        "count": 19,
+        "count": 46,
+        "todayUserMentions": "HouseDemocrats"
+    },
+    {
+        "count": 44,
+        "todayUserMentions": "January6thCmte"
+    },
+    {
+        "count": 29,
         "todayUserMentions": "AppropsDems"
     },
     {
-        "count": 15,
-        "todayUserMentions": "DOEScience"
+        "count": 18,
+        "todayUserMentions": "CapitolPolice"
+    },
+    {
+        "count": 14,
+        "todayUserMentions": "HouseGOP"
+    },
+    {
+        "count": 14,
+        "todayUserMentions": "TeamUSA"
     },
     {
         "count": 13,
-        "todayUserMentions": "SecretaryPete"
+        "todayUserMentions": "CDCgov"
     },
     {
-        "count": 9,
-        "todayUserMentions": "ENERGY"
+        "count": 12,
+        "todayUserMentions": ""
     },
     {
-        "count": 8,
-        "todayUserMentions": "RepEBJ"
-    },
-    {
-        "count": 6,
-        "todayUserMentions": "VP"
-    },
-    {
-        "count": 6,
-        "todayUserMentions": "SBAgov"
-    },
-    {
-        "count": 5,
+        "count": 10,
         "todayUserMentions": "SpeakerPelosi"
     },
     {
-        "count": 4,
-        "todayUserMentions": "RepBarbaraLee"
-    },
-    {
-        "count": 4,
-        "todayUserMentions": "HouseCommerce"
-    },
-    {
-        "count": 4,
-        "todayUserMentions": "RepFrankLucas"
-    },
-    {
-        "count": 4,
-        "todayUserMentions": "SenSchumer"
-    },
-    {
-        "count": 4,
-        "todayUserMentions": "doescience"
-    },
-    {
-        "count": 3,
-        "todayUserMentions": "rosadelauro"
-    },
-    {
-        "count": 3,
-        "todayUserMentions": "USACEHQ"
-    },
-    {
-        "count": 3,
-        "todayUserMentions": "TransportDems"
-    },
-    {
-        "count": 3,
-        "todayUserMentions": "SchoolingDiana"
-    },
-    {
-        "count": 3,
+        "count": 10,
         "todayUserMentions": "GOPLeader"
     },
     {
+        "count": 9,
+        "todayUserMentions": "DCPoliceDept"
+    },
+    {
+        "count": 8,
+        "todayUserMentions": "SecBlinken"
+    },
+    {
+        "count": 8,
+        "todayUserMentions": "SecMayorkas"
+    },
+    {
+        "count": 8,
+        "todayUserMentions": "SenWarren"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "WhiteHouse"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "Sen_JoeManchin"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "RepFrankLucas"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "USDA"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "NIST"
+    },
+    {
+        "count": 7,
+        "todayUserMentions": "FERC"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "POTUS\u2019"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "DeptVetAffairs"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "RulesDemocrats"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "HouseScience"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "POTUS's"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "RepMariaSalazar"
+    },
+    {
+        "count": 6,
+        "todayUserMentions": "housesciencegop"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "AppropsDems,"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "EnergyDems"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "RepBurgessOwens"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "RepFrenchHill"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "rosadelauro"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "Interior"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "SecDebHaaland"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "MarioDB"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "CongressmanGT!"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "RepMTG"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "HouseJudiciary"
+    },
+    {
+        "count": 5,
+        "todayUserMentions": "RepMaloney"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "Simone_Biles"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "EnergyGOP"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "HouseAgGOP"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "newsmax"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "SenRickScott"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "EnergyCommerce"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "BLMNational"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RepBlaine"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "DARollins"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RepMariaSalazar's"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "usairforce"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "NewYorkStateAG"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "DeptofDefense"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RulesDemocrats."
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "SteveScalise,"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RepBost"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "VP"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "rissmoore10"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "HouseAgDems"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "BennieGThompson"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "Jim_Jordan"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RepCindyAxne"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "nijelloshea"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "virginiafoxx"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "OversightDems"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "WFP"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "FoxBusiness"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "RepRoKhanna"
+    },
+    {
+        "count": 4,
+        "todayUserMentions": "GOPLeader,"
+    },
+    {
         "count": 3,
-        "todayUserMentions": "SenateForeign"
+        "todayUserMentions": "RepDeborahRoss"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SenJohnKennedy"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "TeamCavuto"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SecVilsack"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "rosadelauro:"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepJohnKatko"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepGregSteube"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "EdLaborGOP"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "StateDept."
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "CommishMcCurdy"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepAndreCarson"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepCawthorn"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepKinzinger."
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "MorningsMaria"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "CPAC"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SecVetAffairs"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SBAgov"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepMMM"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SenatorDurbin"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "FSCDems"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "StateDept"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "US_EDA"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "USDOL"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "NIST's"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepRalphNorman"
     },
     {
         "count": 3,
@@ -89,107 +381,183 @@
     },
     {
         "count": 3,
-        "todayUserMentions": "PeterHotez"
+        "todayUserMentions": "SenBooker,"
     },
     {
         "count": 3,
-        "todayUserMentions": "CDCgov"
+        "todayUserMentions": "SenateBanking"
     },
     {
         "count": 3,
-        "todayUserMentions": "USDA"
+        "todayUserMentions": "RepPeterDeFazio"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "universityofky"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "VirginiaFoxx"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepGosar"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "NewRiverNPS"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepNancyMace"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SenTedCruz"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "HouseVetAffairs"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepBurgessOwens\u2019"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepBobGood"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "USASoftball"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "YuPersis"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepMcCaul"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "rweingarten"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepGosar,"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SenBooker"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "HouseForeign"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "SenSchumer"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "CECCgov"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepDanCrenshaw"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "USDOT"
+    },
+    {
+        "count": 3,
+        "todayUserMentions": "RepMaxineWaters"
     },
     {
         "count": 2,
-        "todayUserMentions": "PhillyMayor"
+        "todayUserMentions": "RepMondaire"
     },
     {
         "count": 2,
-        "todayUserMentions": "KCMO"
+        "todayUserMentions": "HUDgov"
     },
     {
         "count": 2,
-        "todayUserMentions": "DOE"
+        "todayUserMentions": "BLMNational,"
     },
     {
         "count": 2,
-        "todayUserMentions": "librarycongress"
+        "todayUserMentions": "RepStephenLynch"
     },
     {
         "count": 2,
-        "todayUserMentions": "CAANevada"
+        "todayUserMentions": "RepHarshbarger"
     },
     {
         "count": 2,
-        "todayUserMentions": "RepMcClintock,"
+        "todayUserMentions": "HouseDemocrats'"
     },
     {
         "count": 2,
-        "todayUserMentions": "OversightDems"
+        "todayUserMentions": "CongressmanHice"
     },
     {
         "count": 2,
-        "todayUserMentions": "HouseScience"
+        "todayUserMentions": "RepBryanSteil"
     },
     {
         "count": 2,
-        "todayUserMentions": "Jim_Jordan,"
+        "todayUserMentions": "RepMaryMiller"
     },
     {
         "count": 2,
-        "todayUserMentions": "Rep_Clyde"
+        "todayUserMentions": "heidiismighty"
     },
     {
         "count": 2,
-        "todayUserMentions": "US_FDA"
+        "todayUserMentions": "bowe_becker"
     },
     {
         "count": 2,
-        "todayUserMentions": "MSNBC"
+        "todayUserMentions": "RepDelBene"
     },
     {
         "count": 2,
-        "todayUserMentions": "SecDebHaaland"
+        "todayUserMentions": "USArmy"
     },
     {
         "count": 2,
-        "todayUserMentions": "RepMaloney"
+        "todayUserMentions": "SenatorCardin"
     },
     {
         "count": 2,
-        "todayUserMentions": "SpeakerPelosi,"
+        "todayUserMentions": "JimLangevin"
     },
     {
         "count": 2,
-        "todayUserMentions": "HailStateBB"
+        "todayUserMentions": "RepMarkTakano's"
     },
     {
         "count": 2,
-        "todayUserMentions": "GovMikeDeWine"
+        "todayUserMentions": "POTUS."
     },
     {
         "count": 2,
-        "todayUserMentions": "RepJohnKatko"
+        "todayUserMentions": "FinancialCmte"
     },
     {
         "count": 2,
-        "todayUserMentions": "femaregion4"
+        "todayUserMentions": "RepJamesComer"
     },
     {
         "count": 2,
-        "todayUserMentions": "StateDept"
+        "todayUserMentions": "GunOwners"
     },
     {
         "count": 2,
-        "todayUserMentions": "dcck"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "EleanorNorton"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "RepMaloney\u2019s"
+        "todayUserMentions": "PatrickMcHenry"
     },
     {
         "count": 2,
@@ -197,7 +565,47 @@
     },
     {
         "count": 2,
-        "todayUserMentions": "Amgen"
+        "todayUserMentions": "RepMMM,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepChrisWelch,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "foxandfriends"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorEnzi"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "JohnBoozman"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepRitchie"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenJohnBarrasso"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "UKRifle"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "BLMNational."
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "HouseDemocrats\u2019"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SEPTA"
     },
     {
         "count": 2,
@@ -205,763 +613,527 @@
     },
     {
         "count": 2,
-        "todayUserMentions": "Fox5DC"
+        "todayUserMentions": "IleanaGarciaUSA"
     },
     {
         "count": 2,
-        "todayUserMentions": "QuintonLucasKC"
+        "todayUserMentions": "USAID"
     },
     {
         "count": 2,
-        "todayUserMentions": "MGMResortsIntl\u2019s"
+        "todayUserMentions": "NewDemCoalition"
     },
     {
         "count": 2,
-        "todayUserMentions": "RepDebDingell"
+        "todayUserMentions": "RepClayHiggins"
     },
     {
         "count": 2,
-        "todayUserMentions": "chelliepingree"
+        "todayUserMentions": "TishJames"
     },
     {
         "count": 2,
-        "todayUserMentions": "JoeBiden"
+        "todayUserMentions": "SenDuckworth"
     },
     {
         "count": 2,
-        "todayUserMentions": "FoxNews"
+        "todayUserMentions": "RepJeffries"
     },
     {
         "count": 2,
-        "todayUserMentions": "teamcavuto"
+        "todayUserMentions": "SenatorRisch"
     },
     {
         "count": 2,
-        "todayUserMentions": "DeptVetAffairs"
+        "todayUserMentions": "DemWomenCaucus"
     },
     {
         "count": 2,
-        "todayUserMentions": "rosadelauro:"
+        "todayUserMentions": "SecRaimondo"
     },
     {
         "count": 2,
-        "todayUserMentions": "TBLightning"
+        "todayUserMentions": "IowaNatGuard"
     },
     {
         "count": 2,
-        "todayUserMentions": "SebGorka"
+        "todayUserMentions": "SenatorCardin."
     },
     {
         "count": 2,
-        "todayUserMentions": "RepAdamSmith"
+        "todayUserMentions": "RepConorLamb"
     },
     {
         "count": 2,
-        "todayUserMentions": "POTUS\u2019"
+        "todayUserMentions": "RobinhoodApp"
     },
     {
         "count": 2,
-        "todayUserMentions": "newsmax"
+        "todayUserMentions": "RepTimRyan,"
     },
     {
         "count": 2,
-        "todayUserMentions": "DesJarlaisTN04"
+        "todayUserMentions": "SenMikeLee"
     },
     {
         "count": 2,
-        "todayUserMentions": "SylvesterTurner"
+        "todayUserMentions": "NYTimes"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "BPieronigold"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "apple_zach"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "AmaliaDache"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "kdurquiza"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepGregoryMeeks"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "DHSgov."
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepBost,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "USGS"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "KPMuseum"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorMenendez"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepAOC"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "cathymcmorris"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepBrownley"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "USUN"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepFischbach"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "EPA"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "nebinois"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepAndyBarr"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "seanspicer"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorLeahy"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TransportDems,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepHoulahan"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "January6thCmte."
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "KitePharma"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepJamesComer's"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "replouiegohmert"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "HouseGOP,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepYoungKim"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorSinema"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "adriennelyle1"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TomColeOK04\u2019s"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepCasten"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepKinzinger"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "yairlapid"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "POTUS:"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorEnzi's"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "WHOSTP45"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepEBJ"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMikeRogersAL"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "US_FDA"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepLoriTrahan"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepJimBanks"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "BobbyScott"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "lapublichealth"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "NJTRANSIT"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TXRandy14"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMalinowski"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "JoaquinCastrotx"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "NIH"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "HHSgov"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "January6thCmte's"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "ExxonMobil"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenatorHick"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "FLSheriffs"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TomColeOK04"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "StaceyPlaskett"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "seanhannity"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "MLB"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "January6thCmte,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "EveningEdit"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "FoxBusiness."
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenMarkey"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMeijer"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "judithheumann"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepCarlos,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepRaskin"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "erekbarron"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "MarioDB,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "GOPOversight"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepAlexMooney"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "CDCgov's"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepStefanik"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TheRealANCOR\u2019s"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepDeanPhillips"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepGrothman"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepDwightEvans"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepEspaillat"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMattGaetz"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepLouieGohmert,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "thehill"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepBillFoster"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "USPS"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "commercedems"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SenateGOP"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "JayObernolte"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMarkTakano"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "enriquesantos"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RonWyden,"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepDonBacon"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "LeaderMcConnell"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "MyFLFamilies"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepAndyBiggsAZ"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TheJusticeDept"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "mitchellreports"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepSusanWild"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepGregMurphy"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepMcCaul:"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepPressley:"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepChrisWelch"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "mcallenairport"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "CNN"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "TeamUSA."
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "marthamaccallum"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "WalshFreedom"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "SecondGentleman"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepDavidTrone"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "RepGregoryMeeks:"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "USGAO"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "DHSgov"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "Robinhoodapp"
+    },
+    {
+        "count": 2,
+        "todayUserMentions": "MSNBC"
     },
     {
         "count": 2,
         "todayUserMentions": "RepJeffDuncan"
     },
     {
-        "count": 2,
-        "todayUserMentions": "RepMcCaul,"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "sunrisemvmt"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "capgaznews"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "SecBecerra"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "HouseGOP"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "RepDonaldsPress"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "SecCardona"
-    },
-    {
-        "count": 2,
-        "todayUserMentions": "RepHaleyStevens,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenatorMenendez,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WSJ"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepUnderwood"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "andyschor"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "lansingmichigan"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "thehill:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CMKoslowitz"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UAW"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LeroyComrie"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "KCMO,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WhiteHouse"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "bbuckleyad8,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BarbaraJWalters"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AndrewHevesi,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DanRosenthalNYC,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USNavy!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CommishMcCurdy,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ACLUNV,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "EnergyCommerce"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HouseAgGOP"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "civicimpact_jhu\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "pastrnak96"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DanODonnellShow"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "newstalk1130!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TobaccoFreeKids"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MKNVspeaks,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MethodistHosp"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MarsGlobal"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DeptofDefense."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PHLCommerce"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "319thRW"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "chelliepingree\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBrownley\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LGSuzanneCrouch"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WhatsApp"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Biblauer:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "VandyBoys!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenateGOP"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "POTUS's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "FLGuard\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RevistaSemana."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "jr_williford"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDavidTrone"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenJohnKennedy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "FERC"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SecMartyWalsh"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AmeriCorps"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USAID."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAndyHarrisMD"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRonnyJackson"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PeteSessions"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAlexMooney"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepCloudTX"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepHartzler"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepFletcher"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HHSGov"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRickAllen"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMondaire,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBobGibbs"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "congbillposey"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BigShowFarm"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDerekKilmer"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenJackyRosen"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenStabenow"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CheyneyUniv,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RUMCSI"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BennieGThompson"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WVNS59News"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "fema's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SpectrumNews1TX"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGolden."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UtahBankers"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Robert_Aderholt"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USTreasury"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "kayden_phoenix"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GAEquality"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DHSgov"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HoustonKeene"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "FoxNews)"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepStricklandWA!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "211info"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NewAlbanyOhio!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "northwestdr"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "FieldtoMarket's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NPR!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UMich!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LibraryCongress"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TyHigginsAg,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ocj_ohioagnet"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "OhioFarmBureau"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CityofDetroit"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepEBJ."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ohiobankers."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenatorWicker"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMcKinley"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepSpanberger"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SEC_News"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PCAOB_News."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ABMillerHS'"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenBillCassidy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Interior"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "westerncaucus!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HillsFireRescue"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TampaFireRescue"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "braintreemayor,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WalterFTimilty"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenJohnFKeenan"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "mohawkaustin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DallasNews"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "nvfreetaxes"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "pgfarmsinc!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TempleHealth"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDavidRouzer"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepChrisPappas"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NorCalCavsFan."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NorCalCavsFan"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "iava"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "votevets"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "OsbertUSMCVET"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NHL"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CARHNews"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAnthonyBrown"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CentralState87."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DeptofDefense"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Jim_Jordan"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "cathymcmorris"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USAID\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMMM'"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "IAFC"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ColumbusGov"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MayorGinther"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BillPascrell"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CityOfNOLA"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "mayorcantrell"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Salemchevy1"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "cspanwj."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USAAccelerate,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TransportDems,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "China_TaskForce"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HomelandGOP"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepZoeLofgren"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBowman"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "leighalice"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "lewisjacquie"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CathyMcMorris,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HSBCgop"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CongressmanGT"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BettyMcCollum04"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMarkTakano"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USNavy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SouthFLGirl954"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Miketheparking1"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Doescience!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LockhartISD"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TGowdySC."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HomelandGOP\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USArmy:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ArmyChiefStaff"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SecArmy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AccessHealthCT"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Deedrah:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DonaldNorcross"
-    },
-    {
         "count": 1,
-        "todayUserMentions": "USBotanicGarden"
+        "todayUserMentions": "RepHuffman's"
     },
     {
         "count": 1,
-        "todayUserMentions": "tghilarducci"
+        "todayUserMentions": "MarkedByCOVID"
     },
     {
         "count": 1,
@@ -969,151 +1141,35 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "HHSgov"
+        "todayUserMentions": "ToddStarnes"
     },
     {
         "count": 1,
-        "todayUserMentions": "Volcanoes_NPS,"
+        "todayUserMentions": "UArkansas."
     },
     {
         "count": 1,
-        "todayUserMentions": "Sen_JoeManchin\u2019s"
+        "todayUserMentions": "ChrisVanHollen"
     },
     {
         "count": 1,
-        "todayUserMentions": "DeptofDefense\u2019s"
+        "todayUserMentions": "RepArrington,"
     },
     {
         "count": 1,
-        "todayUserMentions": "JimLangevin"
+        "todayUserMentions": "enjoyRTS"
     },
     {
         "count": 1,
-        "todayUserMentions": "HouseSmallBiz,"
+        "todayUserMentions": "CMSGov"
     },
     {
         "count": 1,
-        "todayUserMentions": "7NewsDC"
+        "todayUserMentions": "HouseFloor"
     },
     {
         "count": 1,
-        "todayUserMentions": "CityOfBoston"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MayorKimJaney"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NCBWLasVegas"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HouseForeign"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLawrence"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AppropsDems\u2019"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Toyota"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "OregonState\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UAW."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UnitedPowerChi,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DOEscience"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBarbaraLee\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BeintemaLuanne"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "doescience."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LockheedMartin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SecDef"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAOC."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepHoulahan"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LeaderMcConnell"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TheCityofJoliet"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PhiladelphiaGov"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBethVanDuyne"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRashida"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "kilmeade"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ainsleyearhardt,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SteveDoocy,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "foxandfriends"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "univofdayton"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DeptofDefense's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USArmy,"
+        "todayUserMentions": "FoodlinkNY"
     },
     {
         "count": 1,
@@ -1121,879 +1177,19 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "FCC"
+        "todayUserMentions": "michaelcburgess,"
     },
     {
         "count": 1,
-        "todayUserMentions": "DARnewspaper"
+        "todayUserMentions": "SenatorEnzi."
     },
     {
         "count": 1,
-        "todayUserMentions": "RepDavidRouzer,"
+        "todayUserMentions": "FrankPallone"
     },
     {
         "count": 1,
-        "todayUserMentions": "CongressionalAC"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DavidWestin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USBPChiefDRT"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenRickScott"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "EPA"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PPBEP_FLAL"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "housesciencegop"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepHaleyStevens"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAndyLevin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepSlotkin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepWalberg"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepFredUpton"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDanKildee"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMoolenaar"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMeijer"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepHuizenga"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJackBergman"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AmericaNewsroom"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DeandreAyton!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HotSteamyCorn"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HoustonTX"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BlackPrideRVA"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "VA_Pride,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "EqualityVA,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "climate_caucus,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRoybalAllard"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USIndianAffairs'"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "bamhtf,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepConorLamb"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "fema"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LocalFirstAZ"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BrewersAssoc"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CityofFontanaCA"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AcqieWarren"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CCATInc"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LGBTEqCaucus"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CongressmanHice"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MayorToddGloria"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepHarshbarger"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Facebook"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GiantFood"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "LeaderHoyer,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MSNBC:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ArcadiaFood,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NJ_Opinion"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "APAH_org,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "FXBGNats,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AF_Academy."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ASCETweets,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SBAgov?"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PHXFire"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UNITEHERE11"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMcGovern"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenFeinstein."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "familyforward"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SEIULocal503"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SecGranholm"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBlumenauer"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBonamici"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USAirForce"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMaloney."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DARollins"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ProbSolveCaucus."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Bakari_Sellers"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JakeTapper"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TheLeadCNN"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepCori"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WSJopinion"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NYCMayor"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "dc_greens"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepNikema,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SteveDaines"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CVRCaucus,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TXRandy14,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBowman,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "michaelgwaltz,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepFrankLucas,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepEBJ,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MorningsMaria"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "dagenmcdowell"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SierraClub,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TheNJGlobe.\""
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JCFRichmond"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "abetterworld98"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GavinGrimmVA."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JudiciaryDems,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MakersLV,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SEIUhciimk\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GoYardGoats\u2014who"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "realchrisrufo"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "captainkudzu"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "AustinFC."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NVAFLCIO"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WayGay"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJudyChu"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CAPAC"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "UNLV"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "mitchellreports"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HouseDemocrats"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CK__09"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLloydDoggett"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJasonCrow\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JimmyPatronis"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGregoryMeeks:"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "sixers"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ODNIgov's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NYGovCuomo"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GMW_K2"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGregoryMeeks"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "21Wilberforce"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "IRSnews"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MKEhealth?"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepCori\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MayorDaniella."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "senrobportman"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DEAHQ,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TFASorg"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CFPB."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepCawthorn"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ericbolling"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MarkMeadows"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PresidentRuvi"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CNN."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "USPS"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Ossoff"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MarkWarner,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenJeffMerkley,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenatorWarnock,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Chirla,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenBooker"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "PattyMurray"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenWarren"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WalshFreedom"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "TuckerCarlson\u2018s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "factcheckdotorg\u2019s"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WSJOpinion"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepChipRoy,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMTG,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "CiCiAdams_"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NewsHour"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "fortcollinsgov"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GunDeaths,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "VandyBoys,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "POTUS,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SenSanders'"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "ChrisMurphyCT's,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "iaeaorg"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "cathymcmorris,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "GOPLeader,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SaraCarterDC"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "MSNBC's"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NBCNews"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Citadel1842"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBoebert,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "Shaw_Inc"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "DesJarlaisTN04."
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "congbillposey,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRalphNorman,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBrianMast,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "replouiegohmert,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAlexMooney,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGosar,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJeffDuncan,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepTimBurchett,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepAndyBiggsAZ,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGregSteube,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepScottPerry,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJasonSmith"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "BSOOBTRANSIT"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDustyJohnson"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "repjimcooper,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDavidEPrice,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDarrenSoto,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDWStweets,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepTerriSewell,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RulesDemocrats"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JosephPinion"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "climate_caucus"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLaTurner"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepThomasMassie"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "repkevinhern"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBoebert"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRonEstes"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepRalphNorman"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMattGaetz"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDLamborn"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMTG"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepGregSteube"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBobGood"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMann"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepChipRoy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WTHRcom"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "JonHansenTV"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WCIU"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RocketContest!"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WCDistrict"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "NMADmuseum"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HAFB,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "IndianCommittee"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "HouseScience,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepDeborahRoss,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "SanfordBishop,"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepublicanStudy"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLucyMcBath"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMoBrooks"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepPatFallon"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepJerryCarl"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepTedBudd"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "replouiegohmert"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "WarrenDavidson"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLoudermilk"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBrianBabin"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMaryMiller"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepBrianMast"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepLaMalfa"
-    },
-    {
-        "count": 1,
-        "todayUserMentions": "RepMarkGreen"
+        "todayUserMentions": "Appropsdems"
     },
     {
         "count": 1,
@@ -2001,87 +1197,875 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "NASA"
+        "todayUserMentions": "NormaJTorres"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepMaxineWaters"
+        "todayUserMentions": "RepChipRoy\u2019s"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepGregPence."
+        "todayUserMentions": "BPC_Bipartisan"
     },
     {
         "count": 1,
-        "todayUserMentions": "NewsweekOpinion"
+        "todayUserMentions": "RepPeteStauber\u2019s"
     },
     {
         "count": 1,
-        "todayUserMentions": "WACWM"
+        "todayUserMentions": "AustinVoices."
     },
     {
         "count": 1,
-        "todayUserMentions": "WUSTLmed,"
+        "todayUserMentions": "cvpayne"
     },
     {
         "count": 1,
-        "todayUserMentions": "WUSTL"
+        "todayUserMentions": "RepJamesComer,"
     },
     {
         "count": 1,
-        "todayUserMentions": "DOLDC"
+        "todayUserMentions": "RepStephenLynch,"
     },
     {
         "count": 1,
-        "todayUserMentions": "amermathsoc"
+        "todayUserMentions": "AARPPuertoRico"
     },
     {
         "count": 1,
-        "todayUserMentions": "HouseDemocrats'"
+        "todayUserMentions": "WhiteHouse,"
     },
     {
         "count": 1,
-        "todayUserMentions": "CityofSanDiego"
+        "todayUserMentions": "joseacaron_aarp"
     },
     {
         "count": 1,
-        "todayUserMentions": "RulesDemocrats."
+        "todayUserMentions": "RepMaloney,"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepRWilliams,"
+        "todayUserMentions": "AFSAHQ's"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepDeanPhillips,"
+        "todayUserMentions": "SecYellen,"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepAngieCraig,"
+        "todayUserMentions": "ACUedu"
     },
     {
         "count": 1,
-        "todayUserMentions": "SenatorBaldwin"
+        "todayUserMentions": "pye"
     },
     {
         "count": 1,
-        "todayUserMentions": "GovLauraKelly"
+        "todayUserMentions": "PatrickMcHenry,"
     },
     {
         "count": 1,
-        "todayUserMentions": "POTUS'"
+        "todayUserMentions": "TheGunnyBunny"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepCindyAxne's"
+        "todayUserMentions": "HouseAgDems,"
     },
     {
         "count": 1,
-        "todayUserMentions": "AppropsDems,"
+        "todayUserMentions": "RepFitzgerald's"
     },
     {
         "count": 1,
-        "todayUserMentions": "SenToddYoung\u2019s"
+        "todayUserMentions": "RepTenney\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "librarycongress"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ArkansasOnline"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AppropsDems!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "brody1700,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ClevelandClinic"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PeteSessions"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JosephPinion"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FinEssentials"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UMFlint"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NewDemCoalition's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenateForeign"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JacobRubashkin"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ShenandoahBio"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "marcorubio"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "markwarner"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USNationalGuard"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseScience,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseSmallBiz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "jimmyfailla:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AmberEnglish18"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChamberMarshall"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMullin."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "abcnews"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "IowaTorch"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenWarren\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ENERGY"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ACGeoEcon,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NWS"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WADeptHealth\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RAGBRAI_IOWA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseCommerce!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DennisRossSEU"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBillFoster,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "C2C_DC!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SpentFuelCaucus"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GOPLeader."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FERC."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "speakerpelosi"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseCommerce,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BoyScouts!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RogerMarshallMD"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKinzinger's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ProtectOurCare"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FSCdems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKevinHern"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepPeteStauber,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CityOfTampa"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WaysMeansCmte's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EdLaborGOP,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSusanWild\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AbbeyWeitzeil,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorCarper"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CommerceGov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJoeMorelle,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "COSAGOV"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "IPCC_CH"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dianermacedo"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHagedorn,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HomelandDems,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenFinance"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDannyDavis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecYellen."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FOX40"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "IDNYC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TxDOT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "tooningout"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "houstonchron"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Simone_Biles."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OhioVets"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMaxineWaters.\ud83c\udfe1"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CongBoyle"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EdLaborCmte,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "libertycil"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "russvought"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SEPTA\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDaveJoyce,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpeier,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UNRWA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChiefDugan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CalStateLA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseAgGOP!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHuffman"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "sengarypeters"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "amrenewctr's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dcexaminer."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CSEA_CT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenBlumenthal"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dhsgov\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "saksappeal"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "braverangels"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Picatinny_NJ"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecretaryPete"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenSanders!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BIZPACReview"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "APIenergy"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMeijer,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "jepence"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRobinKelly"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HelsinkiComm"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJoeWilson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repmeijer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NY1noticias"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "theestallion"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ElecCoopsArk"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ADHPIO"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "nist"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseScience."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KirstenHillmanA,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NationalGuard"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BLMNational\u2013"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "forestservice?"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OECD"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MathiasCormann."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Greyson2020"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DHSgov\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MarthaZoller"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJoeCourtney"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Penn"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMikeQuigley:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "rufusgifford"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LeeSatterfield"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Isobel_Coleman"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChrisLu44"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HHSGov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AdamKinzinger"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenShelby"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "itsJulieBowen:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BrookingsInst"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "StevenOverly"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "duggydo"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EnoTrans"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SBAGov,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JohnsHopkinsSPH\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepFrenchHill\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repjimcooper"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "danielsilvabook"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGaramendi"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Inteior"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NatlParkService"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RebeccaCokley"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AyannaPressley"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKatiePorter"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NHESWorking,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CCSNH603,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WBCampbell3"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJimBaird's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "amylouky"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Hoophall"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SBAgov's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KilleenISD_"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VeteransHealth's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenStabenow:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ForestService!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NIHDirector"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CDCGov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHaleyStevens"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "michaelgwaltz's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USACEHQ"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NWF"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AAPA_Seaports"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WaterwaysCouncl"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TCFdotorg"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TSA_Pekoske"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TSA\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WestVirginiaU's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDWStweets:\"I"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "forestservice"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMeijer's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RichGlickFERC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HealthCareGov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FTA_DOT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "koor_mak"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "17Forward86"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCPublicSafety,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RanchoChamber"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TheHill"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBrianHiggins"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGraceMeng"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTomSuozzi"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USSOCOM"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MarthaMacCallum,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepWaltzPress,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepEBJ,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FoodbankSBC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Housesmallbiz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WAPlanfinder"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ZippyDuvall"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCottonCouncil"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CCPedu"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "onwurd"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NickTShow!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BarbaraBoxer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChrisCochran68"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGwenMoore"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTiffany"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repmarkpocan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRonKind"
     },
     {
         "count": 1,
@@ -2089,87 +2073,403 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "SenSchumer,"
+        "todayUserMentions": "HouseDailyPress"
     },
     {
         "count": 1,
-        "todayUserMentions": "HouseScience\u2019s"
+        "todayUserMentions": "NFIB:"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepRosendale"
+        "todayUserMentions": "ltsOnlyBecky"
     },
     {
         "count": 1,
-        "todayUserMentions": "edvotes"
+        "todayUserMentions": "housescience"
     },
     {
         "count": 1,
-        "todayUserMentions": "NydiaVelazquez,"
+        "todayUserMentions": "Interior:"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepJahanaHayes,"
+        "todayUserMentions": "moteefe"
     },
     {
         "count": 1,
-        "todayUserMentions": "SenGillibrand,"
+        "todayUserMentions": "SorghumGrowers!"
     },
     {
         "count": 1,
-        "todayUserMentions": "MiamiDadeFire"
+        "todayUserMentions": "D156Lewis"
     },
     {
         "count": 1,
-        "todayUserMentions": "SenBooker,"
+        "todayUserMentions": "curlsNE"
     },
     {
         "count": 1,
-        "todayUserMentions": "SecretaryPete,"
+        "todayUserMentions": "RepDean"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepStefanik"
+        "todayUserMentions": "forestservice!"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepNancyMace,"
+        "todayUserMentions": "repdelgado"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepThomasMassie,"
+        "todayUserMentions": "HBCUFoundation"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepHerrell\u2019s"
+        "todayUserMentions": "RepJerryNadler"
     },
     {
         "count": 1,
-        "todayUserMentions": "MaldenOvercomes"
+        "todayUserMentions": "NydiaVelazquez"
     },
     {
         "count": 1,
-        "todayUserMentions": "mrhammertime"
+        "todayUserMentions": "RepLeeZeldin"
     },
     {
         "count": 1,
-        "todayUserMentions": "SenJasonLewis,"
+        "todayUserMentions": "RepJacobs"
     },
     {
         "count": 1,
-        "todayUserMentions": "MayorOfMalden,"
+        "todayUserMentions": "RepGarbarino"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepHoulahan!"
+        "todayUserMentions": "1a"
     },
     {
         "count": 1,
-        "todayUserMentions": "MsPackyetti"
+        "todayUserMentions": "ONDCP"
     },
     {
         "count": 1,
-        "todayUserMentions": "JohnCornyn"
+        "todayUserMentions": "ReginaLaBelle46"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "bamhtf"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenWhitehouse,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "senrobportman"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRubenGallego"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TxStateBobcats"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RockinghamCoNC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAGonzalez's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMcCaul,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCState's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpeier"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DonaldNorcross"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NJCitizenAction"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJoshG"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "paula_span"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DepSecGraves,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "carolfukunaga"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRonnyJackson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "lapublichealth's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMcGovern"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "westerncaucus."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FEMA,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "access_wdun"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepArmstrongND,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WarnerCT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BantamCinema"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MusicMountainCT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LeaderMcConnell's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AGBellSchool"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "fresnounified,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FacebookWatch"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SASCGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SpaceForceDoD,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NormaJTorres!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "nmpf's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GaryGensler!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTimmons,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAndyKimNJ,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LALabor"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGregMurphy,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpanberger,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSlotkin,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAngieCraig,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GuamCongressman"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NJBPU"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FERC,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ZachLaVine"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USouthFlorida"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Belmont1776"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ThanksDad2"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USABrowningK"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "spaceforcedod"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepEspaillat."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAndyBarr,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseSmallBiz,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "debbieantonelli"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovMurphy"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKinzinger\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dougducey,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ICASTshow,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USNavy"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Fargo_AirSho!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BlueAngels,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDavidEPrice:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseAppropsGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTedBudd"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "firstfiveyears"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ThePerryNews:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDavidEPrice"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChrisVanHollen\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepLBR"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MadonnaLong"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NevadaPEP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenateAgDems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenateAgGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JohnBoozman's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NewDemCoalition,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VetAffairsDems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SCSpikes"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMarcyKaptur:"
     },
     {
         "count": 1,
@@ -2177,39 +2477,231 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "lvcc\u2019s"
+        "todayUserMentions": "FlyAZO"
     },
     {
         "count": 1,
-        "todayUserMentions": "TheDailyPilot"
+        "todayUserMentions": "TeamUSA,"
     },
     {
         "count": 1,
-        "todayUserMentions": "VP\u2019s"
+        "todayUserMentions": "RepWesterman's"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepVanTaylor"
+        "todayUserMentions": "UMassLowell"
     },
     {
         "count": 1,
-        "todayUserMentions": "TSA."
+        "todayUserMentions": "CDCgov\u2019s"
     },
     {
         "count": 1,
-        "todayUserMentions": "LGBTEqCaucus,"
+        "todayUserMentions": "BabeCreamery,"
     },
     {
         "count": 1,
-        "todayUserMentions": "RepAdamSchiff"
+        "todayUserMentions": "MDTechCouncil."
     },
     {
         "count": 1,
-        "todayUserMentions": "IrvingPD"
+        "todayUserMentions": "NIST..."
     },
     {
         "count": 1,
-        "todayUserMentions": "WaysMeansCmte"
+        "todayUserMentions": "jahimes"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VeteransHealth"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PeabodyMayor,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Whiskey_Liberty"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RodneyDavis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "msstate"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USequestrian"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SamsHappyMom"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EricWallace117"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CongressmanGT's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "alana_austin"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GrayDCnews"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USASwimming"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "chelliepingree:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CTA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "IamK_Lashay"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KeithPerryFL"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Kat_Cammack"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WhittierPubLib"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PAAttorneyGen"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PhillyMayor"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DA_LarryKrasner"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PPDCommish"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TheJusticeDept!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ContrerasFnd"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DepSecGraves"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DiscoveryLV"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RJHarrisWHP580"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RTCSNV"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EnergyCommerce,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepChrisWelch."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "apa1906NETwork"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EPAMichaelRegan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UF"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WILKNewsradio"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "chucktodd"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MeetThePress"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRWilliams:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenStabenow"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepLouCorrea"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepThompson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HASCDemocrats,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NapaSheriff"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecYellen"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USBPChiefDRT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "theydidwhat_"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CuidadoDeSalud"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WAStateCommerce"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CCPedu,"
     },
     {
         "count": 1,
@@ -2217,114 +2709,1894 @@
     },
     {
         "count": 1,
-        "todayUserMentions": "nakashimae"
+        "todayUserMentions": "Mastercard"
     },
     {
         "count": 1,
-        "todayUserMentions": "CBUSRegion\u2019s"
+        "todayUserMentions": "FERC\u201d"
     },
     {
         "count": 1,
-        "todayUserMentions": "NewAlbanyOhio."
+        "todayUserMentions": "rihanna"
     },
     {
         "count": 1,
-        "todayUserMentions": "Alyssa_Milano,"
+        "todayUserMentions": "RepBoebert"
     },
     {
         "count": 1,
-        "todayUserMentions": "Alyssa_Milano"
+        "todayUserMentions": "CUBoulder"
     },
     {
         "count": 1,
-        "todayUserMentions": "FreeTrevorReed"
+        "todayUserMentions": "EPA's"
     },
     {
         "count": 1,
-        "todayUserMentions": "calpolypomona\u2019s"
+        "todayUserMentions": "SenateGOP,"
     },
     {
         "count": 1,
-        "todayUserMentions": "FoxBusiness"
+        "todayUserMentions": "SenSanders,"
     },
     {
         "count": 1,
-        "todayUserMentions": "LizMacDonaldFOX"
+        "todayUserMentions": "RepPfluger"
     },
     {
         "count": 1,
-        "todayUserMentions": "AustinChronicle\u2b07\ufe0f:"
+        "todayUserMentions": "HumaneSociety,"
     },
     {
         "count": 1,
-        "todayUserMentions": "OutRightIntl"
+        "todayUserMentions": "RepAndyHarrisMD"
     },
     {
         "count": 1,
-        "todayUserMentions": "POTUS."
+        "todayUserMentions": "NatlGunRights"
     },
     {
         "count": 1,
-        "todayUserMentions": "VI_Source"
+        "todayUserMentions": "FoxBusiness:"
     },
     {
         "count": 1,
-        "todayUserMentions": "MichEMHS\u2019"
+        "todayUserMentions": "USAMUSoldiers"
     },
     {
         "count": 1,
-        "todayUserMentions": "BoulderCityNev"
+        "todayUserMentions": "RepDLesko"
     },
     {
         "count": 1,
-        "todayUserMentions": "CNNEE."
+        "todayUserMentions": "elpasomatters"
     },
     {
         "count": 1,
-        "todayUserMentions": "RafaelRomoCNN"
+        "todayUserMentions": "RepJoeNeguse:"
     },
     {
         "count": 1,
-        "todayUserMentions": "DanProft!"
+        "todayUserMentions": "USRepGaryPalmer"
     },
     {
         "count": 1,
-        "todayUserMentions": "AmyJacobson"
+        "todayUserMentions": "IMFNews"
     },
     {
         "count": 1,
-        "todayUserMentions": "MorningAnswer!"
+        "todayUserMentions": "LindaT_G"
     },
     {
         "count": 1,
-        "todayUserMentions": "HouseAgDems"
+        "todayUserMentions": "BornFreeUSA,"
     },
     {
         "count": 1,
-        "todayUserMentions": "repdavidscott"
+        "todayUserMentions": "AWIOnline,"
     },
     {
         "count": 1,
-        "todayUserMentions": "cdrl50"
+        "todayUserMentions": "ASPCA"
     },
     {
         "count": 1,
-        "todayUserMentions": "DailySignal"
+        "todayUserMentions": "RepDavidEPrice."
     },
     {
         "count": 1,
-        "todayUserMentions": "factcheckdotorg"
+        "todayUserMentions": "mschlapp"
     },
     {
         "count": 1,
-        "todayUserMentions": "WhyWherever"
+        "todayUserMentions": "mercedesschlapp"
     },
     {
         "count": 1,
-        "todayUserMentions": "GovParsonMO's"
+        "todayUserMentions": "RobRolison,"
     },
     {
         "count": 1,
-        "todayUserMentions": "forestservice."
+        "todayUserMentions": "TransportDems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Vincent_hancock!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NicolleDWallace"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JoshRogin"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecBlinken."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "jahimes,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GreenMtnPower's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USCoastGuard"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UpNorthNewsWI:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepScottPerry"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AprilDRyan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKenBuck"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMann"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "emmaweyant"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HELPCmteDems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "billmaher"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RealTimers"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HBO"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CDC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LeslieHerod"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenJanetBuckner"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MayaWheelerCO"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenAlexPadilla"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CAPAC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenSchumer\u2014we"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GioGonzalez47,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepLizCheney."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MariManoogian"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ICEgov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenSherrodBrown"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CFPB"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "V_Wyche"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NASA."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NC_Governor"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "markrobinsonNC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCHouseSpeaker"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorBerger"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenBobCasey"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorTimScott"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NHL"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RulesDemocrats,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MSmithDC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "mayorbobdasilva"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GreggAmore1"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "93wibc"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FTiafoe,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KDTrey5,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TaylorKnibb,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BrooklynDA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRichHudson,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepLindaSanchez"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MobileRegional"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Dulles_Airport."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "linakhanFTC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepVeasey"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WarrenDavidson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMrvan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "sarahcwestwood"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dcexaminer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RiponSociety,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TexasHDC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "people"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "allinwithchris."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Newsmax"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JakeTapper"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CNN!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Heritage"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AmeriCorps,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "jdanielferrer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "exxonmobil,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NavyMemorial\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenSherrodBrown,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TobinHeath"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Nic_Fink"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecBlinken\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FAMMFoundation"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USJusticeAction"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DanNewsManBall"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OANN"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GOPLeader?"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WSJ"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USDA."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenFeinstein,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenJeffMerkley,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RonWyden"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DenisMcDonough"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepCarolMiller"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Youth_Corps"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Ford,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "wolfblitzer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CNNSitRoom"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JudiciaryDems"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KingAbdullahII"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RutgersU"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepEdCase"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WRIISC,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJerryCarl"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DaneSheriff"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenRonJohnson's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AFTunion's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCLC4consumers."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repdarrellissa"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "usedgov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HuffPostPol"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMariaSalazar\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GOPLeader\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "POTUS'"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TexasTribune"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMariaSalazar,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMalliotakis,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DARollins,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Lakers)"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FIAnational"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FaithInNewYork"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJimBanks,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Airbnb,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ProcterGamble,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Visa,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJoshG's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "j_litherland"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TeamUSA!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USNationalGuard."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepStefanik,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "toledonews:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NatCounDis\u2014to"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "rweingarten,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDanBishop"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SDonziger\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OversightDems."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "haleytalbotnbc"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RSBNetwork"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Newsmax:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JohnRatcliffe"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ACLU,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "amnesty,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "hrw?"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BretBaier"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GavinNewsom"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenSchumer,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepPressley"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DebtCrisisOrg:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SpeakerPelosi."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMTG,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HeyTammyBruce"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JSandoval1982"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "KerryPicket"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "marcorubio,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MaElviraSalazar"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMattGaetz,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JoeBiden\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JenSiebelNewsom\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecDef"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "libradunn"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SpeakerPelosi\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TheJusticeDept\u2014we"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "mrdannyglover."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenateApprops"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSenfronia,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DiegoBernal."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EnesKanter"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RomeroIsis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ksat"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "grahammediagrp"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Simone_Biles'"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDonBacon's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "POTUS,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WESTMARC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Olympics\u2014and"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBethVanDuyne"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LetUsReunite."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDelbene"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBlakeMoore"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SteveScalise."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepChrisWelch!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NAU"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AlexOtaola"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CubaDecide"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "rosamariapaya"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "axios"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Ossoff,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "1_neighborhood"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "politico"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseScience\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NicoleCollier95"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRaskin's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBobbyRush:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MarioDB."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDLamborn"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorBennet"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FoxNewsSunday"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repblumenauer"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKManning"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGusBilirakis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JohnCornyn"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Fidelity!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTenney"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenateBanking,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenFeinstein"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Chevron"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SDonziger,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovParsonMO."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SEIU"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMarkGreen"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepPatFallon"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepWaltzPress"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAshleyHinson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Simone_Biles,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "jdanielferrer\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CAU\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GOPLeader's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Varneyco"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChrisMurphyCT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepDianaDeGette"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "aaquilla39"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJohnKatko,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "chiddy3!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TheLastWord."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "dagenmcdowell"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SelectGOP:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WmsptSunGazette"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorLankford\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MyABJ"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HELPCmteDems,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "News4SA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PressHerald"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WVsosoffice"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovAbbott"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenGillibrand,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CityPortland\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenMarkKelly"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseCommerce"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "cathymcmorris,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HomelandGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USDOL."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RulesDemocrats:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "chiddy3"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UCSanDiego,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Scripps_Ocean"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repjulialetlow"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepFitzgerald"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "usedgov's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "orlandosentinel"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Lawrence"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepFeenstra!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "nathanlgonzales"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OSHA_DOL"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CommerceGov,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FERC\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BennieGThompson:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ClimateCrisis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NYSOTDA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RiponSociety's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DelStateFair!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EPHCC,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MorningsMaria."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "frankshyong's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GSOHoppers"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WSDashBaseball"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "highpointrockers"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FinesandFeesJC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FairDefense"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FaithandFreedom"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepLizCheney,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "January6thCmte:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "bamhtf,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKweisiMfume"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTedDeutch"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NRO:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CarlosGSmith,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VivianaJaner,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "danielsilvabook."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DavidSatterley"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USASoftballWNT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenMikeLee,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JournalStarNews"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Ford's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HumaneSociety\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HSLegFund"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LisaRayam"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseIntelComm"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "StateDept:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecBlinken's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CSPAN"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JoeBiden,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "mosaicpossible"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMaxineWaters\u2019"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "climate_caucus!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AliciaMenendez."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "northerniowa"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ATFHQ"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VP."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CongressmanGT"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AppropsDems\u2019"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LACity"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SelectGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TravelGov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpartz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ReaganInstitute"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LoudounChamber\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JayBenedictBrow"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBlaine\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Pink"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FCC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FSUFootball"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SaldanaAustinTX"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HABLAATX;"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HuckabeeOnTBN"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovMikeHuckabee"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RoyBlunt"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WuTrain,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EdforBoston"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MassNurses."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JimInhofe"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRaulGrijalva"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USDAgov"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovTimWalz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AliciaMenendez"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TPPF"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TPPF\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "judithheumann,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MadonnaLong,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NevadaPEP,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepGregSteube."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "STGnews"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FERC!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HASCRepublicans"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpeier\u2019s"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepStricklandWA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Channel4News"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Family_Policy"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJasonCrow's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "DavidWestin:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTomRice"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HouseGOP:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepWesterman"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepNewhouse"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecDebHaaland,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SecVilsack,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "westerncaucus"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NatResources"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepCheri."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBrianFitz,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RoyBlunt,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChrisCoons."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JessAnderson2"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FoxFriendsFirst"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "PortMiami"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "mikepompeo,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "northjersey"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChadPergram"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FoxNews"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "traebn"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepKatiePorter,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "JoaquinCastrotx,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepAnnaEshoo"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMikeQuigley,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RulesReps"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovBillLee"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHerrell"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepRickCrawford"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "tnhousegop"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "congbillposey"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ChilesJordan"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AndersonCooper"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AC360"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "moultrie16,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ryan_f_murphy"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenLummis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHerrell,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTiffany,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OversightDems\u2019"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BobbyScott,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepSpartz,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EleanorNorton"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SteveScalise"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CUBADECIDE"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "alexotaola"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LosPichyBoys"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "umcelpaso"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LaFe_ElPasoTX"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VIA_Transit"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "Lakers"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USProgressives"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "IndivisibleTeam,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "EvergreenAction,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "sunrisemvmt"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBrianMast"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "tnsenategop"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ltgovmcnally"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MemorialHermann's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "scdhec,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepJamesComer\ud83d\udc47"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ellenbacca"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepTimmons"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "_king_lil"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepCasten."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "marklevinshow"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AnchChamber"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "GovMurphy's"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CAgovernor."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VP?"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "VP:"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "MarkedByCovid"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CharlesMBlow"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepWesterman,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMoolenaar,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBalderson,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBentz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "USFWS"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "gillibrandny,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SenatorHarkin"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repcleaver,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RobWittman."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "OliviaSmoliga"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NCAA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HoustonMatters"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BlueRibbonNews)"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "SandraSmithFox!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CSexton25"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FoxNews,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TNGOP."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NRA,"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "TheRevAl"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NYCMayor"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "ericadamsfornyc"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HABNET"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "FarahNLouis"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RitaJosephNYC"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "AMBichotte"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "littlehaitibk"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepMaxineWaters'"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepNewhouse."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepBurgessOwens'"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "CapitolPolice."
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "WhiteHouse!"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "UCLA"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "BudgetGOP"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "NEAarts"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepHankJohnson"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "LeAnnaCumber"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "michaelgwaltz"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "RepCohen"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "morethanmySLE"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "repcleaver"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "swimone"
+    },
+    {
+        "count": 1,
+        "todayUserMentions": "HSBCgop"
     }
 ]
