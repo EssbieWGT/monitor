@@ -7,9 +7,10 @@
 
         d3.queue()
             .defer(d3.csv, 'topics.csv')
+            .defer(d3.csv, 'topicNames.csv')
             .await(analyze);
 
-            function analyze(error, jData) {
+            function analyze(error, jData,sData) {
               if(error) { console.log(error); }
 
               //set cateogry heads
@@ -20,15 +21,28 @@
                 return new Date(b.firstSeen).toLocaleString() - new Date(a.firstSeen).toLocaleString();
               });
 
-              categories.forEach(function(data,index){
+              // categories.forEach(function(data,index){
+              //
+              //   d3.select('#current')
+              //     .data(data)
+              //     .append("div")
+              //     .attr("class","innerGrid")
+              //     .attr("id", data.replace(/\s+/g, ""))
+              //     .html("<h2>" + data + "</h2>");
+              //   });
 
-                d3.select('#current')
-                  .data(data)
-                  .append("div")
-                  .attr("class","innerGrid")
-                  .attr("id", data.replace(/\s+/g, ""))
-                  .html("<h2>" + data + "</h2>");
-                });
+
+sData.forEach(function(data,index){
+
+  d3.select('#current')
+    .append("div")
+    .attr("class","innerGrid")
+    .each(function(d){
+      d3.select(this)
+      .attr("id", data.topic)
+      .html("<h2>" + data.topName + "</h2><p style='font-weight:normal;'> Summary: " + data.summary + "</p></br>");
+    })
+});
 
                 sortedData.forEach(function(data){
                   selector = "#c"+data.superBERT.replace(/\s+/g, "")
