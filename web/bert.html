@@ -34,6 +34,18 @@
 
 sData.forEach(function(data,index){
 
+  d3.selectAll("#topic")
+  .append("tr")
+  .html("<td>" + data.topName + "</td>")
+
+  d3.selectAll("#posts")
+  .append("tr")
+  .html("<td>" + d3.format(",")(data.postCount) + "</td>")
+
+  d3.selectAll("#engagements")
+  .append("tr")
+  .html("<td>" + d3.format(",")(data.topEnga) + "</td>")
+
   d3.select('#current')
     .append("div")
     .attr("class","innerGrid")
@@ -86,6 +98,10 @@ sData.forEach(function(data,index){
         <div class="containerwgt" style="width:90%">
           <h2> Social Media Topic Modeling</h2>
             <!-- <div> Note: Topics are sorted by total topic engagement. A visual represetnation of how the topics are modled is available <a href="./sttmChart.html" target="_blank">here</a> -->
+        <table class="headTable">
+          <th id="topic">Topic</th>
+          <th id="posts">Posts</th>
+          <th id="engagements">Engagements</th></table>
         <div class="grid-container" id="current"></div>
     </body>
 <html>
