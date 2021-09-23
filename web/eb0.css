@@ -9,6 +9,22 @@
   text-align: center;
 }
 
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
+  text-align: left;
+}
+
+tr:hover {background-color: #f0f0f0;}
+
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border-bottom: 3px solid #ddd;
+}
+
 .card {
   page-break-inside: avoid;
 }

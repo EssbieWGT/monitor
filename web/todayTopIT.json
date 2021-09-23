@@ -1,6 +1,6 @@
 [
     {
-        "combo": 2818.0,
+        "combo": 2862.0,
         "count": 1,
         "date": 1632168924000,
         "description": "",
@@ -11,10 +11,38 @@
         "sourceUrl": null,
         "title": "Political Operatives Indicted for Alleged Scheme Involving Illegal Campaign Contribution to 2016 Presidential Campaign",
         "todayURLs": "https://www.justice.gov/opa/pr/political-operatives-indicted-alleged-scheme-involving-illegal-campaign-contribution-2016",
-        "urlRe": 2817.0
+        "urlRe": 2861.0
     },
     {
-        "combo": 881.0,
+        "combo": 1689.0,
+        "count": 1,
+        "date": null,
+        "description": "In an exchange with the Kentucky Republican senator at a Senate Homeland Security Committee hearing, FBI Director Christopher Wray credited FISA with keeping Americans safe after 9/11.",
+        "domain": "Just The News",
+        "photo": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2020-08/GettyImages-1227841816.jpg?h=199d8c1f&itok=eaYiQ9qX",
+        "s_url_x": "https://justthenews.com/government/congress/sen-rand-paul-blasts-fbi-director-over-fisa-warrants",
+        "s_url_y": "https://justthenews.com/government/congress/sen-rand-paul-blasts-fbi-director-over-fisa-warrants",
+        "sourceUrl": "https://justthenews.com/government/congress/sen-rand-paul-blasts-fbi-director-over-fisa-warrants",
+        "title": "'Obey the Constitution': Rand Paul urges end to FISA-authorized snooping on Americans",
+        "todayURLs": "https://justthenews.com/government/congress/sen-rand-paul-blasts-fbi-director-over-fisa-warrants",
+        "urlRe": 1688.0
+    },
+    {
+        "combo": 1580.0,
+        "count": 1,
+        "date": null,
+        "description": "Your dashboard for legislative activity. Watch the U.S. House of Representatives live and follow all the action on any device.",
+        "domain": null,
+        "photo": "https://live.house.gov/assets/houselive-icon-2.cceaf38dac1dcd95614566ccba0aa4e7.png",
+        "s_url_x": "https://live.house.gov",
+        "s_url_y": "https://live.house.gov",
+        "sourceUrl": null,
+        "title": "House FloorCast",
+        "todayURLs": "https://live.house.gov",
+        "urlRe": 1579.0
+    },
+    {
+        "combo": 1039.0,
         "count": 1,
         "date": 1632009600000,
         "description": "Time and again the court\u2019s Republicans have issued decisions strongly favoring the GOP in the electoral process. That's not a coincidence.",
@@ -25,10 +53,24 @@
         "sourceUrl": "https://www.latimes.com/opinion/story/2021-09-19/supreme-court-justices-amy-coney-barrett-politics",
         "title": "Op-Ed: Are Supreme Court justices 'partisan hacks'? Yes",
         "todayURLs": "https://www.latimes.com/opinion/story/2021-09-19/supreme-court-justices-amy-coney-barrett-politics",
-        "urlRe": 880.0
+        "urlRe": 1038.0
     },
     {
-        "combo": 736.0,
+        "combo": 978.0,
+        "count": 1,
+        "date": 1632182400000,
+        "description": "Republican Kentucky Sen. Rand Paul grilled FBI Director Christopher Wray Tuesday over his alleged bias in connection to the 2016 Trump-Russia investigation.",
+        "domain": null,
+        "photo": "https://cdn01.dailycaller.com/wp-content/uploads/2021/09/21703-e1632254014611.jpg",
+        "s_url_x": "https://dailycaller.com/2021/09/21/hook-line-sinker-rand-paul-christopher-wray-2016-trump-russia-investigation/",
+        "s_url_y": "https://dailycaller.com/2021/09/21/hook-line-sinker-rand-paul-christopher-wray-2016-trump-russia-investigation/",
+        "sourceUrl": "https://dailycaller.com/2021/09/21/hook-line-sinker-rand-paul-christopher-wray-2016-trump-russia-investigation/",
+        "title": "\u2018You Took It Hook, Line And Sinker\u2019: Rand Paul Grills FBI Director Over 2016 Trump-Russia Investigation",
+        "todayURLs": "https://dailycaller.com/2021/09/21/hook-line-sinker-rand-paul-christopher-wray-2016-trump-russia-investigation/",
+        "urlRe": 977.0
+    },
+    {
+        "combo": 819.0,
         "count": 1,
         "date": 1631334171000,
         "description": "The National Nurses Union applauded President Joe Biden's proposal to require that companies with more than 100 employees vaccinate their work force. The American Federation of Teachers once said vaccine mandates weren't necessary, but now embraces them.",
@@ -39,10 +81,38 @@
         "sourceUrl": "https://apnews.com/article/joe-biden-police-oregon-coronavirus-pandemic-workers-rights-05ff3bd3325fb47f90061b1cc8e339a1",
         "title": "Unions split on vaccine mandates, complicating Biden push",
         "todayURLs": "https://apnews.com/article/joe-biden-police-oregon-coronavirus-pandemic-workers-rights-05ff3bd3325fb47f90061b1cc8e339a1",
-        "urlRe": 735.0
+        "urlRe": 818.0
     },
     {
-        "combo": 525.0,
+        "combo": 777.0,
+        "count": 1,
+        "date": 1632182400000,
+        "description": "If presidents do not get to replace justices in an election year, then Coney Barrett\u2019s confirmation is illegitimate; if presidents do, then Gorsuch\u2019s is illegitimate. You can\u2019t have it both ways",
+        "domain": "the Guardian",
+        "photo": "https://i.guim.co.uk/img/media/93c093a9921375c98ddf3394bd00456f1017d42b/54_263_3422_2054/master/3422.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=95e4a4ed37248e811efed24fc7be223f",
+        "s_url_x": "https://www.theguardian.com/commentisfree/2021/sep/21/supreme-court-legitimacy-conservative-justice-step-down?CMP=oth_b-aplnews_d-1",
+        "s_url_y": "https://www.theguardian.com/commentisfree/2021/sep/21/supreme-court-legitimacy-conservative-justice-step-down?CMP=oth_b-aplnews_d-1",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2021/sep/21/supreme-court-legitimacy-conservative-justice-step-down",
+        "title": "To protect the supreme court\u2019s legitimacy, a conservative justice should step down | Lawrence Douglas",
+        "todayURLs": "https://www.theguardian.com/commentisfree/2021/sep/21/supreme-court-legitimacy-conservative-justice-step-down?CMP=oth_b-aplnews_d-1",
+        "urlRe": 776.0
+    },
+    {
+        "combo": 687.0,
+        "count": 1,
+        "date": null,
+        "description": "FIRST ON FOX: United Airlines employees have filed a lawsuit against the airline over its coronavirus vaccine mandate.",
+        "domain": "Fox Business",
+        "photo": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/united-Getty.jpg?ve=1&tl=1",
+        "s_url_x": "https://www.foxbusiness.com/politics/united-airlines-employees-draconian-lawsuit-covid-vaccine-mandate",
+        "s_url_y": "https://www.foxbusiness.com/politics/united-airlines-employees-draconian-lawsuit-covid-vaccine-mandate",
+        "sourceUrl": "https://www.foxbusiness.com/politics/united-airlines-employees-draconian-lawsuit-covid-vaccine-mandate",
+        "title": "United Airlines employees sue company over its 'draconian' COVID vaccine mandate",
+        "todayURLs": "https://www.foxbusiness.com/politics/united-airlines-employees-draconian-lawsuit-covid-vaccine-mandate",
+        "urlRe": 686.0
+    },
+    {
+        "combo": 536.0,
         "count": 1,
         "date": null,
         "description": "Rep. Jim Jordan, R-Ohio, slammed the Biden administration Monday on \u201cAmerica Reports\u201d for \u201cignoring\u201d the migrant surge in Del Rio, Texas, and refusing to embrace Trump-era policies to stem illegal entries at the southern border.",
@@ -53,10 +123,38 @@
         "sourceUrl": "https://www.foxnews.com/media/jim-jordan-americans-fed-up-biden-admins-lack-of-leadership-border",
         "title": "Jim Jordan: Americans 'fed up' with Biden admin's lack of leadership at border",
         "todayURLs": "https://www.foxnews.com/media/jim-jordan-americans-fed-up-biden-admins-lack-of-leadership-border",
-        "urlRe": 524.0
+        "urlRe": 535.0
     },
     {
-        "combo": 388.0,
+        "combo": 529.0,
+        "count": 8,
+        "date": 1632182400000,
+        "description": "45 House Republicans are demanding that the National Archives remove &quot;harmful content&quot; warnings from Founding-era documents.",
+        "domain": null,
+        "photo": "https://cdn01.dailycaller.com/wp-content/uploads/2021/09/archives-scaled-e1632243024685.jpg",
+        "s_url_x": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
+        "s_url_y": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
+        "sourceUrl": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
+        "title": "EXCLUSIVE: House Republicans Demand National Archives Remove Trigger Warnings For Founding Documents",
+        "todayURLs": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
+        "urlRe": 521.0
+    },
+    {
+        "combo": 456.0,
+        "count": 1,
+        "date": 1632319456019,
+        "description": "Kentucky Sen. Rand Paul is leading the charge to hold the Small Business Administration accountable for sending funds to the Planned Parenthood Federation of America using Paycheck Protection Program loans. This is the latest valiant attempt by Paul and the minority members of the Senate Small Business & Entrepreneurship Committee to prevent the SBA from inexplicably providing funds to affiliates of the abortion giant throughout the country.",
+        "domain": "Washington Examiner",
+        "photo": "https://mediadc.brightspotcdn.com/dims4/default/a342882/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F79%2F51%2Fa7996afc4d72a480dccad4ed4201%2F308170699-1-10.jpg",
+        "s_url_x": "https://www.washingtonexaminer.com/opinion/rand-paul-hasnt-given-up-on-recovering-illegitimate-ppp-loans-to-planned-parenthood",
+        "s_url_y": "https://www.washingtonexaminer.com/opinion/rand-paul-hasnt-given-up-on-recovering-illegitimate-ppp-loans-to-planned-parenthood",
+        "sourceUrl": "https://www.washingtonexaminer.com/opinion/rand-paul-hasnt-given-up-on-recovering-illegitimate-ppp-loans-to-planned-parenthood",
+        "title": "Rand Paul hasn't given up on recovering illegitimate PPP loans to Planned Parenthood",
+        "todayURLs": "https://www.washingtonexaminer.com/opinion/rand-paul-hasnt-given-up-on-recovering-illegitimate-ppp-loans-to-planned-parenthood",
+        "urlRe": 455.0
+    },
+    {
+        "combo": 446.0,
         "count": 1,
         "date": 1630929602000,
         "description": "Legislation to shore up Supplementary Security Income hasn't received much attention, but it could have a big impact.",
@@ -67,76 +165,6 @@
         "sourceUrl": "https://www.huffpost.com/entry/ssi-update-democratic-proposal-urban-institute-report_n_6134cb78e4b0f1b970629b7b",
         "title": "Democratic Proposal Could Reduce Poverty By 3.3 Million People, Study Says",
         "todayURLs": "https://www.huffpost.com/entry/ssi-update-democratic-proposal-urban-institute-report_n_6134cb78e4b0f1b970629b7b",
-        "urlRe": 387.0
-    },
-    {
-        "combo": 372.0,
-        "count": 4,
-        "date": 1632182400000,
-        "description": "45 House Republicans are demanding that the National Archives remove &quot;harmful content&quot; warnings from Founding-era documents.",
-        "domain": null,
-        "photo": "https://cdn01.dailycaller.com/wp-content/uploads/2021/09/archives-scaled-e1632243024685.jpg",
-        "s_url_x": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
-        "s_url_y": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
-        "sourceUrl": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
-        "title": "EXCLUSIVE: House Republicans Demand National Archives Remove Trigger Warnings For Founding Documents",
-        "todayURLs": "https://dailycaller.com/2021/09/21/brian-babin-house-republicans-national-archives-remove-trigger-warnings-constitution-declaration-of-independence/",
-        "urlRe": 368.0
-    },
-    {
-        "combo": 281.0,
-        "count": 1,
-        "date": 1632184294000,
-        "description": "\u201cReports of the mistreatment of Haitian migrants fleeing violence and devastation from natural disasters are deeply troubling, including the inappropriate use of what appear to be whips by Border Patrol officers on horseback to intimidate migrants.\"",
-        "domain": "Speaker Nancy Pelosi",
-        "photo": "https://speaker.house.gov/sites/speaker.house.gov/files/featured_image/Speaker%20Stream%20End.png",
-        "s_url_x": "https://www.speaker.gov/newsroom/92021-2",
-        "s_url_y": "https://www.speaker.gov/newsroom/92021-2",
-        "sourceUrl": "https://www.speaker.gov/newsroom/92021-2",
-        "title": "Pelosi Statement on Reports of Mistreatment of Haitian Migrants at the Border",
-        "todayURLs": "https://www.speaker.gov/newsroom/92021-2",
-        "urlRe": 280.0
-    },
-    {
-        "combo": 268.0,
-        "count": 1,
-        "date": 1632178895000,
-        "description": "",
-        "domain": "House Republican Leader",
-        "photo": "https://www.republicanleader.gov/wp-content/uploads/2021/09/McCarthyWithBorderPatrol-1024x683.jpeg",
-        "s_url_x": "https://www.republicanleader.gov/eight-months-later-bidens-border-crisis-rages-on/",
-        "s_url_y": "https://www.republicanleader.gov/eight-months-later-bidens-border-crisis-rages-on/",
-        "sourceUrl": "https://www.republicanleader.gov/eight-months-later-bidens-border-crisis-rages-on/",
-        "title": "Eight Months Later, Biden\u2019s Border Crisis Rages On",
-        "todayURLs": "https://www.republicanleader.gov/eight-months-later-bidens-border-crisis-rages-on/",
-        "urlRe": 267.0
-    },
-    {
-        "combo": 248.0,
-        "count": 1,
-        "date": null,
-        "description": "Sen. Marsha Blackburn is leading the charge against Facebook in an upcoming committee hearing after the company allegedly knew about but did not disclose publicly data that showed the negative impact of Instagram on teenagers.",
-        "domain": "Fox News",
-        "photo": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/653644f4-a45c-40b7-82f1-5c2e40a57983/e66523b5-77a5-4dbb-9267-c23ba699cd16/1280x720/match/image.jpg",
-        "s_url_x": "https://www.foxnews.com/media/blackburn-lawmakers-facebook-execs-testify-whistleblower",
-        "s_url_y": "https://www.foxnews.com/media/blackburn-lawmakers-facebook-execs-testify-whistleblower",
-        "sourceUrl": "https://www.foxnews.com/media/blackburn-lawmakers-facebook-execs-testify-whistleblower",
-        "title": "Sen. Blackburn, lawmakers call on Facebook execs to testify over whistleblower bombshell",
-        "todayURLs": "https://www.foxnews.com/media/blackburn-lawmakers-facebook-execs-testify-whistleblower",
-        "urlRe": 247.0
-    },
-    {
-        "combo": 248.0,
-        "count": 1,
-        "date": 1632182400000,
-        "description": "The true \"realists\" in this debate have been the progressives, not the centrists.",
-        "domain": "Washington Post",
-        "photo": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TFUW2AWOAI6ZFMJGGWDC46C4U.jpg&w=1440",
-        "s_url_x": "https://www.washingtonpost.com/opinions/2021/09/21/biden-agenda-centrists-blame/",
-        "s_url_y": "https://www.washingtonpost.com/opinions/2021/09/21/biden-agenda-centrists-blame/",
-        "sourceUrl": "https://www.washingtonpost.com/opinions/2021/09/21/biden-agenda-centrists-blame/",
-        "title": "Opinion : Biden\u2019s agenda is in trouble. It\u2019s absolutely clear who is to blame.",
-        "todayURLs": "https://www.washingtonpost.com/opinions/2021/09/21/biden-agenda-centrists-blame/",
-        "urlRe": 247.0
+        "urlRe": 445.0
     }
 ]

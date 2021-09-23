@@ -21,54 +21,52 @@
                 return new Date(b.firstSeen).toLocaleString() - new Date(a.firstSeen).toLocaleString();
               });
 
-              // categories.forEach(function(data,index){
-              //
-              //   d3.select('#current')
-              //     .data(data)
-              //     .append("div")
-              //     .attr("class","innerGrid")
-              //     .attr("id", data.replace(/\s+/g, ""))
-              //     .html("<h2>" + data + "</h2>");
-              //   });
+              var myArray = [];
+              sData.forEach(function(data,index){
+                    // Add a new array with the values of each:
+                    // myArray.push([data.topName, data.postCount.toLocaleString(), data.topEnga.toLocaleString()]);
+                    myArray.push([data.topName, d3.format(",")(data.postCount), d3.format(",")(data.topEnga)]);
+                });
 
+                var table = d3.select("#headTable").append("table");
+                var header = table.append("thead").append("tr");
 
-sData.forEach(function(data,index){
+                header.selectAll("th")
+                        .data(["Name", "Post Count", "Engagement Count"])
+                        .enter()
+                        .append("th")
+                        .text(function(d) { return d; });
 
-  d3.selectAll("#topic")
-  .append("tr")
-  .html("<td>" + data.topName + "</td>")
+                var tablebody = table.append("tbody");
+                rows = tablebody.selectAll("tr")
+                        .data(myArray)
+                        .enter()
+                        .append("tr");
+                // We built the rows using the nested array - now each row has its own array.
+                cells = rows.selectAll("td")
+                    // each row has data associated; we get it and enter it for the cells.
+                        .data(function(d) {
+                            return d;
+                        })
+                        .enter()
+                        .append("td")
+                        .text(function(d) {
+                            return d;
+                        });
 
-  d3.selectAll("#posts")
-  .append("tr")
-  .html("<td>" + d3.format(",")(data.postCount) + "</td>")
-
-  d3.selectAll("#engagements")
-  .append("tr")
-  .html("<td>" + d3.format(",")(data.topEnga) + "</td>")
-
-  d3.select('#current')
-    .append("div")
-    .attr("class","innerGrid")
-    .each(function(d){
-      d3.select(this)
-      .attr("id", data.topic)
-      .html("<h2>" + data.topName + "</h2><p style='font-weight:normal;'> Summary: " + data.summary + "</p></br>");
-    })
-});
+              sData.forEach(function(data,index){
+                d3.select('#current')
+                  .append("div")
+                  .attr("class","innerGrid")
+                  .each(function(d){
+                    d3.select(this)
+                    .attr("id", data.topic)
+                    .html("<div class='sticky'><h2>" + data.topName + "</h2><p style='font-weight:normal;'> Summary: " + data.summary + "</p></div></br>");
+                  })
+              });
 
                 sortedData.forEach(function(data){
                   selector = "#c"+data.superBERT.replace(/\s+/g, "")
-
-                //   d3.selectAll(selector)
-                //     .append("div")
-                //     .append("ul")
-                //     .append("li")
-                //     .html('<small class="text_muted"><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.displayName + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a></small></br><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + "<br>" + data.type + " | " + data.class + '</small>' );
-                //     d3.select(this)
-                //     .append("td")
-                //     .style("max-width","150")
-                //     .html('<img src="'+ data.photos + '" width="150"><td>');
-                // })
 
                 d3.selectAll(selector)
                 .append("table")
@@ -98,10 +96,7 @@ sData.forEach(function(data,index){
         <div class="containerwgt" style="width:90%">
           <h2> Social Media Topic Modeling</h2>
             <!-- <div> Note: Topics are sorted by total topic engagement. A visual represetnation of how the topics are modled is available <a href="./sttmChart.html" target="_blank">here</a> -->
-        <table class="headTable">
-          <th id="topic">Topic</th>
-          <th id="posts">Posts</th>
-          <th id="engagements">Engagements</th></table>
+            <div id="headTable"></div></br><br>
         <div class="grid-container" id="current"></div>
     </body>
 <html>
