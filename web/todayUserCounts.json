@@ -1,7542 +1,2472 @@
 [
     {
-        "count": 32,
-        "enga": 22.0,
-        "todayUser": "Nursinghome0514"
+        "count": 20,
+        "enga": 9155,
+        "todayUser": "repstefanik"
+    },
+    {
+        "count": 19,
+        "enga": 23506,
+        "todayUser": "marshablackburn"
+    },
+    {
+        "count": 18,
+        "enga": 56570,
+        "todayUser": "repjayapal"
+    },
+    {
+        "count": 18,
+        "enga": 247,
+        "todayUser": "reptroynehls"
     },
     {
         "count": 17,
-        "enga": 0.0,
-        "todayUser": "health_jobs_uk"
+        "enga": 2150,
+        "todayUser": "senatorhagerty"
     },
     {
-        "count": 15,
-        "enga": 78.0,
-        "todayUser": "JSODonoghue"
+        "count": 14,
+        "enga": 139,
+        "todayUser": "repadamsmith"
+    },
+    {
+        "count": 14,
+        "enga": 159,
+        "todayUser": "hascdemocrats"
+    },
+    {
+        "count": 14,
+        "enga": 34350,
+        "todayUser": "judiciarygop"
+    },
+    {
+        "count": 13,
+        "enga": 521,
+        "todayUser": "senatorshaheen"
+    },
+    {
+        "count": 13,
+        "enga": 799,
+        "todayUser": "repcasten"
+    },
+    {
+        "count": 13,
+        "enga": 2250,
+        "todayUser": "pattymurray"
+    },
+    {
+        "count": 13,
+        "enga": 2797,
+        "todayUser": "senatorbraun"
+    },
+    {
+        "count": 13,
+        "enga": 495,
+        "todayUser": "senrubiopress"
+    },
+    {
+        "count": 13,
+        "enga": 656,
+        "todayUser": "repmarkgreen"
+    },
+    {
+        "count": 12,
+        "enga": 1207,
+        "todayUser": "housejudiciary"
+    },
+    {
+        "count": 12,
+        "enga": 442,
+        "todayUser": "repdonbacon"
+    },
+    {
+        "count": 11,
+        "enga": 741,
+        "todayUser": "repmgs"
+    },
+    {
+        "count": 11,
+        "enga": 2311,
+        "todayUser": "oversightdems"
+    },
+    {
+        "count": 11,
+        "enga": 2273,
+        "todayUser": "repjoshg"
+    },
+    {
+        "count": 11,
+        "enga": 298,
+        "todayUser": "appropsdems"
+    },
+    {
+        "count": 11,
+        "enga": 1285,
+        "todayUser": "repchiproy"
+    },
+    {
+        "count": 11,
+        "enga": 1156,
+        "todayUser": "repdonbeyer"
+    },
+    {
+        "count": 11,
+        "enga": 3292,
+        "todayUser": "repchuygarcia"
     },
     {
         "count": 10,
-        "enga": 6.0,
-        "todayUser": "PhilRevard"
+        "enga": 92,
+        "todayUser": "sascgop"
+    },
+    {
+        "count": 10,
+        "enga": 528,
+        "todayUser": "repsherrill"
+    },
+    {
+        "count": 10,
+        "enga": 145,
+        "todayUser": "houseforeign"
+    },
+    {
+        "count": 10,
+        "enga": 16092,
+        "todayUser": "repmattgaetz"
+    },
+    {
+        "count": 10,
+        "enga": 27841,
+        "todayUser": "senschumer"
+    },
+    {
+        "count": 10,
+        "enga": 1978,
+        "todayUser": "senmarkey"
+    },
+    {
+        "count": 10,
+        "enga": 4557,
+        "todayUser": "billpascrell"
+    },
+    {
+        "count": 10,
+        "enga": 1604,
+        "todayUser": "repkenbuck"
+    },
+    {
+        "count": 10,
+        "enga": 762,
+        "todayUser": "repkatcammack"
+    },
+    {
+        "count": 10,
+        "enga": 539,
+        "todayUser": "repjeffduncan"
     },
     {
         "count": 9,
-        "enga": 30.0,
-        "todayUser": "IlluminatorLA"
+        "enga": 395,
+        "todayUser": "replloyddoggett"
+    },
+    {
+        "count": 9,
+        "enga": 257,
+        "todayUser": "normajtorres"
+    },
+    {
+        "count": 9,
+        "enga": 143988,
+        "todayUser": "jim_jordan"
+    },
+    {
+        "count": 9,
+        "enga": 55174,
+        "todayUser": "repcawthorn"
+    },
+    {
+        "count": 9,
+        "enga": 1710,
+        "todayUser": "reptenney"
+    },
+    {
+        "count": 9,
+        "enga": 123,
+        "todayUser": "repricklarsen"
+    },
+    {
+        "count": 9,
+        "enga": 2960,
+        "todayUser": "congressmanraja"
+    },
+    {
+        "count": 9,
+        "enga": 31255,
+        "todayUser": "repthomasmassie"
+    },
+    {
+        "count": 9,
+        "enga": 2420,
+        "todayUser": "johncornyn"
+    },
+    {
+        "count": 8,
+        "enga": 88,
+        "todayUser": "waysandmeansgop"
+    },
+    {
+        "count": 8,
+        "enga": 1129,
+        "todayUser": "repteresalf"
+    },
+    {
+        "count": 8,
+        "enga": 1775,
+        "todayUser": "senatorbaldwin"
+    },
+    {
+        "count": 8,
+        "enga": 3367,
+        "todayUser": "senatordurbin"
+    },
+    {
+        "count": 8,
+        "enga": 1654,
+        "todayUser": "senrickscott"
+    },
+    {
+        "count": 8,
+        "enga": 602,
+        "todayUser": "martinheinrich"
+    },
+    {
+        "count": 8,
+        "enga": 177,
+        "todayUser": "repnikema"
+    },
+    {
+        "count": 8,
+        "enga": 35897,
+        "todayUser": "senwhitehouse"
+    },
+    {
+        "count": 8,
+        "enga": 343,
+        "todayUser": "reploritrahan"
+    },
+    {
+        "count": 8,
+        "enga": 17919,
+        "todayUser": "senwarren"
+    },
+    {
+        "count": 8,
+        "enga": 75,
+        "todayUser": "reploisfrankel"
+    },
+    {
+        "count": 8,
+        "enga": 84,
+        "todayUser": "transportdems"
+    },
+    {
+        "count": 8,
+        "enga": 688,
+        "todayUser": "repbowman"
+    },
+    {
+        "count": 8,
+        "enga": 148,
+        "todayUser": "repbourdeaux"
+    },
+    {
+        "count": 8,
+        "enga": 434,
+        "todayUser": "reptomemmer"
+    },
+    {
+        "count": 8,
+        "enga": 16215,
+        "todayUser": "sentedcruz"
+    },
+    {
+        "count": 8,
+        "enga": 147,
+        "todayUser": "frankpallone"
+    },
+    {
+        "count": 8,
+        "enga": 167,
+        "todayUser": "rephankjohnson"
+    },
+    {
+        "count": 8,
+        "enga": 316,
+        "todayUser": "reprosendale"
+    },
+    {
+        "count": 8,
+        "enga": 102,
+        "todayUser": "repgolden"
     },
     {
         "count": 7,
-        "enga": 5.0,
-        "todayUser": "ztalpnielk"
+        "enga": 50,
+        "todayUser": "edlaborcmte"
     },
     {
         "count": 7,
-        "enga": 0.0,
-        "todayUser": "News36U"
+        "enga": 345,
+        "todayUser": "repmaloney"
     },
     {
         "count": 7,
-        "enga": 10.0,
-        "todayUser": "bigstape"
+        "enga": 539,
+        "todayUser": "senjackyrosen"
+    },
+    {
+        "count": 7,
+        "enga": 943,
+        "todayUser": "reprokhanna"
+    },
+    {
+        "count": 7,
+        "enga": 1797,
+        "todayUser": "repmobrooks"
+    },
+    {
+        "count": 7,
+        "enga": 62,
+        "todayUser": "donaldnorcross"
+    },
+    {
+        "count": 7,
+        "enga": 1278,
+        "todayUser": "repescobar"
+    },
+    {
+        "count": 7,
+        "enga": 10027,
+        "todayUser": "senatortimscott"
+    },
+    {
+        "count": 7,
+        "enga": 527,
+        "todayUser": "senrobportman"
+    },
+    {
+        "count": 7,
+        "enga": 116,
+        "todayUser": "repschneider"
+    },
+    {
+        "count": 7,
+        "enga": 607,
+        "todayUser": "reprwilliams"
+    },
+    {
+        "count": 7,
+        "enga": 3239,
+        "todayUser": "repteddeutch"
+    },
+    {
+        "count": 7,
+        "enga": 799,
+        "todayUser": "eleanornorton"
+    },
+    {
+        "count": 7,
+        "enga": 2083,
+        "todayUser": "senatorbennet"
+    },
+    {
+        "count": 7,
+        "enga": 243,
+        "todayUser": "usrepkcastor"
+    },
+    {
+        "count": 7,
+        "enga": 517,
+        "todayUser": "senatorhassan"
+    },
+    {
+        "count": 7,
+        "enga": 417,
+        "todayUser": "repdarrensoto"
+    },
+    {
+        "count": 7,
+        "enga": 464,
+        "todayUser": "repdinatitus"
+    },
+    {
+        "count": 7,
+        "enga": 168,
+        "todayUser": "repmikelevin"
+    },
+    {
+        "count": 7,
+        "enga": 1427,
+        "todayUser": "repbonnie"
+    },
+    {
+        "count": 7,
+        "enga": 256,
+        "todayUser": "repclayhiggins"
+    },
+    {
+        "count": 7,
+        "enga": 193,
+        "todayUser": "natresources"
+    },
+    {
+        "count": 7,
+        "enga": 1536,
+        "todayUser": "senjoniernst"
+    },
+    {
+        "count": 7,
+        "enga": 40,
+        "todayUser": "homelanddems"
+    },
+    {
+        "count": 6,
+        "enga": 36,
+        "todayUser": "gophelp"
+    },
+    {
+        "count": 6,
+        "enga": 74,
+        "todayUser": "repdwightevans"
+    },
+    {
+        "count": 6,
+        "enga": 647,
+        "todayUser": "senfeinstein"
+    },
+    {
+        "count": 6,
+        "enga": 341,
+        "todayUser": "repespaillat"
+    },
+    {
+        "count": 6,
+        "enga": 163,
+        "todayUser": "bettymccollum04"
+    },
+    {
+        "count": 6,
+        "enga": 280,
+        "todayUser": "repspanberger"
+    },
+    {
+        "count": 6,
+        "enga": 390,
+        "todayUser": "repdankildee"
+    },
+    {
+        "count": 6,
+        "enga": 271,
+        "todayUser": "repsusanwild"
+    },
+    {
+        "count": 6,
+        "enga": 325,
+        "todayUser": "senatorrisch"
+    },
+    {
+        "count": 6,
+        "enga": 117,
+        "todayUser": "senatorcarper"
+    },
+    {
+        "count": 6,
+        "enga": 46,
+        "todayUser": "vetaffairsdems"
+    },
+    {
+        "count": 6,
+        "enga": 192,
+        "todayUser": "waysmeanscmte"
+    },
+    {
+        "count": 6,
+        "enga": 5094,
+        "todayUser": "sentomcotton"
+    },
+    {
+        "count": 6,
+        "enga": 843,
+        "todayUser": "senatorlankford"
+    },
+    {
+        "count": 6,
+        "enga": 3460,
+        "todayUser": "senalexpadilla"
+    },
+    {
+        "count": 6,
+        "enga": 3823,
+        "todayUser": "repandylevin"
+    },
+    {
+        "count": 6,
+        "enga": 137,
+        "todayUser": "fscdems"
+    },
+    {
+        "count": 6,
+        "enga": 14405,
+        "todayUser": "repvaldemings"
+    },
+    {
+        "count": 6,
+        "enga": 1261,
+        "todayUser": "repjimmygomez"
+    },
+    {
+        "count": 6,
+        "enga": 72,
+        "todayUser": "reproybalallard"
+    },
+    {
+        "count": 6,
+        "enga": 131,
+        "todayUser": "repbethvanduyne"
+    },
+    {
+        "count": 6,
+        "enga": 145,
+        "todayUser": "repandykimnj"
+    },
+    {
+        "count": 6,
+        "enga": 126,
+        "todayUser": "repmmm"
+    },
+    {
+        "count": 6,
+        "enga": 688,
+        "todayUser": "repbarragan"
+    },
+    {
+        "count": 6,
+        "enga": 117,
+        "todayUser": "repraulruizmd"
+    },
+    {
+        "count": 6,
+        "enga": 1373,
+        "todayUser": "repsylviagarcia"
+    },
+    {
+        "count": 6,
+        "enga": 1439,
+        "todayUser": "repdlesko"
+    },
+    {
+        "count": 6,
+        "enga": 797,
+        "todayUser": "repcohen"
+    },
+    {
+        "count": 6,
+        "enga": 288,
+        "todayUser": "repritchie"
+    },
+    {
+        "count": 6,
+        "enga": 2341,
+        "todayUser": "repjimbanks"
+    },
+    {
+        "count": 6,
+        "enga": 30364,
+        "todayUser": "replouiegohmert"
     },
     {
         "count": 5,
-        "enga": 8.0,
-        "todayUser": "ms_stickle"
+        "enga": 119,
+        "todayUser": "usrepgarypalmer"
     },
     {
         "count": 5,
-        "enga": 85.0,
-        "todayUser": ""
+        "enga": 21542,
+        "todayUser": "repswalwell"
     },
     {
         "count": 5,
-        "enga": 0.0,
-        "todayUser": "TurntableTy1"
+        "enga": 192,
+        "todayUser": "senhawleypress"
+    },
+    {
+        "count": 5,
+        "enga": 13585,
+        "todayUser": "senronjohnson"
+    },
+    {
+        "count": 5,
+        "enga": 185,
+        "todayUser": "repyoungkim"
+    },
+    {
+        "count": 5,
+        "enga": 220,
+        "todayUser": "repmeijer"
+    },
+    {
+        "count": 5,
+        "enga": 220,
+        "todayUser": "repbillfoster"
+    },
+    {
+        "count": 5,
+        "enga": 218,
+        "todayUser": "repcindyaxne"
+    },
+    {
+        "count": 5,
+        "enga": 25,
+        "todayUser": "repgarretgraves"
+    },
+    {
+        "count": 5,
+        "enga": 154,
+        "todayUser": "repcarlos"
+    },
+    {
+        "count": 5,
+        "enga": 115,
+        "todayUser": "repbonamici"
+    },
+    {
+        "count": 5,
+        "enga": 7523,
+        "todayUser": "nydiavelazquez"
+    },
+    {
+        "count": 5,
+        "enga": 1390,
+        "todayUser": "repfredkeller"
+    },
+    {
+        "count": 5,
+        "enga": 65,
+        "todayUser": "dorismatsui"
+    },
+    {
+        "count": 5,
+        "enga": 3425,
+        "todayUser": "staceyplaskett"
+    },
+    {
+        "count": 5,
+        "enga": 506,
+        "todayUser": "jahimes"
+    },
+    {
+        "count": 5,
+        "enga": 4098,
+        "todayUser": "whipclyburn"
+    },
+    {
+        "count": 5,
+        "enga": 78,
+        "todayUser": "reparrington"
+    },
+    {
+        "count": 5,
+        "enga": 1699,
+        "todayUser": "reppressley"
+    },
+    {
+        "count": 5,
+        "enga": 1344,
+        "todayUser": "repjerrynadler"
+    },
+    {
+        "count": 5,
+        "enga": 15,
+        "todayUser": "energycommerce"
+    },
+    {
+        "count": 5,
+        "enga": 185,
+        "todayUser": "repschrader"
+    },
+    {
+        "count": 5,
+        "enga": 53,
+        "todayUser": "financialcmte"
+    },
+    {
+        "count": 5,
+        "enga": 637,
+        "todayUser": "repmarkpocan"
+    },
+    {
+        "count": 5,
+        "enga": 31,
+        "todayUser": "helpcmtedems"
+    },
+    {
+        "count": 5,
+        "enga": 93,
+        "todayUser": "repcleaver"
+    },
+    {
+        "count": 5,
+        "enga": 154,
+        "todayUser": "hsbcgop"
+    },
+    {
+        "count": 5,
+        "enga": 1835,
+        "todayUser": "repgregmurphy"
+    },
+    {
+        "count": 5,
+        "enga": 322,
+        "todayUser": "rephuffman"
+    },
+    {
+        "count": 5,
+        "enga": 110,
+        "todayUser": "repharshbarger"
+    },
+    {
+        "count": 5,
+        "enga": 59,
+        "todayUser": "repchrispappas"
+    },
+    {
+        "count": 5,
+        "enga": 19,
+        "todayUser": "replindasanchez"
+    },
+    {
+        "count": 5,
+        "enga": 5461,
+        "todayUser": "repbarbaralee"
+    },
+    {
+        "count": 5,
+        "enga": 182,
+        "todayUser": "repbice"
+    },
+    {
+        "count": 5,
+        "enga": 13432,
+        "todayUser": "repaoc"
+    },
+    {
+        "count": 5,
+        "enga": 155,
+        "todayUser": "rosadelauro"
+    },
+    {
+        "count": 5,
+        "enga": 3101,
+        "todayUser": "senatorromney"
+    },
+    {
+        "count": 5,
+        "enga": 576,
+        "todayUser": "senatormenendez"
+    },
+    {
+        "count": 5,
+        "enga": 51,
+        "todayUser": "replawrence"
     },
     {
         "count": 4,
-        "enga": 5.0,
-        "todayUser": "VaccineRegret"
+        "enga": 174,
+        "todayUser": "senatorcardin"
     },
     {
         "count": 4,
-        "enga": 24.0,
-        "todayUser": "victoriamclaur1"
+        "enga": 137,
+        "todayUser": "repedcase"
     },
     {
         "count": 4,
-        "enga": 0.0,
-        "todayUser": "dottedbuq"
+        "enga": 2161,
+        "todayUser": "senjohnkennedy"
     },
     {
         "count": 4,
-        "enga": 0.0,
-        "todayUser": "MyraBra73685553"
+        "enga": 61,
+        "todayUser": "chelliepingree"
+    },
+    {
+        "count": 4,
+        "enga": 1406,
+        "todayUser": "repspeier"
+    },
+    {
+        "count": 4,
+        "enga": 20301,
+        "todayUser": "speakerpelosi"
+    },
+    {
+        "count": 4,
+        "enga": 1295,
+        "todayUser": "warrendavidson"
+    },
+    {
+        "count": 4,
+        "enga": 2828,
+        "todayUser": "senduckworth"
+    },
+    {
+        "count": 4,
+        "enga": 341,
+        "todayUser": "repmarienewman"
+    },
+    {
+        "count": 4,
+        "enga": 18877,
+        "todayUser": "repboebert"
+    },
+    {
+        "count": 4,
+        "enga": 58,
+        "todayUser": "replarrybucshon"
+    },
+    {
+        "count": 4,
+        "enga": 7242,
+        "todayUser": "repdeanphillips"
+    },
+    {
+        "count": 4,
+        "enga": 362,
+        "todayUser": "rephoulahan"
+    },
+    {
+        "count": 4,
+        "enga": 318,
+        "todayUser": "sentuberville"
+    },
+    {
+        "count": 4,
+        "enga": 1803,
+        "todayUser": "senmarkkelly"
+    },
+    {
+        "count": 4,
+        "enga": 968,
+        "todayUser": "replizcheney"
+    },
+    {
+        "count": 4,
+        "enga": 1111,
+        "todayUser": "senjohnthune"
+    },
+    {
+        "count": 4,
+        "enga": 176,
+        "todayUser": "sencapito"
+    },
+    {
+        "count": 4,
+        "enga": 96,
+        "todayUser": "senbillcassidy"
+    },
+    {
+        "count": 4,
+        "enga": 1415,
+        "todayUser": "senjeffmerkley"
+    },
+    {
+        "count": 4,
+        "enga": 596,
+        "todayUser": "gillibrandny"
+    },
+    {
+        "count": 4,
+        "enga": 388,
+        "todayUser": "senthomtillis"
+    },
+    {
+        "count": 4,
+        "enga": 706,
+        "todayUser": "repmcgovern"
+    },
+    {
+        "count": 4,
+        "enga": 2972,
+        "todayUser": "senatorwarnock"
+    },
+    {
+        "count": 4,
+        "enga": 72,
+        "todayUser": "repthompson"
+    },
+    {
+        "count": 4,
+        "enga": 708,
+        "todayUser": "senjohnbarrasso"
+    },
+    {
+        "count": 4,
+        "enga": 43,
+        "todayUser": "repcheri"
+    },
+    {
+        "count": 4,
+        "enga": 52,
+        "todayUser": "repgusbilirakis"
+    },
+    {
+        "count": 4,
+        "enga": 318,
+        "todayUser": "senbobcasey"
+    },
+    {
+        "count": 4,
+        "enga": 34,
+        "todayUser": "repguthrie"
+    },
+    {
+        "count": 4,
+        "enga": 8862,
+        "todayUser": "gopleader"
+    },
+    {
+        "count": 4,
+        "enga": 31,
+        "todayUser": "call_me_dutch"
+    },
+    {
+        "count": 4,
+        "enga": 57,
+        "todayUser": "usrepmikedoyle"
+    },
+    {
+        "count": 4,
+        "enga": 56,
+        "todayUser": "hascrepublicans"
+    },
+    {
+        "count": 4,
+        "enga": 70,
+        "todayUser": "repjohnlarson"
+    },
+    {
+        "count": 4,
+        "enga": 300,
+        "todayUser": "senateforeign"
+    },
+    {
+        "count": 4,
+        "enga": 1410,
+        "todayUser": "reptedlieu"
+    },
+    {
+        "count": 4,
+        "enga": 1171,
+        "todayUser": "gopoversight"
+    },
+    {
+        "count": 4,
+        "enga": 233,
+        "todayUser": "repterrisewell"
+    },
+    {
+        "count": 4,
+        "enga": 223,
+        "todayUser": "senatebanking"
+    },
+    {
+        "count": 4,
+        "enga": 74,
+        "todayUser": "repsmucker"
+    },
+    {
+        "count": 4,
+        "enga": 276,
+        "todayUser": "judiciarydems"
+    },
+    {
+        "count": 4,
+        "enga": 37,
+        "todayUser": "repjoemorelle"
+    },
+    {
+        "count": 4,
+        "enga": 255,
+        "todayUser": "repbrianbabin"
+    },
+    {
+        "count": 4,
+        "enga": 111,
+        "todayUser": "replisamcclain"
+    },
+    {
+        "count": 4,
+        "enga": 748,
+        "todayUser": "gerryconnolly"
+    },
+    {
+        "count": 4,
+        "enga": 1260,
+        "todayUser": "repdavids"
+    },
+    {
+        "count": 4,
+        "enga": 79,
+        "todayUser": "rephagedorn"
+    },
+    {
+        "count": 4,
+        "enga": 1859,
+        "todayUser": "virginiafoxx"
+    },
+    {
+        "count": 4,
+        "enga": 135,
+        "todayUser": "repandrecarson"
+    },
+    {
+        "count": 4,
+        "enga": 533,
+        "todayUser": "repfletcher"
+    },
+    {
+        "count": 4,
+        "enga": 99,
+        "todayUser": "cathymcmorris"
+    },
+    {
+        "count": 4,
+        "enga": 2642,
+        "todayUser": "janschakowsky"
+    },
+    {
+        "count": 4,
+        "enga": 133,
+        "todayUser": "repraulgrijalva"
+    },
+    {
+        "count": 4,
+        "enga": 447,
+        "todayUser": "repralphnorman"
+    },
+    {
+        "count": 4,
+        "enga": 6548,
+        "todayUser": "repcori"
+    },
+    {
+        "count": 4,
+        "enga": 692,
+        "todayUser": "repmarymiller"
+    },
+    {
+        "count": 4,
+        "enga": 97,
+        "todayUser": "repbobgood"
     },
     {
         "count": 3,
-        "enga": 0.0,
-        "todayUser": "ChronLaw"
+        "enga": 29,
+        "todayUser": "congboyle"
     },
     {
         "count": 3,
-        "enga": 11.0,
-        "todayUser": "MCola34"
+        "enga": 23,
+        "todayUser": "repmann"
     },
     {
         "count": 3,
-        "enga": 0.0,
-        "todayUser": "disneeletmein"
+        "enga": 233,
+        "todayUser": "reptimburchett"
     },
     {
         "count": 3,
-        "enga": 2.0,
-        "todayUser": "AHRQNews"
+        "enga": 429,
+        "todayUser": "repgallagher"
     },
     {
         "count": 3,
-        "enga": 270.0,
-        "todayUser": "rontkim"
+        "enga": 109,
+        "todayUser": "repcardenas"
     },
     {
         "count": 3,
-        "enga": 52.0,
-        "todayUser": "WatchYourRepsSC"
+        "enga": 262,
+        "todayUser": "repmikejohnson"
     },
     {
         "count": 3,
-        "enga": 1.0,
-        "todayUser": "MissFreda4"
+        "enga": 1487,
+        "todayUser": "repgosar"
     },
     {
         "count": 3,
-        "enga": 7.0,
-        "todayUser": "RealHipHopNews"
+        "enga": 0,
+        "todayUser": "repamata"
     },
     {
         "count": 3,
-        "enga": 33.0,
-        "todayUser": "TomPreciousALB"
+        "enga": 68,
+        "todayUser": "michaelcburgess"
     },
     {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "Bighitter1357"
-    },
-    {
-        "count": 2,
-        "enga": 3.0,
-        "todayUser": "Trump_Con"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "adbalfour"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "newsbht1"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "brooklyngal04"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "glenn_frazier"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "sjenk26"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "GminusM"
-    },
-    {
-        "count": 2,
-        "enga": 5.0,
-        "todayUser": "Cerberu44846233"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "tmj_ri_nursing"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "Kimberl96307348"
-    },
-    {
-        "count": 2,
-        "enga": 98.0,
-        "todayUser": "SFWaltersPhD"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "vilebot"
-    },
-    {
-        "count": 2,
-        "enga": 3.0,
-        "todayUser": "MarieStopesKe"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "rossicone"
-    },
-    {
-        "count": 2,
-        "enga": 13.0,
-        "todayUser": "C_Lawless0"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "paulaptlb"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "YUpamanyu"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "lakeloon5"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "MSGS21"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "makeplanetnice"
-    },
-    {
-        "count": 2,
-        "enga": 5.0,
-        "todayUser": "Hardattack123"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "HoumaToday"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "aliesvandeven"
-    },
-    {
-        "count": 2,
-        "enga": 21.0,
-        "todayUser": "AIIHPC"
-    },
-    {
-        "count": 2,
-        "enga": 3.0,
-        "todayUser": "xo_nursemolls"
-    },
-    {
-        "count": 2,
-        "enga": 44.0,
-        "todayUser": "IrPsych"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "AlixPaul9"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "peteybattsalt"
-    },
-    {
-        "count": 2,
-        "enga": 6.0,
-        "todayUser": "lenmakes"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "thandiwekesi"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "DianeB528"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "Michael49062342"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "Ahalyaivf"
-    },
-    {
-        "count": 2,
-        "enga": 4.0,
-        "todayUser": "GenesisNursing"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "purecremation"
-    },
-    {
-        "count": 2,
-        "enga": 6.0,
-        "todayUser": "CareHomeShow"
-    },
-    {
-        "count": 2,
-        "enga": 35.0,
-        "todayUser": "Oma_P_Freitag"
-    },
-    {
-        "count": 2,
-        "enga": 8.0,
-        "todayUser": "Geniusguy10"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "brian_g_moore"
-    },
-    {
-        "count": 2,
-        "enga": 3.0,
-        "todayUser": "iraariira"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "PolishNews1"
-    },
-    {
-        "count": 2,
-        "enga": 11.0,
-        "todayUser": "RedHotScarlet1"
-    },
-    {
-        "count": 2,
-        "enga": 18.0,
-        "todayUser": "propinquarkty"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "animesh0730"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "ptheodoni"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "KashmirDonors"
-    },
-    {
-        "count": 2,
-        "enga": 4.0,
-        "todayUser": "parryander"
-    },
-    {
-        "count": 2,
-        "enga": 4.0,
-        "todayUser": "wesleykuta"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "MVNRCnursing"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "Mayrilenny"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "WillWeSurviveT2"
-    },
-    {
-        "count": 2,
-        "enga": 55.0,
-        "todayUser": "yeahokisee"
-    },
-    {
-        "count": 2,
-        "enga": 23.0,
-        "todayUser": "bern_hogan"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "Jamesmi22425385"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "MarianHolling"
-    },
-    {
-        "count": 2,
-        "enga": 4.0,
-        "todayUser": "L1011D"
-    },
-    {
-        "count": 2,
-        "enga": 1.0,
-        "todayUser": "pobier"
-    },
-    {
-        "count": 2,
-        "enga": 4.0,
-        "todayUser": "stellapenelope3"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "Wellmaybe2"
-    },
-    {
-        "count": 2,
-        "enga": 8.0,
-        "todayUser": "fonytauci"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "WriterGorilla"
-    },
-    {
-        "count": 2,
-        "enga": 3.0,
-        "todayUser": "SoapySatoshi"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "KenBrow63208782"
-    },
-    {
-        "count": 2,
-        "enga": 0.0,
-        "todayUser": "ParrotCrackers"
-    },
-    {
-        "count": 2,
-        "enga": 2.0,
-        "todayUser": "DocWhatever"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Kuub55Kuub"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "tkpoliticalbrew"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Mike_Da_Polack"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MR_PUNJABI"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "NursingHomesIre"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "abmoitra"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "PapasitoJay"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Nanasjt6"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "StokesyPlays"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Myronhp"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SocSurgOnc"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "briandelucia"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Sherman44"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "corvetteguy59"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "_HOODPOCAHONTAS"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "debsylee"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TheVipe"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ShadaciaJ"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "melanietaylor2"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "goldfinchbot"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "AnTheFacts"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AasaRaiko"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "missymomof3ky"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "elizabeth_tay8"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KillerKier"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DavidFr48475857"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PigeonExpress_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SteveWi57258568"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lameofGod"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "colepram"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ELIHnews"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TippedTheScaIes"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "stpauliwhite"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "16p11dot2DS"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "whatnew2day"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NewsOfAmerica4"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ServingIntel"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Rubencanas6"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PostivlyNeutral"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jasmine92171754"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "7382Loadmaster"
-    },
-    {
-        "count": 1,
-        "enga": 100.0,
-        "todayUser": "Lyn36042340"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Muugaciku"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Charlesdegois1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NicoDelon"
-    },
-    {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "sonialf"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "__ppebbles"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "girlbossjun"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "PuppersAngry"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "DrNickB_ObAnaes"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AmbiTech4Health"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "17COVIDBoosters"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LunaMazikeen"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MothkingTV"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "sitting_fence"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TheSunUS"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "WhoDat8107"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "blukas9776"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Lady__Duchess"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "carrnut"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SoulWomen"
-    },
-    {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "politstrip"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "antonybutcher"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "LittleLingvo"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AccountingProIE"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "armypsyched"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mix1079"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ryangnewton6916"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JKroMan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Coco_bleu85"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RilwanFox8"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "FilmThreat"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KokopelliEnt"
-    },
-    {
-        "count": 1,
-        "enga": 68.0,
-        "todayUser": "davidfrum"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "david27797795"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "thebellcaptain"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MaryMc_31"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "thecnner"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "udemyessays"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ApexHousingAssn"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "annkenn71568464"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "robd15361"
-    },
-    {
-        "count": 1,
-        "enga": 21.0,
-        "todayUser": "bbcworldservice"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "MMoxhay"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "GilesMacDonogh"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TPE_connect"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "SilentLoft"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JCPinCheshire"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "patrickdemdude"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LarrySMartin2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tennisskimom2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DredgenSky25"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "hurdiwascanceI"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "abbraalso"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KMFHA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JoeieJoey"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RohanJohansen"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "sarahmdonnelly1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Nan10"
-    },
-    {
-        "count": 1,
-        "enga": 12.0,
-        "todayUser": "enrich_research"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "sitesoob"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Gigglechops74"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "RandomActsOrg"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TraningManag"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "mucklerscircle"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CMAtanasio"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "idareutolcveme"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "macesari"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "queerdeadly"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GoldenAgeDenta1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Helena_Sindelar"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "DuruchiM"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CareEducationa2"
-    },
-    {
-        "count": 1,
-        "enga": 141.0,
-        "todayUser": "PatHensley14"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "ryanthomas88882"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "Jason_Tidd"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AntifaVictim"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AUNDRIAFRIENDS"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Aviditie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ChinaMustPay"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MissTrade"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MaryMary0414"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GalasiaSeekai"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "covid19korea"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "ChanakyaDissan1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "maralaanan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GlenBrito5"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "gracewasntaken"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Markus_Not_Mark"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "cupidnap"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Keiabeaah"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "janeymcd23"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "roxie32819"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "nleh03"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MatHatter3"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "TheRidler1107"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "Eyernhyde"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JoepSylvester"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RichLevy5"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "tommysgirl61"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SamuraiHunt"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "xostephyrose21"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bellpers"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lifeofabiology"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "catboymaid69"
-    },
-    {
-        "count": 1,
-        "enga": 60.0,
-        "todayUser": "StephenMakin"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "maggieraiford1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Tocqueville_eye"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lareinedejade"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Muzzlewump"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KhalilFanAcct"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RoyalHomeCareN1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Raven_Goddess_1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "XY_GT_CHO_unkle"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "worthynews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MildTBI"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "Leondre1K__"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "mike_veteran"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "SouthTexasPansy"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "realBioMassSpec"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "csaw59"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "crownprincess50"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "tweetingtweet16"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "beyhivemass"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "OneYFilms"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DrFeeelGoood"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "melontittie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "robin5362"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bobkatrevor"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "damnairport"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "G3AR3D"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NivonDg"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "billritter7"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "liddocait"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LBGrayPanthers"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MuvaaMeshaa"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "robgi750"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "PhillyDailyNews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mrthalidomider"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AbaddonHewley"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JS_89_1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "vanillaopinions"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AnnMoorfield"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "rebeccamakkai"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "justgeorgeaz"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "all4consolaws"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Bonniekra56"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "LindseyRagas"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "GioVergara7"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "broncougar"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Prakash65904586"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "bronifty"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "whattabxtch"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AlexWROCLove"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "fleur_de_lis_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "benjyvol"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "shots_drop"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "seniorstodayin"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "TheLouHolly"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "BubbaAntrim"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "schlobonmeknob"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RennerCat"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ReaceSandMan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "gurschecomedy"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TRMeson"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cjfroude1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DitzyJPG"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jamiemongiovi"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lilybean2021"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "pssmith13"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "captain_faq"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "johnfischerjr"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ActivitouchHQ"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MAKNAE0NT0P"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CaCooYankee1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "omega_paladin"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KevinBRoss4"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "SouthernGh"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "jastheeflower"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RevMelanieNOLA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KTTCTV"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "VonAllenOK"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "FOX47Roch"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "DoubleA0317"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LeoPatr73076116"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "ibeezdressing"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Ellemnopas1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "ParamedicFOURT1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "UnchainedFenny"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "cavernicus"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Mgundy_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HansBangen"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "beompops"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KwitFollowingMe"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Angel63821817"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Susan_Wallach"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "donnaraub28"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NeuteredBuffoon"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "heehee_theo"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "secretlybatman"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "GodandtheBear"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "_idonttweet"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "musical2one"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "craigspeculator"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "MadamCurious"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jenna__lin"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "TubunMuzuru"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "ImmaBlueDot"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Mary_M_Hicks"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "zachddrum"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "InflatablePlant"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "SusanJo43085182"
-    },
-    {
-        "count": 1,
-        "enga": 2477.0,
-        "todayUser": "CariKelemen"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "symbiTHOThardy"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "jennytalias"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "BonyT48455127"
-    },
-    {
-        "count": 1,
-        "enga": 52.0,
-        "todayUser": "Two_Stacks"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Xedria3"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Rob_Silvermyst"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cajun_champagne"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "shepherd_b0y"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KhiannasTweets"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HijaziWendy"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "FightTheCorupt"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "bojomomma22"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "getjiggy_b"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "JLaFrance3QC"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "1likeaverage"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "its_taeminnie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "hellhorror"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AngelaAkers3"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KristinDiazTv"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Kierryk345"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LophiusPat"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "WBTV_News"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "loretta_stiles"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LeoneLawLLC"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HealthcareGlob1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "WayneHe28099242"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "noodletwist"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "_adverbia"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "theadvocateaca"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "NOLAnews"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "theadvocatebr"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "holabohla"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Deltapath"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Rebecca71871152"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "justquisquilia"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "RealTurdFerg1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mrnetfan1000"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "phillipsoninst"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "batalysta"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kjperocillo"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jellyshouse"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "onetruepipe"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "screamyqueenie"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Finn64354083"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "WonderwomN131"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "FOX8NOLA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "joeykarch"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "proudamericanmm"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Lyndon_M"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Crimsonnaire"
-    },
-    {
-        "count": 1,
-        "enga": 137.0,
-        "todayUser": "catsnkittys"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ASPHYXIATExME"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "eric_ajayi"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "NOTFRAGILE"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Taylor_White99"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JasonGoetz1984"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JosephC15691874"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Purippuppurupur"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jlc225"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Wolf_Dreams1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "illiragroup"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "freebee217"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KCPaul30618292"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "Zahrapilled"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Nflynn72"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LivinLifeFLKeys"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "jilevin"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kingcelinemua"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "IijanPijon"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "DisorderAwesome"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "YoungAtHeartNY"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "brxkenstxtues"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "AngryChair9881"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "aegallo"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "brookelittle40"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "RichardMJones55"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "TriciaArmon"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "Sad_Mushroom"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "anthonyjmuscat"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HagLiberal"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Truth_in_Number"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Catmom7114"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SueHuthBeckley"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "itsporkroll3456"
-    },
-    {
-        "count": 1,
-        "enga": 138.0,
-        "todayUser": "FrankLuntz"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "EdCarden"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "natwwins"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Calibamawife"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KieraKhadijah"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "The25thHourNews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HelpMeMarty"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CSahoney"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GuinSpc"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "NobodyAskedMeB1"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "cjroth1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jsc_law"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "zurieb20"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ToddWBurrisLaw"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JennaBollinger1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "brittyyy__"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "FriendlyROC"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KraftigCrypto"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kdewitt7"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "serenity_87"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SNFCameras"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Autumnstill15"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Cocoisspeaking"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "abbrody"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "nekkidititty"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jojodan11592387"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Camdog0130"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PKolozsvary"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "RealMattMoney"
-    },
-    {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "GordonRussell1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "broc33178844"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jdthatch1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "oldsluttyhag"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jkrmd2008"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ToddSheffer1972"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NoirCityDame"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "dev_haiku2"
-    },
-    {
-        "count": 1,
-        "enga": 36.0,
-        "todayUser": "cnalive"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "salixbites"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "iambren10"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Wheezawheeze"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jwross55"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "grcjcksn"
-    },
-    {
-        "count": 1,
-        "enga": 12.0,
-        "todayUser": "ChusPKG"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "Shaughn_A2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "leonhardtmindy"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "H4HCAdvocacy"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JenSinclair61"
-    },
-    {
-        "count": 1,
-        "enga": 90.0,
-        "todayUser": "clefantom1"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "GhostofEdie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "catblackcanada"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DaveAshelman"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "quachelsey"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "NYC_NFTs"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "lovelydream3r"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "StormyVNV"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "briannasbell"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "realbryanmiller"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "johnlewispromo"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "parodymomm"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "indiecratublic1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "yoonsace"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "xFoodAllrgyhelp"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "Amerieod"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "karoncu82"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "springwitty"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "PrevostClemToun"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tobaccojuulpod"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NicolSherri"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "pencilforge"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "LauHope"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Evolv_undefined"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mommabehr2016"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BillCol67346056"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Joaquin11117"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "2ndNewMoon"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "deNutrients"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GTWO_Releases"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "CaringHeartSoul"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Cubs4life1981"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "0609_foxy"
-    },
-    {
-        "count": 1,
-        "enga": 1137.0,
-        "todayUser": "indepdubnrth"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "fedtanyl"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "peleharryu"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "APseudonymous_"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "janmokwa1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "marchettifiIms"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CCowgirl03"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JosieBLawson"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "SarongSo"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "wvpublicnews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "debbiemoore2012"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "premium_thot"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "ScreenwriterM"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "flying_two"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "TheFirst49"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "kal991311"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "karanjms"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CrisisCloud"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "PlECEOFM1ND"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lola_monea"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "chalkmark64"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kcluva"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "npcdailysite"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "callousedhands_"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "fake_knews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "greenmeadows_hc"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LouSuccess"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bethschapel"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Gilliunion"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "wendyshutter"
-    },
-    {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "KAG4US"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "elenorroosevel2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cherrybombquin"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "b_lubey"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "merabethjames"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "italian_enough"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Jacksonrevell"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DianeDe22092707"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "bigblowey"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LisaPlott"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "Granterwin1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "sweetbillyv1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "williamstome"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "saintdougie"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "alocasiasea"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GenesisCareers"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "PoliSueToo"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PlanningMyPast"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JasonMa12569979"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AloeeeVero"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "WAFB"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jmad1613"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "rkdwivedinew"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "WNYC"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NickPisa"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "olivebeerthanks"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "brockjamesss"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "then24dotcom"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NaomiFaria8"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "bustaa89"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "vhlinksdotcom"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GayEnbyGnf"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Que79030749"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RandMcNallyGirl"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "wkycweather"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "FreakWillRise"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DTucker88"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "HBattlebot"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "garethaethwy"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HardlyTimes"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "TheJerseyDevil8"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "karbrom"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "NubaumMichael"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "SouthSideRich64"
-    },
-    {
-        "count": 1,
-        "enga": 21.0,
-        "todayUser": "beenth3rebefor3"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "Cyndi2You"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "xxoleah_"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "IamStefBrown"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Thelast_try"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "islandhoppper"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "flyguy1966"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "N0HeIp"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "joelanzetta34"
-    },
-    {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "_vonne__"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "reed_fortune"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CenterPointeNe"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "communisensu"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GNOHA"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "deaver_martha"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DeplorableDojo"
-    },
-    {
-        "count": 1,
-        "enga": 35.0,
-        "todayUser": "JenniferLahman"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DrJanetWilson1"
-    },
-    {
-        "count": 1,
-        "enga": 38.0,
-        "todayUser": "Gothamist"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "_ThisJustin_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PatiM2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TheRightStuffKM"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Bridgetdonegal1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SkyNetPlatform"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "JohnQueP"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "myherbstank"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tylerkula"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "fr_james1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "YankeeBishop"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "paul54208"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "phoebaca"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Kybelle195739"
-    },
-    {
-        "count": 1,
-        "enga": 236.0,
-        "todayUser": "SuzyKhimm"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "StallionMolly"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "swizz_beetz"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "NBCNewsPR"
-    },
-    {
-        "count": 1,
-        "enga": 26.0,
-        "todayUser": "R_Whiskey"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GAAllianceforCH"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "yoongslice"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "biglockforward"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "stiles314"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "vipers2468"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "bobbywilson1066"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bhimbert1213"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "HHansDE"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Engine63Tower"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "machecazzodicii"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "2Detracter"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "ShilohSheridan"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "andrewwagner"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "YE0N00NA"
-    },
-    {
-        "count": 1,
-        "enga": 26.0,
-        "todayUser": "willferg14"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "ginsengity"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "irishpa63336258"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mayorisaac"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "phaaanie09"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Nixanadoo"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ShoreUndercover"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "guarino_carolyn"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HenryFireEmblem"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SusanofAvalon"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "CitizenBecca"
-    },
-    {
-        "count": 1,
-        "enga": 44.0,
-        "todayUser": "ScaryNewDad"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AmattKevin"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ItsNanuq"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "6pKqu3AqUMA6lMk"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "christoferguson"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "morningdove1919"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SmallWhiteDogg1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "UKBigBlueBlood"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "stephderm"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "Nolte20"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NewellMartell"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GlennaRyan16"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "koutlan"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "TwinkleSea0"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Givemeabreak305"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Eliz99084204"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DougDenovitz"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "MissStixy"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "pskinny00"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ConnieBryer1"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "StevenConnie70"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Jordandabest23"
-    },
-    {
-        "count": 1,
-        "enga": 33.0,
-        "todayUser": "WGRZ"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "heidicroot"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Lord19842"
-    },
-    {
-        "count": 1,
-        "enga": 23.0,
-        "todayUser": "tycheezits"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "onlyprofessorx"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CTMirror"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HelenBranton1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ForensicResrch"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NelsonAldrich1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "yardtour"
-    },
-    {
-        "count": 1,
-        "enga": 24.0,
-        "todayUser": "jbird01788"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "Bleedinheart2MD"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "NotNJ_Taxman"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "saltier2021"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "DebinNDevon"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "tmorris504"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "sojo4ever"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cardiwithpearls"
-    },
-    {
-        "count": 1,
-        "enga": 17.0,
-        "todayUser": "Gopher1110"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lunarhedgewitch"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "thebarryabrams"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "alexnowak4"
-    },
-    {
-        "count": 1,
-        "enga": 38.0,
-        "todayUser": "xlifeofsin"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "StephJmom"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "drdivinity"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "vrideout205"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "Volandswhisper"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "24by24"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "AGrandRomance"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SammiSosa1991"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "cheezkid260"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "riverthistle"
-    },
-    {
-        "count": 1,
-        "enga": 62.0,
-        "todayUser": "tayloranton89"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Habeel26920760"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mapofcare"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "EllenWright29"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "helenfindlay"
-    },
-    {
-        "count": 1,
-        "enga": 33.0,
-        "todayUser": "jackgraham"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "shoredays"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "CanGal_39"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "thesmilenews"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "robtemery"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "LabordeSheila"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DoctorT"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CareNavConsult"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "toufic_ibrahim"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "murt32_1943"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "vinaykashy"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "idkemily_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "janconcern"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "aliasbxtchh"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "SurpriseSparrow"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "its_just_riley_"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "mssr63"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "theycallmekeelz"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Contagion_Live"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GuntherCatz"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Raspy_The_Don"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "AvaJeromeStan"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "PieceofIzu"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "jessasaurusroar"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "brynnnmariee"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TeamBack2Normal"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PhilTheDeal__"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "freequeenofpop1"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "AlisonBlunt"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "gothth0t666"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MsStar3"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "serena_easley"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "elmachuca"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "FlREWALKWlTHJOE"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AnnRich83062605"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "ReasonableTom63"
-    },
-    {
-        "count": 1,
-        "enga": 22.0,
-        "todayUser": "SSWorks"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "jred0927"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "gabbielanena"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "PAGESGREENLAND"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tailynnsimone"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DjentuhPeter"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Cherylykarazsia"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NiNiGoYankees"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "geniemooney11"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lcatboonies"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Kai_Kasparek"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "EugeneFreedman"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "getthatrightgtr"
-    },
-    {
-        "count": 1,
-        "enga": 94.0,
-        "todayUser": "bostondoglady"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Dannyboi407"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "2starsun"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RDavisJ1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KatTwisted"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "SKivimaa"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "DVandy74"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "PeninsulaCare1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "hannahdentata"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "BamaInvesting"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Patrizia3482"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MatrixLegion"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Alexander_Tin"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PlayAplenty"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "yugyeoms2ndwife"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "gremlincrimes"
-    },
-    {
-        "count": 1,
-        "enga": 51.0,
-        "todayUser": "SomeAss01410565"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "PrefBasedLiving"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TheBuffaloNews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "xpostnews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JohnstonTootsie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KinoDaDon"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NoamVsRush"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "osusteelersJen"
-    },
-    {
-        "count": 1,
-        "enga": 33.0,
-        "todayUser": "RahulDoc2"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "UR_Med"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Iouiesontour"
-    },
-    {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "windowsquinter"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "garyhall7"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "stevesh09305432"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Valerie69010280"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "RobertMacie1979"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MattBarson34"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "elder_bryna"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CjByers57"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "DominiqueRevue"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "PittGymnastics"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GinaNobles5"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "FortAtkinsonhcc"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KkSynan"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "SCWOFTX"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "manishraigzp"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "usanotparty"
-    },
-    {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "LokenKristanna"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Tittyraw"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "realarniebaird"
-    },
-    {
-        "count": 1,
-        "enga": 58.0,
-        "todayUser": "Terryzarsoff"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HunnyXing"
-    },
-    {
-        "count": 1,
-        "enga": 74.0,
-        "todayUser": "selentelechia"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lunvts"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "canyonpearl"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "oh_ar_a"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "shauntelandrea"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "LikesPaste"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "hoginspector"
-    },
-    {
-        "count": 1,
-        "enga": 20.0,
-        "todayUser": "HeatingJjp"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "gialovexo"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "frost_zackf"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "RichardWWard1"
-    },
-    {
-        "count": 1,
-        "enga": 28.0,
-        "todayUser": "maxasteele"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Linc_CymruJobs"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "thatwritegamer"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "AwTroon"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AfterTheLawsuit"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "coltonrayw4a"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "14StormTrooper"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "obikyama"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "davealtimari"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "prosepjs"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "divinelightribe"
-    },
-    {
-        "count": 1,
-        "enga": 12.0,
-        "todayUser": "alaghumani"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "GwynneFitz"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "kiIocaIorie"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "JarrodC21"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CFBCapper87"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "jatara_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PrettyDequan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SwankGregory"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BRWN_EYEGURL"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CanfieldDonna"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "TXCatholic"
-    },
-    {
-        "count": 1,
-        "enga": 12.0,
-        "todayUser": "ASpankoNews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JushengLtd"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "WillowValleyCom"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Patrici41208632"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Robert__Stage"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KRLD"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cptengy"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Meyer_HM"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "thejewishskater"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "mtaylorstark"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "SarahSp58588539"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JacobsConnects"
-    },
-    {
-        "count": 1,
-        "enga": 23.0,
-        "todayUser": "sarahleh89"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "branka_jovic"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "longitude_prize"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "kashiix2"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "polialertcom"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SDem407"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MitiLitigate"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DailyMusicBrk"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MikeScharlach"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Leila38_"
-    },
-    {
-        "count": 1,
-        "enga": 113.0,
-        "todayUser": "RobManess"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "irreallt"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ChaseMadar"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "IronOmie"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CirceoLawFirm"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "the_coldest_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "theeaquaria"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "RageQuitSr"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "FamiliesUSA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "donaldtrumppund"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MaryFra41510524"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CryptoidMonkey"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "kiIIatiff"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "King72888923"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "fuqetol"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jokerfyre719"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "xionjpg"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BohemianFeline"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "072Jenny"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Fishers_Law"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "thisismarebear"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MishraDivyank"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NurseBrownT"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "AReddingDPM"
-    },
-    {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "Laroc_JA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "UrichVaclav"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "9kingkd"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "Kay76945593"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AndyBustamant11"
-    },
-    {
-        "count": 1,
-        "enga": 968.0,
-        "todayUser": "HowleyReporter"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HIGHLANDDRAGON"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "SEfrenn"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SherrieCherie"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "craigsturf"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "shivam07rock"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jananelson6"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Bella_Breeze13"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Pville_Sandy"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lordkeynes42"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "TxeOfficial"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "neotheatersys"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "WadeAustin20"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "clitz4christ"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "ZachReports"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Loneshark9"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "CollegeGuru4"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Betterlifee0"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "SonnyGirard"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Silverrwolff"
-    },
-    {
-        "count": 1,
-        "enga": 39.0,
-        "todayUser": "SportsTalk_SEC"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Anthony_Parisii"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JoeySpittler"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "heavymetalevah"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "PetraPa33852747"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TrueIroningMan"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "StillSumAsshole"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "Barkingskwerl"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "SlyJicey"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "joseph_dangelo"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "RedneckNinja81"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "originslore"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "LumLotus"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "kellirtss"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "fswisen"
-    },
-    {
-        "count": 1,
-        "enga": 42.0,
-        "todayUser": "hank_x_hilliams"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Saintsman3"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "YoyotheGiant"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "NotPilky"
-    },
-    {
-        "count": 1,
-        "enga": 64.0,
-        "todayUser": "catelizlouise"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CanadianGuyEh7"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MarkFreundKTIV4"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "fatalhakai"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "gardenoutro"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LouiseGWTFA"
-    },
-    {
-        "count": 1,
-        "enga": 49.0,
-        "todayUser": "tickerguy"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LukeBlount"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TheBrazenMan"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "CarmenFEnrique1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "PossumLS"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "12_podcast"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "FloridaRepNY"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "rigsby3"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "EricaMalarkey"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "xo_diamondk"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "13JakeODonnell"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "JenniferRusson"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "CarolPierce347"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "FLBarNews"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MilfSlave_"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "dailowe"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "OneEyedAlpaca"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Renegade1292"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "uneme_tokuyou"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "theblazetrends"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "toni_latigra"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LVJYSNL"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "dccaretweets"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "hogan_1969"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "3lisem"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "insanefelinegal"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "servantck55"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "OldScho34657166"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "nic1blake"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "JDWenzel"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AnnBrite"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ploughmanjohn"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "rubert27637794"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "chucklewis1954"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "soxallday15"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ifeelwhalien"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "koehn_stephen"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "Sami_Kamilah"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "olc_f"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "_NateTheGreat2"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "TnC_SElectrical"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "AARPAL"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "cornelia_taylor"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Calimocho14"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jullietShi"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AnnieMc10239021"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SkilledWoundCar"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "OrganizdKaoz"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Justice4Seniors"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "youngallison63"
-    },
-    {
-        "count": 1,
-        "enga": 32.0,
-        "todayUser": "BreitbartLondon"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "Thomsod"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "donomom54"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "alumonim"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "StacezMcKee"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PreedomFighter"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "pinkbeelzebub"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AlCataldo1"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "MichaelClear"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DAT_SMR"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "SpaceForceCad"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jimbuctwit"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MHCLawyers"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MichaelReneauJ1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ChazAnancini"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "iam_tyrinnicole"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DorothyRatowski"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ThePolluxScar"
-    },
-    {
-        "count": 1,
-        "enga": 41.0,
-        "todayUser": "vminkookluvr69"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AnveshN49452287"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "TheCancerLetter"
-    },
-    {
-        "count": 1,
-        "enga": 24.0,
-        "todayUser": "rach__mz"
-    },
-    {
-        "count": 1,
-        "enga": 636.0,
-        "todayUser": "ianbremmer"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Wizzardly5"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lolkeydy"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "TipMahoney"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Andy_eprr"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "BrendaE88379803"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "lost_thinker_WC"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "GershomG"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "rku749910581"
-    },
-    {
-        "count": 1,
-        "enga": 23.0,
-        "todayUser": "_MAArgentino"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jenna_abbott44"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MaggieDeBella1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ppulmn"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "vaxpox"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "iain_clitheroe"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "chachi6775"
-    },
-    {
-        "count": 1,
-        "enga": 1127.0,
-        "todayUser": "leiakanani"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Smokesumbiiihh"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NewYorkNeglect"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "OverUnderClover"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "FinancialXpress"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Jack78099359"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JokeBot6000"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mulberrybush"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AshleyKTVO"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "origclemdawg"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Decima28936219"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "symmaimusic"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BayleighAir"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Teresa998877"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SDCrimJustice"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "hcheroesIL"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RR13NYC"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "BVR58915778"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MuenchKatrine"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "DrPrezElect1776"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JonStuartMill2"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "BeautyBind"
-    },
-    {
-        "count": 1,
-        "enga": 71.0,
-        "todayUser": "thehowie"
-    },
-    {
-        "count": 1,
-        "enga": 37.0,
-        "todayUser": "Divya__Official"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "dlr51"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "LaughAtLefties"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Shpetim21816405"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "cmarinucci"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "cleaverbrooks"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "hydblooddonors"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Xoxoanwar1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MichelleLavoie"
-    },
-    {
-        "count": 1,
-        "enga": 15.0,
-        "todayUser": "kenyadad12"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KDRLAWYERS"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "YidInfoNews"
-    },
-    {
-        "count": 1,
-        "enga": 14.0,
-        "todayUser": "shorehands"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "pettyloveless"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Sports_Houdini"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "DrMaxKoss"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "jermainenisby1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "clothilde91821"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Tracy787878"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Mathi_209"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lovedrp_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "toolman108"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Ima_tang"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "_kendoll"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LawdDios"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "sj_greene"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JeremyOkelley"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "SeanPMeans"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "StephenBus"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DotConnector8"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Yoga_hobo"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "514Eddie"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GINO53140"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BeLikeBriy"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "brookeblasy"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Lucyy15368594"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "PoetLvr"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LShelby116"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "annakroning1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "drjohnmorley"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ruhoward4"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TheEstateGeek"
-    },
-    {
-        "count": 1,
-        "enga": 23.0,
-        "todayUser": "groyper_nick"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "_McKnightsSL"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TeddyP57550387"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "_mastersfiction"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Mike83236032"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "mbanderson83"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Zenergi"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "AmberOwens18"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "plain_dan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "imapeepels"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AARPpolicy"
-    },
-    {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "beachguyluvsva"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "TheFlaBar"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "nytimesarts"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Venkat_Pavanism"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "form_fl"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "KatieMu59677657"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "czardaswun"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jajabbey"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LovePapiTee"
-    },
-    {
-        "count": 1,
-        "enga": 119.0,
-        "todayUser": "nytimes"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "IHCA_LngTrmCare"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "judgementslut"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "OSjourney"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "1to1Legal_com"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "SteffenJacob"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Meddocslu"
-    },
-    {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "AugustusSigi"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "mbc_services"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MelissaChepuru"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tetoroa"
-    },
-    {
-        "count": 1,
-        "enga": 26.0,
-        "todayUser": "bulldoghill"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ccampy"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "william_roeben"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "RiverswayNH"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "marketyournurs1"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "roccitynews"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "CPCSMuse"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "vonhudon"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "thickmsgangsta"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "GAWillStewart"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "drskyskull"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DllCKBlCYCLE"
-    },
-    {
-        "count": 1,
-        "enga": 263.0,
-        "todayUser": "DLeonhardt"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "firelakeco"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SaintAndrew11"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "justicearcxna"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "baeko"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jimorlando11"
-    },
-    {
-        "count": 1,
-        "enga": 341.0,
-        "todayUser": "Amy_Siskind"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ThatsSo_Tay"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "HappyLolaRita"
-    },
-    {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "RhondaPowers"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "delana8585"
-    },
-    {
-        "count": 1,
-        "enga": 16.0,
-        "todayUser": "nslinkslady"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mundaneko"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "MarionZMurphy"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Chris47471304"
-    },
-    {
-        "count": 1,
-        "enga": 12.0,
-        "todayUser": "MorningBrew"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "cassiqu"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TheNCAirman"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "hshLauraJ"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "openbosby"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "seahawkfankk"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "ChahklatDeez"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "_Mugchelle_"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "MmmmPablo"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "timmullaney"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "andrewflood"
-    },
-    {
-        "count": 1,
-        "enga": 391.0,
-        "todayUser": "mindingottawa"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HyeopsNDreams"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Williammansson"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "suhnamjoons"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "couldbekayona"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "IndianNation_"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NewsNBW_"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "austinlouisray"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "mernino2k2"
-    },
-    {
-        "count": 1,
-        "enga": 187.0,
-        "todayUser": "sarbetter"
-    },
-    {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "Jo_Comerford"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "ButtersBadAtDbd"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "newsnet14895"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "iFordom"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "TJProvincial"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "BaltimoreGal"
-    },
-    {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "DementiaFink"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Anntherese2"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "BellaMyBeauty"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "EarlGrrrey"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "MarieMckeon2"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Gwynne20201"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "HartfordCareLtd"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Lostinmyseals"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "NBWMedia"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "flett_jane"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "seachange_au"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cockyman7"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SindrakNA"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jvernon_vernon"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "peanxtss"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "defsohn"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "NYTNational"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JohnAnd47167713"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "FriendsTerm"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Rteefact"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "lawrenc33884675"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Newsdailyng1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "UnsweetenedTru1"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Viper_Siren"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "russbengtson"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "stats_tell_us"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "AbpGanga"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PenzanceHour"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "tcg382"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "thenewsyard"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "eu_mayor"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "sedanobarbara1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "popomcgogo"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ChizitEmma"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DonStribling2"
-    },
-    {
-        "count": 1,
-        "enga": 74.0,
-        "todayUser": "gardainfo"
-    },
-    {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "LjubicDf"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "delladawson121"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Carloss38225525"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KitchenDiscoMum"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "FiMelb99"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "spadie76"
-    },
-    {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "GeorgeParkesIRL"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Thaidigsmann"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "carbonlogix"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Clearthishouse"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "a_grandalf"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "LazarusLong13"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "DinerOpinion"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ZalesRebellion"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "SRManorlands"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jblakeslee1"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Wd2259Donovan"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "pamflem97131071"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "silentscooter"
-    },
-    {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "KristaSparks95"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HertsGoodCare"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "shaymilliaan"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SHSUHNASP"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "HIREMAIDEA"
-    },
-    {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Teeinuu"
-    },
-    {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "stanfieldhome"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "genericsnark"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Rothoula"
-    },
-    {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "mielcarz"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "56Headlines"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "lizaarrrd"
-    },
-    {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "dancinrobot9"
-    },
-    {
-        "count": 1,
-        "enga": 27.0,
-        "todayUser": "RobertCollins__"
-    },
-    {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "downstateny1"
-    },
-    {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bkbaral"
+        "count": 3,
+        "enga": 102,
+        "todayUser": "repdelbene"
     },
     {
-        "count": 1,
-        "enga": 21.0,
-        "todayUser": "Voices4Seniors"
+        "count": 3,
+        "enga": 199,
+        "todayUser": "peterwelch"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "xtine1_mwani"
+        "count": 3,
+        "enga": 2094,
+        "todayUser": "senlummis"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "EugeneZha"
+        "count": 3,
+        "enga": 36,
+        "todayUser": "repandybarr"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "renderrain"
+        "count": 3,
+        "enga": 10,
+        "todayUser": "hsgac"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "ChrisCourtney4"
+        "count": 3,
+        "enga": 18,
+        "todayUser": "repwesterman"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "RealRickRage"
+        "count": 3,
+        "enga": 93,
+        "todayUser": "houseforeigngop"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "angrybevo21"
+        "count": 3,
+        "enga": 37,
+        "todayUser": "senatorwicker"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "tyrekecorrea"
+        "count": 3,
+        "enga": 61,
+        "todayUser": "senkevincramer"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "reddirt_yarrow"
+        "count": 3,
+        "enga": 2192,
+        "todayUser": "chuckgrassley"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "imrayrod"
+        "count": 3,
+        "enga": 30,
+        "todayUser": "repjimmypanetta"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DaVonToomuch1"
+        "count": 3,
+        "enga": 743,
+        "todayUser": "repsarajacobs"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "ezra_reis"
+        "count": 3,
+        "enga": 99,
+        "todayUser": "repmondaire"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "firebrantt"
+        "count": 3,
+        "enga": 546,
+        "todayUser": "repjamescomer"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "HoaxKills"
+        "count": 3,
+        "enga": 396,
+        "todayUser": "repdavidkustoff"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "MillyMolly300"
+        "count": 3,
+        "enga": 49,
+        "todayUser": "repfitzgerald"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "MlLFISM101"
+        "count": 3,
+        "enga": 46,
+        "todayUser": "repashleyhinson"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "hecticbihh"
+        "count": 3,
+        "enga": 232,
+        "todayUser": "chrisvanhollen"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "eternalstranger"
+        "count": 3,
+        "enga": 483,
+        "todayUser": "repdlamborn"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "EnchantedMeat"
+        "count": 3,
+        "enga": 179,
+        "todayUser": "repslotkin"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tres444"
+        "count": 3,
+        "enga": 2363,
+        "todayUser": "repyvetteclarke"
     },
     {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "kchoudhu"
+        "count": 3,
+        "enga": 99,
+        "todayUser": "repangiecraig"
     },
     {
-        "count": 1,
-        "enga": 19.0,
-        "todayUser": "AddressingLife"
+        "count": 3,
+        "enga": 71,
+        "todayUser": "repstricklandwa"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "becx1970"
+        "count": 3,
+        "enga": 144,
+        "todayUser": "greschenthaler"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "KathMcGill1"
+        "count": 3,
+        "enga": 90,
+        "todayUser": "repstevechabot"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "raqidoodle"
+        "count": 3,
+        "enga": 35,
+        "todayUser": "repbost"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Trishy87254087"
+        "count": 3,
+        "enga": 41,
+        "todayUser": "repdesaulnier"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Mrwaytoomuch"
+        "count": 3,
+        "enga": 43,
+        "todayUser": "judgecarter"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "richiedvd0009"
+        "count": 3,
+        "enga": 693,
+        "todayUser": "repseanmaloney"
     },
     {
-        "count": 1,
-        "enga": 7.0,
-        "todayUser": "AlanEdw58236339"
+        "count": 3,
+        "enga": 109,
+        "todayUser": "repkathleenrice"
     },
     {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "XrpDoc"
+        "count": 3,
+        "enga": 77,
+        "todayUser": "rephartzler"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "b1untforcedrama"
+        "count": 3,
+        "enga": 70,
+        "todayUser": "replaturner"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "RKempNewsDaily"
+        "count": 3,
+        "enga": 100,
+        "todayUser": "repbrownley"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KristenVH2"
+        "count": 3,
+        "enga": 690,
+        "todayUser": "senatorleahy"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "b_bolby"
+        "count": 3,
+        "enga": 102,
+        "todayUser": "repgwenmoore"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kiernan_jo"
+        "count": 3,
+        "enga": 195,
+        "todayUser": "edlaborgop"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ofrwprez"
+        "count": 3,
+        "enga": 56,
+        "todayUser": "housecommerce"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "jujulexangel"
+        "count": 3,
+        "enga": 268,
+        "todayUser": "repcolinallred"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "RobGerundo"
+        "count": 3,
+        "enga": 638,
+        "todayUser": "senatortester"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "PaulArg27996465"
+        "count": 3,
+        "enga": 77,
+        "todayUser": "repdelgado"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mxehanort_bot"
+        "count": 3,
+        "enga": 15,
+        "todayUser": "jimlangevin"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "saucethompy"
+        "count": 3,
+        "enga": 1528,
+        "todayUser": "senblumenthal"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ZymeenAOC"
+        "count": 3,
+        "enga": 17,
+        "todayUser": "repsires"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ConsumerVoices"
+        "count": 3,
+        "enga": 5455,
+        "todayUser": "ilhan"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "EObercincy"
+        "count": 3,
+        "enga": 62,
+        "todayUser": "repchuck"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "rtr09wjm"
+        "count": 3,
+        "enga": 9,
+        "todayUser": "senateagdems"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ABC10"
+        "count": 3,
+        "enga": 406,
+        "todayUser": "repjudychu"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "chxnoc"
+        "count": 3,
+        "enga": 66,
+        "todayUser": "repsarbanes"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "morganalexa01"
+        "count": 3,
+        "enga": 28,
+        "todayUser": "homelandgop"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "tyrannicaltimes"
+        "count": 3,
+        "enga": 36,
+        "todayUser": "repjahanahayes"
     },
     {
-        "count": 1,
-        "enga": 11.0,
-        "todayUser": "horangyeollie"
+        "count": 3,
+        "enga": 135,
+        "todayUser": "leaderhoyer"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "rldixon"
+        "count": 3,
+        "enga": 40,
+        "todayUser": "reptonygonzales"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "blhfirm"
+        "count": 3,
+        "enga": 332,
+        "todayUser": "repsteel"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "loei09604771"
+        "count": 3,
+        "enga": 45,
+        "todayUser": "repdwstweets"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "BarbaraP1958"
+        "count": 3,
+        "enga": 27,
+        "todayUser": "repgonzalez"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "BlackVelvetMara"
+        "count": 3,
+        "enga": 164,
+        "todayUser": "repnewhouse"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PastureSociety"
+        "count": 3,
+        "enga": 152,
+        "todayUser": "repjohnkatko"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Susmita_Bargarh"
+        "count": 3,
+        "enga": 210,
+        "todayUser": "repjasonsmith"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "DiscussData"
+        "count": 3,
+        "enga": 50,
+        "todayUser": "repmccaul"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "flatassnotfound"
+        "count": 3,
+        "enga": 12144,
+        "todayUser": "randpaul"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "rjphillips5"
+        "count": 3,
+        "enga": 56,
+        "todayUser": "rephaleystevens"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JulieMoOnTheGo"
+        "count": 3,
+        "enga": 99,
+        "todayUser": "reprobinkelly"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LayaTasty"
+        "count": 3,
+        "enga": 5950,
+        "todayUser": "repandybiggsaz"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Army82_ed"
+        "count": 3,
+        "enga": 162,
+        "todayUser": "jerrymoran"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "destiny38184895"
+        "count": 3,
+        "enga": 201,
+        "todayUser": "repgregstanton"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "smpa"
+        "count": 3,
+        "enga": 39,
+        "todayUser": "johnboozman"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DavidIsCursed"
+        "count": 3,
+        "enga": 150,
+        "todayUser": "housebudgetdems"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "sportstalk1969"
+        "count": 3,
+        "enga": 66,
+        "todayUser": "repwexton"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "Twinmutti1"
+        "count": 3,
+        "enga": 65,
+        "todayUser": "repronestes"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "imjakobe2k"
+        "count": 3,
+        "enga": 61,
+        "todayUser": "repmikequigley"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "LeavemeAloneDNC"
+        "count": 3,
+        "enga": 102,
+        "todayUser": "chriscoons"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "MargiCulp"
+        "count": 3,
+        "enga": 112,
+        "todayUser": "houseaggop"
     },
     {
-        "count": 1,
-        "enga": 32.0,
-        "todayUser": "nioxinq"
+        "count": 3,
+        "enga": 26,
+        "todayUser": "repmichaelguest"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "marshedblob"
+        "count": 3,
+        "enga": 209,
+        "todayUser": "sentoddyoung"
     },
     {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "quantian1"
+        "count": 3,
+        "enga": 1314,
+        "todayUser": "reprashida"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "RWOMC"
+        "count": 3,
+        "enga": 123,
+        "todayUser": "reploudermilk"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ILPolitihub"
+        "count": 3,
+        "enga": 43,
+        "todayUser": "repohalleran"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Tenright92"
+        "count": 2,
+        "enga": 340,
+        "todayUser": "stevedaines"
     },
     {
-        "count": 1,
-        "enga": 10.0,
-        "todayUser": "Suzieiswright"
+        "count": 2,
+        "enga": 1635,
+        "todayUser": "reprubengallego"
     },
     {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "PrimroseHerd"
+        "count": 2,
+        "enga": 93,
+        "todayUser": "repbalderson"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "smith_eban"
+        "count": 2,
+        "enga": 12,
+        "todayUser": "repblakemoore"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JacquiO32415640"
+        "count": 2,
+        "enga": 102,
+        "todayUser": "repjoshharder"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "_purpleflower__"
+        "count": 2,
+        "enga": 23,
+        "todayUser": "repmalinowski"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "nomad_therapist"
+        "count": 2,
+        "enga": 119,
+        "todayUser": "usreplong"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "ripp_lisa"
+        "count": 2,
+        "enga": 41,
+        "todayUser": "repdavidrouzer"
     },
     {
-        "count": 1,
-        "enga": 8.0,
-        "todayUser": "vendingcomics"
+        "count": 2,
+        "enga": 2,
+        "todayUser": "transportgop"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "PaulGrayFitness"
+        "count": 2,
+        "enga": 315,
+        "todayUser": "sengarypeters"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jackag76"
+        "count": 2,
+        "enga": 258,
+        "todayUser": "repbentz"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "DannieleWilking"
+        "count": 2,
+        "enga": 45,
+        "todayUser": "repwalberg"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "BNguyetNguyen"
+        "count": 2,
+        "enga": 13,
+        "todayUser": "repscottpeters"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "josukenthusiast"
+        "count": 2,
+        "enga": 322,
+        "todayUser": "repbrianmast"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TommyHolliday17"
+        "count": 2,
+        "enga": 180,
+        "todayUser": "repspartz"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "dadogwitaknife"
+        "count": 2,
+        "enga": 97,
+        "todayUser": "lisamurkowski"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GregoryGold"
+        "count": 2,
+        "enga": 5952,
+        "todayUser": "repadamschiff"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mkrishna1949"
+        "count": 2,
+        "enga": 142,
+        "todayUser": "senatorcantwell"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "Baileyinlimbo"
+        "count": 2,
+        "enga": 256,
+        "todayUser": "repmikegarcia"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "garyalan82"
+        "count": 2,
+        "enga": 84,
+        "todayUser": "reprichardneal"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "SunsetSydneyWes"
+        "count": 2,
+        "enga": 81,
+        "todayUser": "repkimschrier"
     },
     {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "VillarrealUSA"
+        "count": 2,
+        "enga": 58,
+        "todayUser": "repannwagner"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "VRValicento"
+        "count": 2,
+        "enga": 775,
+        "todayUser": "senbooker"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "bigheadgetou"
+        "count": 2,
+        "enga": 6791,
+        "todayUser": "sentinasmith"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Hardcoreking3"
+        "count": 2,
+        "enga": 9453,
+        "todayUser": "senatorsinema"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "barbara18288359"
+        "count": 2,
+        "enga": 110,
+        "todayUser": "repbencline"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "heatherdismore"
+        "count": 2,
+        "enga": 270,
+        "todayUser": "repmullin"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Vinfrontfacelok"
+        "count": 2,
+        "enga": 7504,
+        "todayUser": "repkclark"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "darnold64"
+        "count": 2,
+        "enga": 97,
+        "todayUser": "royblunt"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "DownJ0wns"
+        "count": 2,
+        "enga": 190,
+        "todayUser": "ronwyden"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "TycoonTalk_"
+        "count": 2,
+        "enga": 66,
+        "todayUser": "repcuellar"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "m0thermarkos"
+        "count": 2,
+        "enga": 28792,
+        "todayUser": "sensanders"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "cleveland19news"
+        "count": 2,
+        "enga": 68,
+        "todayUser": "repfredupton"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "anelisacb"
+        "count": 2,
+        "enga": 1551,
+        "todayUser": "repunderwood"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TreasonYo2"
+        "count": 2,
+        "enga": 729,
+        "todayUser": "congressmanhice"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "GTCubsEagles10"
+        "count": 2,
+        "enga": 38,
+        "todayUser": "bankinggop"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "tiredplatypus"
+        "count": 2,
+        "enga": 3931,
+        "todayUser": "sen_joemanchin"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "trumpwon2000"
+        "count": 2,
+        "enga": 83,
+        "todayUser": "repanniekuster"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "ImprobableJoe"
+        "count": 2,
+        "enga": 52,
+        "todayUser": "repderekkilmer"
     },
     {
-        "count": 1,
-        "enga": 25.0,
-        "todayUser": "APLMom"
+        "count": 2,
+        "enga": 590,
+        "todayUser": "markwarner"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "ringo_agogo"
+        "count": 2,
+        "enga": 151,
+        "todayUser": "senamyklobuchar"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KeithAWood"
+        "count": 2,
+        "enga": 103,
+        "todayUser": "senstabenow"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "iicftothesun"
+        "count": 2,
+        "enga": 28,
+        "todayUser": "repdeborahross"
     },
     {
-        "count": 1,
-        "enga": 20.0,
-        "todayUser": "VABVOX"
+        "count": 2,
+        "enga": 47,
+        "todayUser": "repkevinhern"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "maddienoon"
+        "count": 2,
+        "enga": 462,
+        "todayUser": "repfischbach"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "Smurfnurs1"
+        "count": 2,
+        "enga": 74,
+        "todayUser": "repdavidtrone"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "KatelynsWTAE"
+        "count": 2,
+        "enga": 34,
+        "todayUser": "herrerabeutler"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "ProfGerMed"
+        "count": 2,
+        "enga": 546,
+        "todayUser": "sencortezmasto"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "alainaisfunny"
+        "count": 2,
+        "enga": 241,
+        "todayUser": "repnancymace"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "jakemh13"
+        "count": 2,
+        "enga": 30,
+        "todayUser": "reprichhudson"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "lori_socal"
+        "count": 2,
+        "enga": 58,
+        "todayUser": "repherrell"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Whereistlotlo"
+        "count": 2,
+        "enga": 28,
+        "todayUser": "repperlmutter"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "GGnosticism"
+        "count": 2,
+        "enga": 56,
+        "todayUser": "repjimcooper"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "genrei_ginrei"
+        "count": 2,
+        "enga": 99,
+        "todayUser": "replowenthal"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "icaruspeaches"
+        "count": 2,
+        "enga": 62,
+        "todayUser": "repbrianfitz"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "AvocadoSolid"
+        "count": 2,
+        "enga": 175,
+        "todayUser": "repkirkpatrick"
     },
     {
-        "count": 1,
-        "enga": 50.0,
-        "todayUser": "CrustationK"
+        "count": 2,
+        "enga": 54,
+        "todayUser": "reploucorrea"
     },
     {
-        "count": 1,
-        "enga": 74.0,
-        "todayUser": "nycpa"
+        "count": 2,
+        "enga": 184,
+        "todayUser": "jayobernolte"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "kingscountyusa"
+        "count": 2,
+        "enga": 38,
+        "todayUser": "repalgreen"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JSSciencefocus"
+        "count": 2,
+        "enga": 54,
+        "todayUser": "senhydesmith"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "mandy_osteen"
+        "count": 2,
+        "enga": 199,
+        "todayUser": "joaquincastrotx"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CarrieKeneally"
+        "count": 2,
+        "enga": 152,
+        "todayUser": "senatorlujan"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CantonRepdotcom"
+        "count": 2,
+        "enga": 15,
+        "todayUser": "desjarlaistn04"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "JodesinAZ"
+        "count": 2,
+        "enga": 66,
+        "todayUser": "repannaeshoo"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CommonSenseGuy2"
+        "count": 2,
+        "enga": 80,
+        "todayUser": "repjenniffer"
     },
     {
-        "count": 1,
-        "enga": 4.0,
-        "todayUser": "fr0gbreath"
+        "count": 2,
+        "enga": 12481,
+        "todayUser": "repgregsteube"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "jsilva1988"
+        "count": 2,
+        "enga": 1211,
+        "todayUser": "repdancrenshaw"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TravisPederson3"
+        "count": 2,
+        "enga": 1025,
+        "todayUser": "reptedbudd"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Beany_Brooklyn"
+        "count": 2,
+        "enga": 64,
+        "todayUser": "repgrothman"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "JewSiGoldstein"
+        "count": 2,
+        "enga": 24,
+        "todayUser": "sfrcdems"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "CHAPPiE_2041"
+        "count": 2,
+        "enga": 427,
+        "todayUser": "senangusking"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "shleyAnn86"
+        "count": 2,
+        "enga": 173,
+        "todayUser": "reptimryan"
     },
     {
-        "count": 1,
-        "enga": 13.0,
-        "todayUser": "Jedbird77"
+        "count": 2,
+        "enga": 56,
+        "todayUser": "repbuddycarter"
     },
     {
-        "count": 1,
-        "enga": 9.0,
-        "todayUser": "kamat_yogesh"
+        "count": 2,
+        "enga": 62,
+        "todayUser": "reppeterdefazio"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "TheRatChrist"
+        "count": 2,
+        "enga": 251,
+        "todayUser": "repdebdingell"
     },
     {
-        "count": 1,
-        "enga": 2.0,
-        "todayUser": "king_baffled"
+        "count": 2,
+        "enga": 25,
+        "todayUser": "repdrewferguson"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "Wolf_Hailey"
+        "count": 2,
+        "enga": 29,
+        "todayUser": "repanthonybrown"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "THEkitcarlson"
+        "count": 2,
+        "enga": 61,
+        "todayUser": "repbeatty"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "cocktailhour5"
+        "count": 2,
+        "enga": 12,
+        "todayUser": "repkmanning"
     },
     {
-        "count": 1,
-        "enga": 5.0,
-        "todayUser": "wellwerewaiting"
+        "count": 2,
+        "enga": 24,
+        "todayUser": "housesmallbiz"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "Kristine_In_MT"
+        "count": 2,
+        "enga": 39,
+        "todayUser": "repcharliecrist"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "SaiyanGxddess"
+        "count": 2,
+        "enga": 46,
+        "todayUser": "repjimcosta"
     },
     {
-        "count": 1,
-        "enga": 6.0,
-        "todayUser": "YEPMira"
+        "count": 2,
+        "enga": 58,
+        "todayUser": "reprussfulcher"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "RNJobSite"
+        "count": 2,
+        "enga": 1759,
+        "todayUser": "senmikelee"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "dracoria_azucar"
+        "count": 2,
+        "enga": 357,
+        "todayUser": "repkarenbass"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "CBrcka"
+        "count": 2,
+        "enga": 24,
+        "todayUser": "replahood"
     },
     {
-        "count": 1,
-        "enga": 1.0,
-        "todayUser": "JoeBlac76575191"
+        "count": 2,
+        "enga": 12,
+        "todayUser": "markamodeinv2"
     },
     {
-        "count": 1,
-        "enga": 3.0,
-        "todayUser": "WBRCnews"
+        "count": 2,
+        "enga": 60,
+        "todayUser": "repkevinbrady"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "justfoinfo"
+        "count": 2,
+        "enga": 90,
+        "todayUser": "repfeenstra"
     },
     {
-        "count": 1,
-        "enga": 0.0,
-        "todayUser": "wujusay"
+        "count": 2,
+        "enga": 392,
+        "todayUser": "patrickmchenry"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "snarkywgoodhair"
+        "enga": 12,
+        "todayUser": "kilili_sablan"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "ExecutePrincess"
+        "enga": 395,
+        "todayUser": "rephuizenga"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "eureka_johnson"
+        "enga": 41,
+        "todayUser": "repagonzalez"
     },
     {
         "count": 1,
-        "enga": 13.0,
-        "todayUser": "sskorcyahoocom"
+        "enga": 79,
+        "todayUser": "jefffortenberry"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "prpnews"
+        "enga": 384,
+        "todayUser": "repdean"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "LIVE2POUR"
+        "enga": 17,
+        "todayUser": "repdavid"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "_SnowBear_"
+        "enga": 21,
+        "todayUser": "repjohnjoyce"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "chingyuanfu"
+        "enga": 123,
+        "todayUser": "repdianadegette"
     },
     {
         "count": 1,
-        "enga": 4.0,
-        "todayUser": "msabouri"
+        "enga": 16,
+        "todayUser": "repcartwright"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "tyylazaee"
+        "enga": 101,
+        "todayUser": "mikekellypa"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "lindaca67193553"
+        "enga": 20,
+        "todayUser": "repkahele"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "Grocerystore_ho"
+        "enga": 3,
+        "todayUser": "repgregpence"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "UnicornPride77"
+        "enga": 736,
+        "todayUser": "repjasoncrow"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "Hello_Sunshinez"
+        "enga": 75,
+        "todayUser": "repbobgibbs"
     },
     {
         "count": 1,
-        "enga": 11.0,
-        "todayUser": "shawn_kae"
+        "enga": 31,
+        "todayUser": "txrandy14"
     },
     {
         "count": 1,
-        "enga": 4.0,
-        "todayUser": "laurabusse"
+        "enga": 217,
+        "todayUser": "repmalliotakis"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "melaninyourgirl"
+        "enga": 18,
+        "todayUser": "rep_stevewomack"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "John14070250"
+        "enga": 22,
+        "todayUser": "repbera"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "ABC6"
+        "enga": 41,
+        "todayUser": "reppaultonko"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "BiancasTheBoss"
+        "enga": 16,
+        "todayUser": "repgarbarino"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "lisamowmow"
+        "enga": 7,
+        "todayUser": "repjoecourtney"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "CptnDory"
+        "enga": 28,
+        "todayUser": "reppetestauber"
     },
     {
         "count": 1,
-        "enga": 3.0,
-        "todayUser": "erincandy"
+        "enga": 158,
+        "todayUser": "repjohnrose"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Soliloquy7777"
+        "enga": 14,
+        "todayUser": "repbrianhiggins"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "3poundbeast"
+        "enga": 35,
+        "todayUser": "repcarbajal"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "PattiDudek"
+        "enga": 534,
+        "todayUser": "repburgessowens"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "goldenlawky"
+        "enga": 14,
+        "todayUser": "repmikerogersal"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "DannyGroner"
+        "enga": 19,
+        "todayUser": "repbobbyrush"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "klalala"
+        "enga": 848,
+        "todayUser": "repraskin"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "WLM_HLMatter"
+        "enga": 24,
+        "todayUser": "congpalazzo"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Yall_HoesWeird"
+        "enga": 116,
+        "todayUser": "reprutherfordfl"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "SlaughterPony"
+        "enga": 264,
+        "todayUser": "repchrisstewart"
     },
     {
         "count": 1,
-        "enga": 10.0,
-        "todayUser": "TencentGlobal"
+        "enga": 24,
+        "todayUser": "repbryansteil"
     },
     {
         "count": 1,
-        "enga": 7.0,
-        "todayUser": "MAGADALLAS1"
+        "enga": 10,
+        "todayUser": "replbr"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "BurnardAmy"
+        "enga": 13,
+        "todayUser": "repjimbaird"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "MDEdgePsych"
+        "enga": 8,
+        "todayUser": "repwilson"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "WadeJoh29579952"
+        "enga": 11,
+        "todayUser": "repjuanvargas"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "reyerick93"
+        "enga": 140,
+        "todayUser": "senatorcollins"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "cincotti_frank"
+        "enga": 10,
+        "todayUser": "congressmangt"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "BJCMeyer"
+        "enga": 221,
+        "todayUser": "benniegthompson"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "emmettm007"
+        "enga": 20,
+        "todayUser": "repbilljohnson"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "vegansavesworld"
+        "enga": 4,
+        "todayUser": "repgregorymeeks"
     },
     {
         "count": 1,
-        "enga": 6.0,
-        "todayUser": "Bunny_Godfather"
+        "enga": 18,
+        "todayUser": "repandyharrismd"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "BungleGirl"
+        "enga": 39,
+        "todayUser": "repmeuser"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "faeriesmut"
+        "enga": 24,
+        "todayUser": "repgracemeng"
     },
     {
         "count": 1,
-        "enga": 14.0,
-        "todayUser": "LostGlasgow"
+        "enga": 12,
+        "todayUser": "repjerrycarl"
     },
     {
         "count": 1,
-        "enga": 3.0,
-        "todayUser": "bangordailynews"
+        "enga": 4,
+        "todayUser": "repmrvan"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "Jimmybob909"
+        "enga": 44,
+        "todayUser": "repdavidscott"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "WhiteFoxEffect"
+        "enga": 6,
+        "todayUser": "repmceachin"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "Aubss4"
+        "enga": 296,
+        "todayUser": "repjoeneguse"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "CMooreBarry"
+        "enga": 31,
+        "todayUser": "repdustyjohnson"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "GirlYouWant2"
+        "enga": 19,
+        "todayUser": "robert_aderholt"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "pelhamhousecar1"
+        "enga": 5,
+        "todayUser": "repkweisimfume"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "82669F"
+        "enga": 35,
+        "todayUser": "senjackreed"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "LocalNews4051"
+        "enga": 571,
+        "todayUser": "sensherrodbrown"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "LindaGr51406494"
+        "enga": 3,
+        "todayUser": "indiancommittee"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "scoobyboobiez"
+        "enga": 3,
+        "todayUser": "housesciencegop"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "BaxalaSodi"
+        "enga": 17,
+        "todayUser": "gkbutterfield"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "madamn_cj"
+        "enga": 33,
+        "todayUser": "senatorfischer"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "PessimistAdjac1"
+        "enga": 31,
+        "todayUser": "senjohnhoeven"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "njgypsyg"
+        "enga": 12,
+        "todayUser": "housevetaffairs"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "AustraliaRight"
+        "enga": 8,
+        "todayUser": "helsinkicomm"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "Jessicam6946"
+        "enga": 7,
+        "todayUser": "epwcmte"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Fatal116"
+        "enga": 31,
+        "todayUser": "senateapprops"
     },
     {
         "count": 1,
-        "enga": 4.0,
-        "todayUser": "NYTMetro"
+        "enga": 4,
+        "todayUser": "reppfluger"
     },
     {
         "count": 1,
-        "enga": 5.0,
-        "todayUser": "HolySwiftly"
+        "enga": 36,
+        "todayUser": "repdavideprice"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "MissSchliez"
+        "enga": 22,
+        "todayUser": "repjoewilson"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "ClaudiArkansas"
+        "enga": 184,
+        "todayUser": "repdanbishop"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "PROCEEDSMAGAZIN"
+        "enga": 27,
+        "todayUser": "repbarrymoore"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Tom73308483"
+        "enga": 43,
+        "todayUser": "mariodb"
     },
     {
         "count": 1,
-        "enga": 4.0,
-        "todayUser": "infopobn"
+        "enga": 6,
+        "todayUser": "repkaygranger"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "yeshawg1"
+        "enga": 194,
+        "todayUser": "repjohnyarmuth"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "centerjd"
+        "enga": 16,
+        "todayUser": "repmgriffith"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "uberfanucules"
+        "enga": 3,
+        "todayUser": "repdonaldpayne"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Latte_Lesbian"
+        "enga": 10565,
+        "todayUser": "repjeffries"
     },
     {
         "count": 1,
-        "enga": 19.0,
-        "todayUser": "Fit_For_Golf"
+        "enga": 12,
+        "todayUser": "reprickallen"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "CAdabag"
+        "enga": 17,
+        "todayUser": "repmiketurner"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "LivCompassion"
+        "enga": 4601,
+        "todayUser": "repkatieporter"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "oraclethereal"
+        "enga": 1619,
+        "todayUser": "reppeteaguilar"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Bee1Mara"
+        "enga": 13,
+        "todayUser": "repadams"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "WHarpine"
+        "enga": 31,
+        "todayUser": "senatorrounds"
     },
     {
         "count": 1,
-        "enga": 3.0,
-        "todayUser": "volcanicstyless"
+        "enga": 54,
+        "todayUser": "congbillposey"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Bouffizzle207"
+        "enga": 23,
+        "todayUser": "reppatfallon"
     },
     {
         "count": 1,
-        "enga": 49.0,
-        "todayUser": "TiFfAnY_D_82"
+        "enga": 746,
+        "todayUser": "stevescalise"
     },
     {
         "count": 1,
-        "enga": 92.0,
-        "todayUser": "mattbc"
+        "enga": 25,
+        "todayUser": "repsusielee"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "DrWhiteTiger"
+        "enga": 7,
+        "todayUser": "repveasey"
     },
     {
         "count": 1,
-        "enga": 4.0,
-        "todayUser": "Showbobsplease"
+        "enga": 30,
+        "todayUser": "bobbyscott"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "acklaw"
+        "enga": 685,
+        "todayUser": "sentoomey"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "BrittMezher"
+        "enga": 496,
+        "todayUser": "senossoff"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "SanCareAsia"
+        "enga": 55,
+        "todayUser": "repmarktakano"
     },
     {
         "count": 1,
-        "enga": 6.0,
-        "todayUser": "LibertarianSqrl"
+        "enga": 38,
+        "todayUser": "mikecrapo"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "MacCheeseShow"
+        "enga": 22,
+        "todayUser": "repalexmooney"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "myriah_geneexoo"
+        "enga": 36,
+        "todayUser": "repfranklin"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "jCacc44"
+        "enga": 55,
+        "todayUser": "sendansullivan"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "Tarsa13"
+        "enga": 37,
+        "todayUser": "repronnyjackson"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "regularhuman0"
+        "enga": 2,
+        "todayUser": "repronkind"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "UntableSarah"
+        "enga": 4,
+        "todayUser": "tomcoleok04"
     },
     {
         "count": 1,
-        "enga": 2.0,
-        "todayUser": "rkahne"
+        "enga": 17,
+        "todayUser": "gracenapolitano"
     },
     {
         "count": 1,
-        "enga": 3.0,
-        "todayUser": "twits5_0"
+        "enga": 19,
+        "todayUser": "repblaine"
     },
     {
         "count": 1,
-        "enga": 5.0,
-        "todayUser": "marielschultz_"
+        "enga": 34,
+        "todayUser": "repwebster"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "shicocku"
+        "enga": 13,
+        "todayUser": "repauchincloss"
     },
     {
         "count": 1,
-        "enga": 3.0,
-        "todayUser": "malta75616353"
+        "enga": 18,
+        "todayUser": "austinscottga08"
     },
     {
         "count": 1,
-        "enga": 1.0,
-        "todayUser": "wilmot786"
+        "enga": 9219,
+        "todayUser": "repleezeldin"
     },
     {
         "count": 1,
-        "enga": 0.0,
-        "todayUser": "Tadthomaslaw"
+        "enga": 15,
+        "todayUser": "jecdems"
     }
 ]
