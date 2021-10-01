@@ -35,6 +35,7 @@
                         .data(["Name", "Post Count", "Engagement Count", "D","R","I","Summary"])
                         .enter()
                         .append("th")
+                        .attr("class","sticky")
                         .text(function(d) { return d; });
 
                 var tablebody = table.append("tbody");
