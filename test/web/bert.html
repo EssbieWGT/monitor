@@ -106,7 +106,7 @@ sData.forEach(function(data,index){
                   .style('line-height',"1")
                   // .style("width","800")
                   .style("padding","15px")
-                  .html('<td><img src="'+ data.photos + '" width="80%"><br><small class="text_muted">' + '<a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.displayName + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a><br>' + '<br></small></br><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><hr>' );
+                  .html('<td><img src="'+ data.photos + '" width="80%"><br><small class="text_muted">' + '<a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.displayName + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a>' + '</small><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><hr>' );
                   // d3.select(this)
                   // .append("td")
                   // .style("width","20%")
