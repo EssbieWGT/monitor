@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="format-detection" contnet="telephone=no">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Congress Topics</title>
+  <link rel="stylesheet" type="text/css" href="eb0.css">
+  <script src="https://d3js.org/d3.v4.js"></script>
+</head>
+
+<body>
+
+  <!-- Opening DIV for container -->
+  <div class="containerwgt" style="width:90%">
+  <!-- <h2 id="packageName"></h2> -->
+  <h2> LeadingAge <br> Daily Congressional Analysis: Social Media </h2>
+  <div id='current'></div><br>
+
+  <h3> Senate: </h3>
+  <div id='senate'></div>
+  <hr>
+
+  <h3> House: </h3>
+  <div id='house'></div>
+  <hr>
+
+  <h3> Influencer: </h3>
+  <div id='influencer'></div>
+  <hr>
+
+  <h3> LeadingAge States: </h3>
+  <div id='laStates'></div>
+  <hr>
+
+  <h3> Build Back Better Tweets: </h3>
+  <div id='bbb'></div>
+  <hr>
+
+
+
+</body>
+
+<script>
+    // const getHostname = (url) => {
+    //   // use URL constructor and return hostname
+    //   return new URL(url).hostname;
+    // }
+
+    d3.queue()
+      .defer(d3.csv,'cbool.csv')
+      .defer(d3.csv,'infTweets.csv')
+      .defer(d3.csv,'laTweets.csv')
+      .defer(d3.csv,'bbbTweets.csv')
+      // .defer(d3.json, 'selectTop.json')
+      .await(analyze);
+
+      function analyze(error,cboo,infT,laT,bbbT) {
+        if(error) { console.log(error); }
+
+        cboo.forEach(function(data){
+
+          if (data.chamber === "Senate"){
+            chamber = "#senate"
+          } else {
+            chamber = "#house"
+          }
+
+          d3.selectAll(chamber)
+          .append("table")
+          .style("width","50%")
+          .style("text-align","left")
+          .append("tr")
+          .style("border-bottom","1px solid #ddd")
+            .each(function(d){
+              d3.select(this)
+              // .append("tr")
+              .style('line-height',"1")
+              // .style("width","800")
+              .style("padding","15px")
+              .html('<small class="text_muted">' + data.chamber + '<br><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.name + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a><br> State: ' + data.state + ' | Party: ' + data.party + '</small><br>' + data.content + '<br><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><br>' );
+              })
+        })
+
+infT.forEach(function(data){
+
+        d3.selectAll("#influencer")
+        .append("table")
+        .style("width","50%")
+        .style("text-align","left")
+        .append("tr")
+        .style("border-bottom","1px solid #ddd")
+          .each(function(d){
+            d3.select(this)
+            // .append("tr")
+            .style('line-height',"1")
+            // .style("width","800")
+            .style("padding","15px")
+            .html('<small class="text_muted">' + data.type + ' | ' + data.class + '<br><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.handle + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a><br></small>' + data.content + '<br><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><br>' );
+            })
+        });
+
+        laT.forEach(function(data){
+
+                d3.selectAll("#laStates")
+                .append("table")
+                .style("width","50%")
+                .style("text-align","left")
+                .append("tr")
+                .style("border-bottom","1px solid #ddd")
+                  .each(function(d){
+                    d3.select(this)
+                    // .append("tr")
+                    .style('line-height',"1")
+                    // .style("width","800")
+                    .style("padding","15px")
+                    .html('<small class="text_muted"><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.handle + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a></small><br>' + data.content + '<br><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><br>' );
+                    })
+
+      });
+
+      bbbT.forEach(function(data){
+
+              d3.selectAll("#bbb")
+              .append("table")
+              .style("width","50%")
+              .style("text-align","left")
+              .append("tr")
+              .style("border-bottom","1px solid #ddd")
+                .each(function(d){
+                  d3.select(this)
+                  // .append("tr")
+                  .style('line-height',"1")
+                  // .style("width","800")
+                  .style("padding","15px")
+                  .html('<small class="text_muted"><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.handle + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a></small><br>' + data.renderedContent + '<br><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><br>' );
+                  })
+
+      });
+
+
+
+}
+
+  </script>
