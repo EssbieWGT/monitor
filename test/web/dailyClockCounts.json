@@ -1,182 +1,342 @@
 [
     {
-        "count": 74,
-        "dailyClock": "2021-10-27 10"
+        "count": 108,
+        "dailyClock": "2021-11-19 11"
     },
     {
-        "count": 63,
-        "dailyClock": "2021-10-26 10"
+        "count": 100,
+        "dailyClock": "2021-11-19 10"
     },
     {
-        "count": 50,
-        "dailyClock": "2021-10-27 12"
+        "count": 72,
+        "dailyClock": "2021-11-19 13"
     },
     {
-        "count": 49,
-        "dailyClock": "2021-10-27 11"
+        "count": 67,
+        "dailyClock": "2021-11-19 14"
     },
     {
-        "count": 45,
-        "dailyClock": "2021-10-26 09"
+        "count": 62,
+        "dailyClock": "2021-11-19 12"
     },
     {
-        "count": 45,
-        "dailyClock": "2021-10-26 13"
-    },
-    {
-        "count": 44,
-        "dailyClock": "2021-10-27 16"
-    },
-    {
-        "count": 44,
-        "dailyClock": "2021-10-26 12"
-    },
-    {
-        "count": 44,
-        "dailyClock": "2021-10-27 08"
-    },
-    {
-        "count": 44,
-        "dailyClock": "2021-10-26 14"
-    },
-    {
-        "count": 43,
-        "dailyClock": "2021-10-27 14"
+        "count": 48,
+        "dailyClock": "2021-11-18 22"
     },
     {
         "count": 41,
-        "dailyClock": "2021-10-27 13"
+        "dailyClock": "2021-11-19 08"
     },
     {
-        "count": 38,
-        "dailyClock": "2021-10-27 15"
+        "count": 40,
+        "dailyClock": "2021-11-19 09"
     },
     {
-        "count": 37,
-        "dailyClock": "2021-10-27 09"
+        "count": 36,
+        "dailyClock": "2021-11-19 16"
     },
     {
         "count": 34,
-        "dailyClock": "2021-10-26 15"
+        "dailyClock": "2021-11-19 15"
     },
     {
         "count": 33,
-        "dailyClock": "2021-10-26 08"
+        "dailyClock": "2021-11-19 00"
     },
     {
-        "count": 33,
-        "dailyClock": "2021-10-26 11"
+        "count": 30,
+        "dailyClock": "2021-11-19 17"
     },
     {
-        "count": 31,
-        "dailyClock": "2021-10-26 06"
+        "count": 30,
+        "dailyClock": "2021-11-18 20"
     },
     {
-        "count": 31,
-        "dailyClock": "2021-10-26 17"
+        "count": 30,
+        "dailyClock": "2021-11-18 23"
+    },
+    {
+        "count": 29,
+        "dailyClock": "2021-11-20 09"
+    },
+    {
+        "count": 28,
+        "dailyClock": "2021-11-18 21"
+    },
+    {
+        "count": 28,
+        "dailyClock": "2021-11-20 10"
+    },
+    {
+        "count": 27,
+        "dailyClock": "2021-11-22 07"
+    },
+    {
+        "count": 27,
+        "dailyClock": "2021-11-21 11"
+    },
+    {
+        "count": 27,
+        "dailyClock": "2021-11-19 19"
     },
     {
         "count": 26,
-        "dailyClock": "2021-10-26 18"
+        "dailyClock": "2021-11-20 11"
+    },
+    {
+        "count": 26,
+        "dailyClock": "2021-11-19 01"
     },
     {
         "count": 25,
-        "dailyClock": "2021-10-26 23"
+        "dailyClock": "2021-11-19 18"
     },
     {
-        "count": 25,
-        "dailyClock": "2021-10-26 05"
+        "count": 21,
+        "dailyClock": "2021-11-19 06"
     },
     {
-        "count": 23,
-        "dailyClock": "2021-10-26 22"
-    },
-    {
-        "count": 22,
-        "dailyClock": "2021-10-26 19"
-    },
-    {
-        "count": 22,
-        "dailyClock": "2021-10-26 07"
+        "count": 21,
+        "dailyClock": "2021-11-21 14"
     },
     {
         "count": 20,
-        "dailyClock": "2021-10-26 16"
+        "dailyClock": "2021-11-20 13"
     },
     {
         "count": 20,
-        "dailyClock": "2021-10-27 07"
+        "dailyClock": "2021-11-20 17"
     },
     {
-        "count": 18,
-        "dailyClock": "2021-10-26 20"
+        "count": 20,
+        "dailyClock": "2021-11-19 20"
     },
     {
-        "count": 18,
-        "dailyClock": "2021-10-26 21"
+        "count": 20,
+        "dailyClock": "2021-11-21 19"
     },
     {
-        "count": 18,
-        "dailyClock": "2021-10-26 03"
+        "count": 20,
+        "dailyClock": "2021-11-21 15"
     },
     {
-        "count": 18,
-        "dailyClock": "2021-10-27 02"
+        "count": 20,
+        "dailyClock": "2021-11-19 07"
+    },
+    {
+        "count": 19,
+        "dailyClock": "2021-11-19 21"
+    },
+    {
+        "count": 19,
+        "dailyClock": "2021-11-20 07"
+    },
+    {
+        "count": 19,
+        "dailyClock": "2021-11-20 12"
     },
     {
         "count": 17,
-        "dailyClock": "2021-10-25 21"
-    },
-    {
-        "count": 17,
-        "dailyClock": "2021-10-25 20"
+        "dailyClock": "2021-11-22 03"
     },
     {
         "count": 16,
-        "dailyClock": "2021-10-27 03"
+        "dailyClock": "2021-11-21 18"
+    },
+    {
+        "count": 16,
+        "dailyClock": "2021-11-19 23"
+    },
+    {
+        "count": 16,
+        "dailyClock": "2021-11-20 08"
+    },
+    {
+        "count": 16,
+        "dailyClock": "2021-11-21 12"
+    },
+    {
+        "count": 16,
+        "dailyClock": "2021-11-19 05"
     },
     {
         "count": 15,
-        "dailyClock": "2021-10-26 00"
+        "dailyClock": "2021-11-21 06"
+    },
+    {
+        "count": 15,
+        "dailyClock": "2021-11-21 00"
+    },
+    {
+        "count": 15,
+        "dailyClock": "2021-11-19 02"
+    },
+    {
+        "count": 15,
+        "dailyClock": "2021-11-20 15"
     },
     {
         "count": 14,
-        "dailyClock": "2021-10-27 06"
+        "dailyClock": "2021-11-20 06"
+    },
+    {
+        "count": 14,
+        "dailyClock": "2021-11-20 14"
+    },
+    {
+        "count": 14,
+        "dailyClock": "2021-11-22 06"
+    },
+    {
+        "count": 14,
+        "dailyClock": "2021-11-21 13"
     },
     {
         "count": 13,
-        "dailyClock": "2021-10-26 02"
+        "dailyClock": "2021-11-19 04"
+    },
+    {
+        "count": 13,
+        "dailyClock": "2021-11-21 16"
+    },
+    {
+        "count": 13,
+        "dailyClock": "2021-11-21 17"
     },
     {
         "count": 12,
-        "dailyClock": "2021-10-25 23"
+        "dailyClock": "2021-11-20 05"
+    },
+    {
+        "count": 12,
+        "dailyClock": "2021-11-22 05"
+    },
+    {
+        "count": 12,
+        "dailyClock": "2021-11-20 18"
+    },
+    {
+        "count": 12,
+        "dailyClock": "2021-11-20 00"
     },
     {
         "count": 11,
-        "dailyClock": "2021-10-27 05"
+        "dailyClock": "2021-11-20 22"
     },
     {
         "count": 11,
-        "dailyClock": "2021-10-26 04"
+        "dailyClock": "2021-11-21 08"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-20 23"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-20 02"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-20 04"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-20 21"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-20 20"
+    },
+    {
+        "count": 11,
+        "dailyClock": "2021-11-22 04"
     },
     {
         "count": 10,
-        "dailyClock": "2021-10-27 04"
+        "dailyClock": "2021-11-21 10"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-21 09"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-20 16"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-19 03"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-21 03"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-21 01"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-21 22"
+    },
+    {
+        "count": 10,
+        "dailyClock": "2021-11-21 20"
     },
     {
         "count": 9,
-        "dailyClock": "2021-10-25 22"
+        "dailyClock": "2021-11-22 01"
     },
     {
         "count": 9,
-        "dailyClock": "2021-10-27 00"
+        "dailyClock": "2021-11-22 02"
+    },
+    {
+        "count": 9,
+        "dailyClock": "2021-11-21 07"
+    },
+    {
+        "count": 9,
+        "dailyClock": "2021-11-21 21"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-21 23"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-21 05"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-22 00"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-19 22"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-20 01"
+    },
+    {
+        "count": 8,
+        "dailyClock": "2021-11-20 19"
     },
     {
         "count": 7,
-        "dailyClock": "2021-10-27 01"
+        "dailyClock": "2021-11-21 04"
     },
     {
-        "count": 5,
-        "dailyClock": "2021-10-26 01"
+        "count": 7,
+        "dailyClock": "2021-11-21 02"
+    },
+    {
+        "count": 6,
+        "dailyClock": "2021-11-20 03"
+    },
+    {
+        "count": 3,
+        "dailyClock": "2021-11-22 08"
     }
 ]
