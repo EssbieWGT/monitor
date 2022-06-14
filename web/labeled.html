@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <title>Twitter Topics</title>
+        <link rel="stylesheet" type="text/css" href="eb0.css">
+        <script src="https://d3js.org/d3.v4.js"></script>
+        <script>
+
+        var column_names = ["Name","Post Count","Engagement Count","D","R","I","Summary"];
+        var clicks = {topName: 0, post: 0, enga: 0, d: 0, r: 0, i:0, summary:0};
+
+        d3.queue()
+            .defer(d3.csv, 'topics.csv')
+            .defer(d3.csv, 'labeledTopics.csv')
+            .await(analyze);
+
+            function analyze(error, jData,sData) {
+              if(error) { console.log(error); }
+
+              //set cateogry heads
+              categoryData = []
+              const categories = [...new Set(jData.map(article => "c"+article['superBERT']))]
+
+              sortedData = jData.sort(function(a,b) {
+                return new Date(b.firstSeen).toLocaleString() - new Date(a.firstSeen).toLocaleString();
+              });
+
+              var myArray = [];
+              sData.forEach(function(data,index){
+                    // Add a new array with the values of each:
+                    // myArray.push([data.topName, data.postCount.toLocaleString(), data.topEnga.toLocaleString()]);
+                    myArray.push([data.topName, d3.format(",")(data.postCount), d3.format(",")(data.topEnga),d3.format(",")(data.D),d3.format(",")(data.R),d3.format(",")(data.I), data.summary]);
+                });
+
+              var arrayNames = [];
+              sData.forEach(function(data,index){
+                data2 = data.labels.trim()
+                arrayNames.push(data2)
+                console.log(data.labels)
+              })
+
+              let topNames = [...new Set(arrayNames)]
+              let q = "q"
+
+              console.log(topNames)
+
+              //creating the topic names
+              d3.select("#topicName").selectAll("#topicName")
+                .data(topNames)
+                .enter()
+                .append("div")
+                .html(function(d){return "</br><h1 id="+ d + ">" + d.replace(/['']+/g, '').toUpperCase() + "</h1></br>"})
+                .append("div")
+                .attr("class", "grid-container-set")
+                .attr("id", function(r){return q.concat(r.trim().replace(/['']+/g, ''))})
+
+//creating the sticky head for the sub topics
+
+              sData.forEach(function(data,index){
+
+                var D = d3.format(",")(data.D)
+                var R = d3.format(",")(data.R)
+                var I = d3.format(",")(data.I)
+
+                var selector = "#q"+data.labels.trim().replace(/['']+/g, '')
+
+                d3.select(selector)
+                  .append("div")
+                  .attr("class","innerGrid")
+                  .each(function(d){
+                    d3.select(this)
+                    .attr("id", data.topic)
+                    .html("<div class='sticky'><h3>" + data.topName + "</h3><p style='font-weight:normal;'> Posts: " + d3.format(",")(data.postCount) + " | Engagements: " + d3.format(",")(data.topEnga) + "</br>" + "D: " + D + " | R: " + R + " | I: " + I + "</br><p> Topic: " + data['labels'].toString() + "</br><p> Summary: " + data.summary + "</p></div></br>");
+                  })
+              });
+
+                sortedData.forEach(function(data){
+                  selector = "#c"+data.superBERT.replace(/\s+/g, "")
+
+                d3.selectAll(selector)
+                .append("table")
+                .style("width","85%")
+                .style("text-align","left")
+                .append("tr")
+                .style("border-bottom","1px solid #ddd")
+                .each(function(d){
+                  d3.select(this)
+                  // .append("tr")
+                  .append("td")
+                  .style('line-height',"1")
+                  // .style("width","800")
+                  .style("padding","15px")
+                  .html('<td><img src="'+ data.photos + '" width="80%"><br><small class="text_muted">' + data.chamber + '<br><a href="https://twitter.com/' + data.handle + '"target="_blank">' + data.name + '</a> | ' + new Date(data.date).toLocaleString() + '| <a href="' + data.url + '"target="_blank">' + 'Link  </a><br> State: ' + data.state + ' | Party: ' + data.party + '<br></small></br><p style="font-weight:normal;">' + data.content + '</p><small class="text_muted">' + "Liked: " + data.likeCount +" | Quoted: " + data.quoteCount + ' | Replies: ' + data.replyCount + ' | ReTweets: ' + data.retweetCount + '</small><br><hr>' );
+                  // d3.select(this)
+                  // .append("td")
+                  // .style("width","20%")
+                  // .html('<img src="'+ data.photos + '" width="150"><td>');
+                  })
+            })
+          }
+        </script>
+    </head>
+    <body>
+        <!-- <button onclick="getTime()">Click to get time</button> -->
+        <div class="containerwgt" style="width:90%">
+          <h2> Social Media Topic Modeling</h2>
+            <!-- <div> Note: Topics are sorted by total topic engagement. A visual represetnation of how the topics are modled is available <a href="./sttmChart.html" target="_blank">here</a> -->
+            <div id="topicName"></div>
+    </body>
+<html>
