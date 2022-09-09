@@ -9,6 +9,13 @@
   text-align: center;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 th, td {
   border-bottom: 1px solid #ddd;
   padding: 15px;
@@ -40,6 +47,13 @@ div.sticky {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container-set {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
   grid-gap: 10px;
   padding: 10px;
 }
