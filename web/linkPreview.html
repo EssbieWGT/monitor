@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tricare Link Previews</title>
+    <style>
+        .preview-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: 80%; /
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 10px;
+            margin-left: 10%; /* 10% left padding */
+            margin-right: 10%; /* 10% right padding */
+        }
+        .preview-image {
+            max-height: 150px;
+            object-fit: contain;
+        }
+    </style>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+        <script src="https://d3js.org/d3.v4.js"></script>
+</head>
+<body>
+    <p id="localDate">Converting...</p>
+    <div id="previewContainer"></div>
+
+    <script>
+
+// convert dates to local string
+function convertToLocalDate(isoString) {
+  const date = new Date(isoString);
+  return date.toLocaleString(); // Uses the user's locale
+}
+
+//get the iso to local string, too 
+function convertOtherDate(timestampStr) {
+        try {
+            const isoString = timestampStr.replace(' ', 'T').split('.')[0];
+            const date = new Date(isoString);
+            if (isNaN(date)) {
+                throw new Error("Invalid date");
+            }
+            return date.toLocaleString();
+        } catch (error) {
+            console.error("Error converting date:", error);
+            return "Invalid Date";
+        }
+    }
+
+d3.queue()
+  .defer(d3.csv, 'tricare.csv')
+  .await(analyze);
+
+  function analyze(error, article) {
+    if(error) { console.log(error); }
+
+    article.forEach(d => {
+        d.publishedSort = new Date(d.published)
+    })
+
+    article.sort((a,b) => b.publishedSort - a.publishedSort)
+    
+    maxDay = d3.max(article, function(d) { return d.firstEyes})
+    maxDay = convertOtherDate(maxDay)
+    console.log(maxDay)
+    localDate.innerHTML = "Current as of: " + maxDay
+
+
+    article.forEach(data => {
+                        dateLocal = convertToLocalDate(data.published)
+                        const previewCard = `
+                            <div class="preview-card">
+                                <p><b>${data.siteName}</b></p>
+                                <h3><a href="${data.url}" target="_blank">${data.title}</a></h3>
+                                <p>${data.description}</p>
+                                <p>Published: ${dateLocal}</p>
+                            </div>
+                        `;
+                        previewContainer.innerHTML += previewCard;
+                    });
+        }
+    </script>
+</body>
+</html>
